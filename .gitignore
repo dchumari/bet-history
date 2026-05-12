@@ -16,8 +16,6 @@ ENV/
 requirements.txt.bak
 
 # Data files (if they contain runtime data)
-data/*.csv
-data/*.json
 
 # Logs
 *.log
