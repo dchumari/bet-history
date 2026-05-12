@@ -1,0 +1,33 @@
+```
+# Dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+.env
+.env.local
+.env.*
+.env~*
+requirements.txt.bak
+
+# Data files (if they contain runtime data)
+data/*.csv
+data/*.json
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+```
