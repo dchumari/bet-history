@@ -1,27 +1,23 @@
 match,prediction,odds,status,date,hash
-Huesca – Sociedad B,1,1.86,Lost,2026-05-12,6e1099851427f617b8aad866afc1b369
-Tottenham – Leeds,1,1.8,Lost,2026-05-12,0accef1f8246f93a943541eb9c62c87a
-Guimaraes – Casa Pia,1,1.66,Lost,2026-05-12,99d411515e2932f8163edaa67fe6ce30
-Napoli – Bologna,1,1.53,Lost,2026-05-12,62214ad57a5eb53393e36ffeef2484ab
-Benfica – Braga,1,1.39,Lost,2026-05-12,1947f9574126c259f6119b3972383d3b
-Cremonese – Pisa,1,1.7,Won,2026-05-12,8f9ed95454bffec659d9ea88d24ccda6
-Barcelona – Real Madrid,1,1.61,Won,2026-05-12,136ad1906e330af2ccecb640906502e6
-West Ham – Arsenal,2,1.55,Won,2026-05-12,c69d21f2098b5c240408e6d5cd5b57bc
-Rennes – Paris FC,1,1.55,Won,2026-05-12,9d55ba893344f276fb250a70a667b738
-Parma – Roma,2,1.5,Won,2026-05-12,527a42f2607eb5bc4f459ca83343e3d3
-Man City – Brentford,1,1.33,Won,2026-05-12,845c729ed555634ce18a81b53c04360f
-Brighton – Wolves,1,1.25,Won,2026-05-12,6f08f66a8f28063ccb0b25a4d32d1ba1
-Betis – Elche,1,1.6,Won,2026-05-13,15880b4ab3afb35c2170d5d3e20644f8
-Southampton – Middlesbrough,Both To Score,1.57,Won,2026-05-13,d25ff52d4428e658f06eb54183fb8ead
-Luzern – Zurich,1,1.46,Won,2026-05-13,78aaa4633c0d993f58361f6d28db9f24
-Liepajas – Ogre Utd,1,1.3,Won,2026-05-13,9d2e2f9109bf69ba195bdd6690972aeb
-Osasuna – Atletico Madrid,1X,1.4,Lost,2026-05-13,8bc7c9ba702943d7b974a86aff15be23
-Motherwell – Celtic,2,1.62,Won,2026-05-14,05f650d240e514bf0df7ed25966273aa
-Man City – Crystal Palace,1,1.2,Won,2026-05-14,a18cb257aec95c41b3f24eb5ca5fcc73
-Alaves – Barcelona,2,2.1,Lost,2026-05-14,a5b9d7689cef5323e321f625a0b29e91
-Villarreal – Sevilla,1,2.05,Lost,2026-05-14,c09bfb27f9708e9bf6c72acb212450f1
-PAOK – AEK Athens,1,1.62,Lost,2026-05-14,9fc33d8d7f872dbf70af37d53847efb6
-Betis – Elche,1,1.6,Won,2026-05-14,1a4474708281ead7e77c74871f3f5229
-Southampton – Middlesbrough,Both To Score,1.57,Won,2026-05-14,3cd414150cdd5610cc0ed2946e7bb085
-Luzern – Zurich,1,1.46,Won,2026-05-14,b4dbdfaec1e1ee1942f42136244f69d8
-Liepajas – Ogre Utd,1,1.3,Won,2026-05-14,026cc18fd098e1be5946ea025c68d000
+Huesca – Sociedad B,1,1.86,Lost,2026-05-12,cdd61e7a2a8dbcc606aaab716c6e705b
+Tottenham – Leeds,1,1.8,Lost,2026-05-12,90a332f7546211bc9206c15d4fccc795
+Guimaraes – Casa Pia,1,1.66,Lost,2026-05-12,6d7bc074c0cd240cb04f187e452ca844
+Napoli – Bologna,1,1.53,Lost,2026-05-12,d1b50d699da00c7d21cbf178a0ac623e
+Benfica – Braga,1,1.39,Lost,2026-05-12,f24a9edce2f8b0b5e6a8b489d302c9a7
+Cremonese – Pisa,1,1.7,Won,2026-05-12,e56fc2c0088aa65431e317da1e06a393
+Barcelona – Real Madrid,1,1.61,Won,2026-05-12,07c172d1203c2b329fb5ed4a4174b944
+West Ham – Arsenal,2,1.55,Won,2026-05-12,41bda3fb62bfc445d088d698797eae8a
+Rennes – Paris FC,1,1.55,Won,2026-05-12,2e999864c707ff9b0c4117dd1e5d7b67
+Parma – Roma,2,1.5,Won,2026-05-12,c6a90082e0d33c08be1b170d2b06ccdd
+Man City – Brentford,1,1.33,Won,2026-05-12,77c6c435317e68f5c4477401076a6975
+Brighton – Wolves,1,1.25,Won,2026-05-12,bd0fa6beccda01a9f7d99b62ed9b9f7b
+Betis – Elche,1,1.6,Won,2026-05-13,ad6a95fe0ae920ec7ed8c681e2d2c76f
+Southampton – Middlesbrough,Both To Score,1.57,Won,2026-05-13,eea230f5291d5e396a67a6054b0f9e20
+Luzern – Zurich,1,1.46,Won,2026-05-13,4caf814892c36fe3fa707c62485ab4c6
+Liepajas – Ogre Utd,1,1.3,Won,2026-05-13,38856367e417dff8ad53abb1d3ffbbd9
+Osasuna – Atletico Madrid,1X,1.4,Lost,2026-05-13,ccb4ae743ffac5daba8225bdcfdf71d7
+Motherwell – Celtic,2,1.62,Won,2026-05-14,4acb5395ae6b077d2e39b9c37edcd289
+Man City – Crystal Palace,1,1.2,Won,2026-05-14,4d806ed2a0502137f1a01e3fa669b7ba
+Alaves – Barcelona,2,2.1,Lost,2026-05-14,797bd5635d981c632444f2bad261bf4c
+Villarreal – Sevilla,1,2.05,Lost,2026-05-14,926082deb224c8f6cf775105c3fb8f73
+PAOK – AEK Athens,1,1.62,Lost,2026-05-14,b688e250c875a389c0adffbb1821a283

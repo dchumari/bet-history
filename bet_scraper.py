@@ -10,7 +10,7 @@ import csv
 import json
 import hashlib
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 import requests
@@ -32,14 +32,14 @@ HEADERS = {
 }
 
 
-def generate_hash(match: str, odds: str, result: str, date: str) -> str:
-    """Generate a unique hash for a bet based on match, odds, result, and date."""
-    data = f"{match}|{odds}|{result}|{date}"
+def generate_hash(match: str, odds: str, result: str) -> str:
+    """Generate a unique hash for a bet based on match, odds, and result (excluding date)."""
+    data = f"{match}|{odds}|{result}"
     return hashlib.md5(data.encode("utf-8")).hexdigest()
 
 
 def load_existing_data():
-    """Load existing data from CSV and JSON files."""
+    """Load existing data from CSV and JSON files and regenerate hashes using new logic."""
     existing_hashes = set()
     existing_records = []
 
@@ -48,9 +48,11 @@ def load_existing_data():
         with open(CSV_FILE, "r", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
+                # Regenerate hash using new logic (without date)
+                new_hash = generate_hash(row["match"], row["odds"], row["status"])
+                row["hash"] = new_hash
                 existing_records.append(row)
-                if "hash" in row:
-                    existing_hashes.add(row["hash"])
+                existing_hashes.add(new_hash)
 
     # Load from JSON if it exists (for consistency)
     if JSON_FILE.exists():
@@ -59,13 +61,43 @@ def load_existing_data():
                 json_data = json.load(f)
                 if isinstance(json_data, list):
                     for record in json_data:
-                        if "hash" in record and record["hash"] not in existing_hashes:
+                        # Regenerate hash using new logic (without date)
+                        new_hash = generate_hash(record["match"], str(record["odds"]), record["status"])
+                        record["hash"] = new_hash
+                        if new_hash not in existing_hashes:
                             existing_records.append(record)
-                            existing_hashes.add(record["hash"])
+                            existing_hashes.add(new_hash)
         except json.JSONDecodeError:
             pass  # Ignore invalid JSON
 
     return existing_hashes, existing_records
+
+
+def deduplicate_existing_data():
+    """Remove duplicates from existing data files based on match + prediction + odds + status."""
+    existing_hashes, existing_records = load_existing_data()
+    
+    # Group records by hash (match + prediction + odds + status)
+    unique_records = {}
+    for record in existing_records:
+        hash_val = record["hash"]
+        if hash_val not in unique_records:
+            unique_records[hash_val] = record
+        else:
+            # Keep the record with the earliest date
+            existing_date = unique_records[hash_val]["date"]
+            new_date = record["date"]
+            if new_date < existing_date:
+                unique_records[hash_val] = record
+    
+    deduplicated_records = list(unique_records.values())
+    print(f"Deduplicated: {len(existing_records)} -> {len(deduplicated_records)} records")
+    
+    # Save deduplicated data
+    if deduplicated_records:
+        save_data(deduplicated_records)
+    
+    return deduplicated_records
 
 
 def save_data(records: list):
@@ -168,17 +200,18 @@ def scrape_finished_bets():
                 if not match_name or not prediction:
                     continue
 
-                # Create unique hash
-                today = datetime.now().strftime("%Y-%m-%d")
-                hash_string = f"{match_name}|{prediction}|{odds}|{status}|{today}"
-                unique_hash = hashlib.md5(hash_string.encode()).hexdigest()
+                # Create unique hash (without date to prevent duplicates across days)
+                unique_hash = generate_hash(match_name, str(odds), status)
+                
+                # Use yesterday's date for the date field (games were played yesterday)
+                yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
 
                 bet_entry = {
                     "match": match_name,
                     "prediction": prediction,
                     "odds": odds,
                     "status": status,
-                    "date": today,
+                    "date": yesterday,
                     "hash": unique_hash
                 }
                 bets.append(bet_entry)
@@ -240,4 +273,16 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    
+    # Check if deduplication flag is passed
+    if len(sys.argv) > 1 and sys.argv[1] == "--deduplicate":
+        print("=" * 50)
+        print("Deduplicating existing data")
+        print("=" * 50)
+        deduplicate_existing_data()
+        print("=" * 50)
+        print("Deduplication complete")
+        print("=" * 50)
+    else:
+        main()
