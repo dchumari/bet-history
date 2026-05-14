@@ -98,7 +98,7 @@
   {
     "match": "Betis – Elche",
     "prediction": "1",
-    "odds": 1.6,
+    "odds": "1.6",
     "status": "Won",
     "date": "2026-05-13",
     "hash": "15880b4ab3afb35c2170d5d3e20644f8"
@@ -106,7 +106,7 @@
   {
     "match": "Southampton – Middlesbrough",
     "prediction": "Both To Score",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Won",
     "date": "2026-05-13",
     "hash": "d25ff52d4428e658f06eb54183fb8ead"
@@ -114,7 +114,7 @@
   {
     "match": "Luzern – Zurich",
     "prediction": "1",
-    "odds": 1.46,
+    "odds": "1.46",
     "status": "Won",
     "date": "2026-05-13",
     "hash": "78aaa4633c0d993f58361f6d28db9f24"
@@ -122,7 +122,7 @@
   {
     "match": "Liepajas – Ogre Utd",
     "prediction": "1",
-    "odds": 1.3,
+    "odds": "1.3",
     "status": "Won",
     "date": "2026-05-13",
     "hash": "9d2e2f9109bf69ba195bdd6690972aeb"
@@ -130,9 +130,81 @@
   {
     "match": "Osasuna – Atletico Madrid",
     "prediction": "1X",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Lost",
     "date": "2026-05-13",
     "hash": "8bc7c9ba702943d7b974a86aff15be23"
+  },
+  {
+    "match": "Motherwell – Celtic",
+    "prediction": "2",
+    "odds": 1.62,
+    "status": "Won",
+    "date": "2026-05-14",
+    "hash": "05f650d240e514bf0df7ed25966273aa"
+  },
+  {
+    "match": "Man City – Crystal Palace",
+    "prediction": "1",
+    "odds": 1.2,
+    "status": "Won",
+    "date": "2026-05-14",
+    "hash": "a18cb257aec95c41b3f24eb5ca5fcc73"
+  },
+  {
+    "match": "Alaves – Barcelona",
+    "prediction": "2",
+    "odds": 2.1,
+    "status": "Lost",
+    "date": "2026-05-14",
+    "hash": "a5b9d7689cef5323e321f625a0b29e91"
+  },
+  {
+    "match": "Villarreal – Sevilla",
+    "prediction": "1",
+    "odds": 2.05,
+    "status": "Lost",
+    "date": "2026-05-14",
+    "hash": "c09bfb27f9708e9bf6c72acb212450f1"
+  },
+  {
+    "match": "PAOK – AEK Athens",
+    "prediction": "1",
+    "odds": 1.62,
+    "status": "Lost",
+    "date": "2026-05-14",
+    "hash": "9fc33d8d7f872dbf70af37d53847efb6"
+  },
+  {
+    "match": "Betis – Elche",
+    "prediction": "1",
+    "odds": 1.6,
+    "status": "Won",
+    "date": "2026-05-14",
+    "hash": "1a4474708281ead7e77c74871f3f5229"
+  },
+  {
+    "match": "Southampton – Middlesbrough",
+    "prediction": "Both To Score",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-05-14",
+    "hash": "3cd414150cdd5610cc0ed2946e7bb085"
+  },
+  {
+    "match": "Luzern – Zurich",
+    "prediction": "1",
+    "odds": 1.46,
+    "status": "Won",
+    "date": "2026-05-14",
+    "hash": "b4dbdfaec1e1ee1942f42136244f69d8"
+  },
+  {
+    "match": "Liepajas – Ogre Utd",
+    "prediction": "1",
+    "odds": 1.3,
+    "status": "Won",
+    "date": "2026-05-14",
+    "hash": "026cc18fd098e1be5946ea025c68d000"
   }
 ]
