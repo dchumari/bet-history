@@ -174,5 +174,45 @@
     "status": "Lost",
     "date": "2026-05-14",
     "hash": "b688e250c875a389c0adffbb1821a283"
+  },
+  {
+    "match": "Kudrivka – Rukh",
+    "prediction": "1",
+    "odds": 2.0,
+    "status": "Won",
+    "date": "2026-05-14",
+    "hash": "e10ede987e2a5b821772e37f6ab04b98"
+  },
+  {
+    "match": "Bradford – Bolton",
+    "prediction": "Under 3.5 goals",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-05-14",
+    "hash": "842ac2e3db1897546b8337d5d7575584"
+  },
+  {
+    "match": "Real Madrid – Oviedo",
+    "prediction": "1",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-05-14",
+    "hash": "cd56bb86d1be16b69b6c32fc6658e570"
+  },
+  {
+    "match": "Valencia – Rayo Vallecano",
+    "prediction": "1X",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-05-14",
+    "hash": "2f4bc9ec75f215765049eb9a08f12b93"
+  },
+  {
+    "match": "Girona – Real Sociedad",
+    "prediction": "1",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-05-14",
+    "hash": "064923140331a496309c937e91de5d54"
   }
 ]
