@@ -218,7 +218,7 @@
   {
     "match": "Bohemians – Drogheda",
     "prediction": "1",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Won",
     "date": "2026-05-15",
     "hash": "c73d64e6e45908b7fe3ed570320a4b9a"
@@ -226,7 +226,7 @@
   {
     "match": "Aston Villa – Liverpool",
     "prediction": "Both To Score",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-05-15",
     "hash": "04404e00e7a3c1c9a7e9927cf76aaf12"
@@ -234,7 +234,7 @@
   {
     "match": "Bari – Sudtirol",
     "prediction": "1X",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-05-15",
     "hash": "64d99aa1c2e1e3a6075be8c0402f8531"
@@ -242,7 +242,7 @@
   {
     "match": "Adelaide – Auckland",
     "prediction": "1X",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Lost",
     "date": "2026-05-15",
     "hash": "0a3291754c853b21da0263f9897cad90"
@@ -250,7 +250,7 @@
   {
     "match": "Castellon – Cadiz",
     "prediction": "1",
-    "odds": 1.3,
+    "odds": "1.3",
     "status": "Lost",
     "date": "2026-05-15",
     "hash": "023c6cf32a2036a4c1c51af9fbfc7261"
