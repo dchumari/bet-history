@@ -254,5 +254,45 @@
     "status": "Lost",
     "date": "2026-05-15",
     "hash": "023c6cf32a2036a4c1c51af9fbfc7261"
+  },
+  {
+    "match": "Chelsea – Man City",
+    "prediction": "2",
+    "odds": 1.66,
+    "status": "Won",
+    "date": "2026-05-16",
+    "hash": "7f3c2e778aa7776bd851974f0d2a22b0"
+  },
+  {
+    "match": "Mgladbach – Hoffenheim",
+    "prediction": "2",
+    "odds": 1.65,
+    "status": "Won",
+    "date": "2026-05-16",
+    "hash": "94ebd1e682002164c50503ba54fef757"
+  },
+  {
+    "match": "Freiburg – Leipzig",
+    "prediction": "Both To Score",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-05-16",
+    "hash": "04fe4cc829cb1ad8bf95aae2f2529928"
+  },
+  {
+    "match": "Heidenheim – Mainz",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Lost",
+    "date": "2026-05-16",
+    "hash": "1200e7acdc2532801c3ac81449757d14"
+  },
+  {
+    "match": "Frankfurt – Stuttgart",
+    "prediction": "2",
+    "odds": 1.85,
+    "status": "Lost",
+    "date": "2026-05-16",
+    "hash": "7455cbf8a80f47cd08ae9180fb5f9ea1"
   }
 ]
