@@ -2,8 +2,8 @@ name: Daily Bet Scraper
 
 on:
   schedule:
-    # Runs daily at 11:59 AM Kenyan time (08:59 UTC)
-    - cron: '59 8 * * *'
+    # Runs daily at 10:00 AM Nairobi time (07:00 UTC)
+    - cron: '0 7 * * *'
   workflow_dispatch:
     # Allows manual triggering
 
