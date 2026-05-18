@@ -258,7 +258,7 @@
   {
     "match": "Chelsea – Man City",
     "prediction": "2",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Won",
     "date": "2026-05-16",
     "hash": "7f3c2e778aa7776bd851974f0d2a22b0"
@@ -266,7 +266,7 @@
   {
     "match": "Mgladbach – Hoffenheim",
     "prediction": "2",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Won",
     "date": "2026-05-16",
     "hash": "94ebd1e682002164c50503ba54fef757"
@@ -274,7 +274,7 @@
   {
     "match": "Freiburg – Leipzig",
     "prediction": "Both To Score",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-05-16",
     "hash": "04fe4cc829cb1ad8bf95aae2f2529928"
@@ -282,7 +282,7 @@
   {
     "match": "Heidenheim – Mainz",
     "prediction": "1",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Lost",
     "date": "2026-05-16",
     "hash": "1200e7acdc2532801c3ac81449757d14"
@@ -290,9 +290,49 @@
   {
     "match": "Frankfurt – Stuttgart",
     "prediction": "2",
-    "odds": 1.85,
+    "odds": "1.85",
     "status": "Lost",
     "date": "2026-05-16",
     "hash": "7455cbf8a80f47cd08ae9180fb5f9ea1"
+  },
+  {
+    "match": "Oviedo – Alaves",
+    "prediction": "2",
+    "odds": 2.0,
+    "status": "Won",
+    "date": "2026-05-17",
+    "hash": "86cc346094721a05418aaba2d76a150e"
+  },
+  {
+    "match": "Roma – Lazio",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-05-17",
+    "hash": "293cfdcec26f8b4a6265b2a6fd43a02d"
+  },
+  {
+    "match": "Barcelona – Betis",
+    "prediction": "1",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-05-17",
+    "hash": "ae15dc434d6c45fed470fbf0b4019f38"
+  },
+  {
+    "match": "Como – Parma",
+    "prediction": "1",
+    "odds": 1.27,
+    "status": "Won",
+    "date": "2026-05-17",
+    "hash": "cff640f8cf346834394bfe994463bc05"
+  },
+  {
+    "match": "Lyon – Lens",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Lost",
+    "date": "2026-05-17",
+    "hash": "fb69814866bae0761975e11ec458b456"
   }
 ]
