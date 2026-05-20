@@ -338,7 +338,7 @@
   {
     "match": "Montana – Spartak",
     "prediction": "2",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-05-18",
     "hash": "5cecf797da716f93bcb6092fc718e228"
@@ -346,7 +346,7 @@
   {
     "match": "Arsenal – Burnley",
     "prediction": "1",
-    "odds": 1.09,
+    "odds": "1.09",
     "status": "Won",
     "date": "2026-05-18",
     "hash": "6b9368b53db881ff88bddfa0f3c3a53b"
@@ -354,7 +354,7 @@
   {
     "match": "Leganes – Huesca",
     "prediction": "1",
-    "odds": 1.86,
+    "odds": "1.86",
     "status": "Lost",
     "date": "2026-05-18",
     "hash": "984ee6621dc2d43b2962616bbd17b449"
@@ -362,7 +362,7 @@
   {
     "match": "Petrolul – Otelul Galati",
     "prediction": "1",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Lost",
     "date": "2026-05-18",
     "hash": "1baa13b82a7df6467b9e39a3827b47d5"
@@ -370,9 +370,49 @@
   {
     "match": "Defensores – Chaco For Ever",
     "prediction": "1",
-    "odds": 1.79,
+    "odds": "1.79",
     "status": "Lost",
     "date": "2026-05-18",
     "hash": "c90c10b3a70b29abd068bac51805226a"
+  },
+  {
+    "match": "Monza – Juve Stabia",
+    "prediction": "1",
+    "odds": 1.68,
+    "status": "Won",
+    "date": "2026-05-19",
+    "hash": "580bc208d69c58f0193b372d3a087390"
+  },
+  {
+    "match": "Chelsea – Tottenham",
+    "prediction": "1X",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-05-19",
+    "hash": "f4d5d864024e2c000cb27bd29ca7c9cf"
+  },
+  {
+    "match": "Charleroi – Leuven",
+    "prediction": "1",
+    "odds": 1.72,
+    "status": "Lost",
+    "date": "2026-05-19",
+    "hash": "916866ecaeb5561312b887be5ca42fe9"
+  },
+  {
+    "match": "Bournemouth – Man City",
+    "prediction": "2",
+    "odds": 1.65,
+    "status": "Lost",
+    "date": "2026-05-19",
+    "hash": "6f3b1da41fe25011ba08d1620f890c3c"
+  },
+  {
+    "match": "Genk – Antwerp",
+    "prediction": "1",
+    "odds": 1.57,
+    "status": "Lost",
+    "date": "2026-05-19",
+    "hash": "2a99dc411094e0483e94758796ea37c6"
   }
 ]
