@@ -378,7 +378,7 @@
   {
     "match": "Monza – Juve Stabia",
     "prediction": "1",
-    "odds": 1.68,
+    "odds": "1.68",
     "status": "Won",
     "date": "2026-05-19",
     "hash": "580bc208d69c58f0193b372d3a087390"
@@ -386,7 +386,7 @@
   {
     "match": "Chelsea – Tottenham",
     "prediction": "1X",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-05-19",
     "hash": "f4d5d864024e2c000cb27bd29ca7c9cf"
@@ -394,7 +394,7 @@
   {
     "match": "Charleroi – Leuven",
     "prediction": "1",
-    "odds": 1.72,
+    "odds": "1.72",
     "status": "Lost",
     "date": "2026-05-19",
     "hash": "916866ecaeb5561312b887be5ca42fe9"
@@ -402,7 +402,7 @@
   {
     "match": "Bournemouth – Man City",
     "prediction": "2",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Lost",
     "date": "2026-05-19",
     "hash": "6f3b1da41fe25011ba08d1620f890c3c"
@@ -410,9 +410,49 @@
   {
     "match": "Genk – Antwerp",
     "prediction": "1",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Lost",
     "date": "2026-05-19",
     "hash": "2a99dc411094e0483e94758796ea37c6"
+  },
+  {
+    "match": "Olimpia – Vasco Da Gama",
+    "prediction": "1",
+    "odds": 1.95,
+    "status": "Won",
+    "date": "2026-05-20",
+    "hash": "fcd99472052a4296432802d676cd30dd"
+  },
+  {
+    "match": "LDU – Lanus",
+    "prediction": "1",
+    "odds": 1.85,
+    "status": "Won",
+    "date": "2026-05-20",
+    "hash": "9ad66ea9d0d18e938db437119d652ee1"
+  },
+  {
+    "match": "Palermo – Catanzaro",
+    "prediction": "1",
+    "odds": 1.71,
+    "status": "Won",
+    "date": "2026-05-20",
+    "hash": "ab1b1155dcd5deaba05726aba3b56db4"
+  },
+  {
+    "match": "Freiburg – Aston Villa",
+    "prediction": "2",
+    "odds": 1.66,
+    "status": "Won",
+    "date": "2026-05-20",
+    "hash": "ec270bb80cc8ca899178068dc49550e9"
+  },
+  {
+    "match": "Aalesunds – Brann",
+    "prediction": "2",
+    "odds": 1.85,
+    "status": "Lost",
+    "date": "2026-05-20",
+    "hash": "58ad5166659c4a8d445f2e8e58752baa"
   }
 ]
