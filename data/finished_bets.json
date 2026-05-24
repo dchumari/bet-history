@@ -498,7 +498,7 @@
   {
     "match": "Sudtirol – Bari",
     "prediction": "X",
-    "odds": 3.2,
+    "odds": "3.2",
     "status": "Won",
     "date": "2026-05-22",
     "hash": "6faec5d30f20fb9d712936e5a1f4697f"
@@ -506,7 +506,7 @@
   {
     "match": "Auda – Liepajas",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Won",
     "date": "2026-05-22",
     "hash": "18644e81689ce26dc1934546961c0b47"
@@ -514,7 +514,7 @@
   {
     "match": "Fiorentina – Atalanta",
     "prediction": "Both To Score",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Won",
     "date": "2026-05-22",
     "hash": "c756c3b59015f7c53e86efc12753a0fc"
@@ -522,7 +522,7 @@
   {
     "match": "Lens – Nice",
     "prediction": "1",
-    "odds": 1.48,
+    "odds": "1.48",
     "status": "Won",
     "date": "2026-05-22",
     "hash": "b42ffa4604cef745fb7f834dc0585853"
@@ -530,9 +530,49 @@
   {
     "match": "Botev Vratsa – Beroe",
     "prediction": "2",
-    "odds": 2.62,
+    "odds": "2.62",
     "status": "Lost",
     "date": "2026-05-22",
     "hash": "4ba61c02caf644a56dd8b958f39a1ac7"
+  },
+  {
+    "match": "Betis – Levante",
+    "prediction": "1",
+    "odds": 2.3,
+    "status": "Won",
+    "date": "2026-05-23",
+    "hash": "cc53a2c62d50bd27e5a56de17cb42d3b"
+  },
+  {
+    "match": "Celta Vigo – Sevilla",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Won",
+    "date": "2026-05-23",
+    "hash": "d5eb285c5df525c561afc8d184390fac"
+  },
+  {
+    "match": "Mallorca – Oviedo",
+    "prediction": "1",
+    "odds": 1.44,
+    "status": "Won",
+    "date": "2026-05-23",
+    "hash": "52268986ea15bfe017ad275ad108498a"
+  },
+  {
+    "match": "Getafe – Osasuna",
+    "prediction": "1X",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-05-23",
+    "hash": "c8063cb447079a39e79022e7d458465e"
+  },
+  {
+    "match": "Girona – Elche",
+    "prediction": "1",
+    "odds": 1.75,
+    "status": "Lost",
+    "date": "2026-05-23",
+    "hash": "f44b5c8bb02055e01f9e66901b2b9e57"
   }
 ]
