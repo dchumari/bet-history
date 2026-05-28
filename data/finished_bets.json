@@ -618,7 +618,7 @@
   {
     "match": "Lanus – Mirassol",
     "prediction": "1",
-    "odds": 1.85,
+    "odds": "1.85",
     "status": "Won",
     "date": "2026-05-26",
     "hash": "78a00cfc6bfdcd0d77b26ecc03fc3307"
@@ -626,7 +626,7 @@
   {
     "match": "Nacional – Coquimbo",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Won",
     "date": "2026-05-26",
     "hash": "1161996b8895fb4040dc2af972e5eddd"
@@ -634,7 +634,7 @@
   {
     "match": "Nigeria – Zimbabwe",
     "prediction": "1",
-    "odds": 1.55,
+    "odds": "1.55",
     "status": "Won",
     "date": "2026-05-26",
     "hash": "15340e8875e2bbeadcebab0837936de1"
@@ -642,7 +642,7 @@
   {
     "match": "Stjarnan – Vikingur",
     "prediction": "Both To Score",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-05-26",
     "hash": "61f7f7767a9949ef9a727feeb4e21c52"
@@ -650,7 +650,7 @@
   {
     "match": "St Etienne – Nice",
     "prediction": "1X",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-05-26",
     "hash": "64e562df6c1bc9316f8cf152455808e4"
@@ -658,7 +658,7 @@
   {
     "match": "St Mirren – Partick",
     "prediction": "1",
-    "odds": 1.71,
+    "odds": "1.71",
     "status": "Won",
     "date": "2026-05-26",
     "hash": "23442362d6b95e12d9efe824118323da"
@@ -666,7 +666,7 @@
   {
     "match": "Notts County – Salford",
     "prediction": "X",
-    "odds": 3.0,
+    "odds": "3.0",
     "status": "Lost",
     "date": "2026-05-26",
     "hash": "2eeabd79f8a0f7fbdf7089255df6314d"
@@ -674,7 +674,7 @@
   {
     "match": "Goteborg – Mjallby",
     "prediction": "1",
-    "odds": 2.75,
+    "odds": "2.75",
     "status": "Lost",
     "date": "2026-05-26",
     "hash": "c53441f6e6384386a20dd5be4e1ee2e7"
@@ -682,7 +682,7 @@
   {
     "match": "Paderborn – Wolfsburg",
     "prediction": "2",
-    "odds": 2.15,
+    "odds": "2.15",
     "status": "Lost",
     "date": "2026-05-26",
     "hash": "76b1f894e1ba92d349c3e497e602acd2"
@@ -690,9 +690,49 @@
   {
     "match": "Lyngby – Horsens",
     "prediction": "1",
-    "odds": 2.1,
+    "odds": "2.1",
     "status": "Lost",
     "date": "2026-05-26",
     "hash": "72ba1964566dfc09c591303356f853cc"
+  },
+  {
+    "match": "Bolivar – Rivadavia",
+    "prediction": "2",
+    "odds": 2.75,
+    "status": "Won",
+    "date": "2026-05-27",
+    "hash": "7a9d1cc7a778c805c62f877f0d413885"
+  },
+  {
+    "match": "Crystal Palace – Rayo",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Won",
+    "date": "2026-05-27",
+    "hash": "eb5979a765ed46d5e550bfe7b248cc3b"
+  },
+  {
+    "match": "Ilves – TPS",
+    "prediction": "1",
+    "odds": 1.66,
+    "status": "Won",
+    "date": "2026-05-27",
+    "hash": "efc7afbc0f0c293c36f25ea5ce33d0d1"
+  },
+  {
+    "match": "Brescia – Salernitana",
+    "prediction": "1X",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-05-27",
+    "hash": "0492030f51902c93a3c304c4e4936985"
+  },
+  {
+    "match": "Corinthians – Platense",
+    "prediction": "1",
+    "odds": 1.72,
+    "status": "Lost",
+    "date": "2026-05-27",
+    "hash": "d6818e899f078c084d8a88264603ef1d"
   }
 ]
