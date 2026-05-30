@@ -738,7 +738,7 @@
   {
     "match": "Wieczysta – Polonia",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Won",
     "date": "2026-05-28",
     "hash": "98545975faa7242552dd1693a9e1f9d0"
@@ -746,7 +746,7 @@
   {
     "match": "Ireland – Qatar",
     "prediction": "1",
-    "odds": 1.6,
+    "odds": "1.6",
     "status": "Won",
     "date": "2026-05-28",
     "hash": "2592de013370f68d7ec8e02a9733ed58"
@@ -754,7 +754,7 @@
   {
     "match": "Septemvri – Yantra",
     "prediction": "1",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-05-28",
     "hash": "53e68b53e76305ddcb429daff6503666"
@@ -762,7 +762,7 @@
   {
     "match": "Petrojet – El Gounah",
     "prediction": "X",
-    "odds": 2.9,
+    "odds": "2.9",
     "status": "Lost",
     "date": "2026-05-28",
     "hash": "4c127dc430bc03cdd34f7148af2adefb"
@@ -770,9 +770,49 @@
   {
     "match": "Casa Pia – Torreense",
     "prediction": "X2",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Lost",
     "date": "2026-05-28",
     "hash": "13fe05a94b53b755eb3687bfc9a805db"
+  },
+  {
+    "match": "Nice – St Etienne",
+    "prediction": "1X",
+    "odds": 1.18,
+    "status": "Won",
+    "date": "2026-05-29",
+    "hash": "190208716e8fded082bebdcd7a47dd15"
+  },
+  {
+    "match": "Monza – Catanzaro",
+    "prediction": "1",
+    "odds": 1.81,
+    "status": "Lost",
+    "date": "2026-05-29",
+    "hash": "9445956aa28efaeeb5e4b56d288bf822"
+  },
+  {
+    "match": "Bosnia – North Macedonia",
+    "prediction": "1",
+    "odds": 1.65,
+    "status": "Lost",
+    "date": "2026-05-29",
+    "hash": "efeaf5a40e0624c0023777a3cc9532d4"
+  },
+  {
+    "match": "Rosenborg – Bodo Glimt",
+    "prediction": "2",
+    "odds": 1.57,
+    "status": "Lost",
+    "date": "2026-05-29",
+    "hash": "3fb8cc66a26f2384a0344c40fce09f40"
+  },
+  {
+    "match": "South Africa – Nicaragua",
+    "prediction": "1",
+    "odds": 1.12,
+    "status": "Lost",
+    "date": "2026-05-29",
+    "hash": "7c2eb882d725648c65cd03e91efb3194"
   }
 ]
