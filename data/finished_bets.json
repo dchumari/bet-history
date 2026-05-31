@@ -778,7 +778,7 @@
   {
     "match": "Nice – St Etienne",
     "prediction": "1X",
-    "odds": 1.18,
+    "odds": "1.18",
     "status": "Won",
     "date": "2026-05-29",
     "hash": "190208716e8fded082bebdcd7a47dd15"
@@ -786,7 +786,7 @@
   {
     "match": "Monza – Catanzaro",
     "prediction": "1",
-    "odds": 1.81,
+    "odds": "1.81",
     "status": "Lost",
     "date": "2026-05-29",
     "hash": "9445956aa28efaeeb5e4b56d288bf822"
@@ -794,7 +794,7 @@
   {
     "match": "Bosnia – North Macedonia",
     "prediction": "1",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Lost",
     "date": "2026-05-29",
     "hash": "efeaf5a40e0624c0023777a3cc9532d4"
@@ -802,7 +802,7 @@
   {
     "match": "Rosenborg – Bodo Glimt",
     "prediction": "2",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Lost",
     "date": "2026-05-29",
     "hash": "3fb8cc66a26f2384a0344c40fce09f40"
@@ -810,9 +810,49 @@
   {
     "match": "South Africa – Nicaragua",
     "prediction": "1",
-    "odds": 1.12,
+    "odds": "1.12",
     "status": "Lost",
     "date": "2026-05-29",
     "hash": "7c2eb882d725648c65cd03e91efb3194"
+  },
+  {
+    "match": "Chongqing – Beijing Guoan",
+    "prediction": "2",
+    "odds": 1.86,
+    "status": "Won",
+    "date": "2026-05-30",
+    "hash": "56edfe910ae84182a6039046a4ceba06"
+  },
+  {
+    "match": "GAIS – Kalmar",
+    "prediction": "1",
+    "odds": 1.81,
+    "status": "Won",
+    "date": "2026-05-30",
+    "hash": "448ca220ed1d1590609cbecb2faaf924"
+  },
+  {
+    "match": "Balompie – Always Ready",
+    "prediction": "2",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-05-30",
+    "hash": "4229a8598ecf1d0055021f1a1eb6e5ef"
+  },
+  {
+    "match": "Scotland – Curacao",
+    "prediction": "1",
+    "odds": 1.18,
+    "status": "Won",
+    "date": "2026-05-30",
+    "hash": "96918843b5a7e33fb8e2912a544892e8"
+  },
+  {
+    "match": "PSG – Arsenal",
+    "prediction": "1",
+    "odds": 2.37,
+    "status": "Lost",
+    "date": "2026-05-30",
+    "hash": "0ec02438580bf4a46fcac015e4b97271"
   }
 ]
