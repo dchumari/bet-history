@@ -898,7 +898,7 @@
   {
     "match": "Norway – Sweden",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Won",
     "date": "2026-06-01",
     "hash": "b84583a297d064e513f52f875e8239be"
@@ -906,7 +906,7 @@
   {
     "match": "Slovakia – Malta",
     "prediction": "1",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-06-01",
     "hash": "9cf552aa549c7e595ff7d2eff7df7415"
@@ -914,7 +914,7 @@
   {
     "match": "Canada – Uzbekistan",
     "prediction": "1",
-    "odds": 1.6,
+    "odds": "1.6",
     "status": "Won",
     "date": "2026-06-01",
     "hash": "7e955354f4f1ee772c1d72e9a6dc2c42"
@@ -922,7 +922,7 @@
   {
     "match": "Colombia – Costa Rica",
     "prediction": "1",
-    "odds": 1.12,
+    "odds": "1.12",
     "status": "Won",
     "date": "2026-06-01",
     "hash": "d09c86496e00c6d8249f98a16882f789"
@@ -930,9 +930,49 @@
   {
     "match": "Austria – Tunisia",
     "prediction": "Over 2.5 goals",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Lost",
     "date": "2026-06-01",
     "hash": "e5e9247088c2d171a7316f39ddfeb249"
+  },
+  {
+    "match": "Georgia – Romania",
+    "prediction": "1X",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-06-02",
+    "hash": "42f49f2240a0cda95b342306934e0914"
+  },
+  {
+    "match": "Wales – Ghana",
+    "prediction": "1X",
+    "odds": 1.3,
+    "status": "Won",
+    "date": "2026-06-02",
+    "hash": "098ef2b5efb934c77255bd3c568f3f01"
+  },
+  {
+    "match": "Morocco – Madagascar",
+    "prediction": "1",
+    "odds": 1.12,
+    "status": "Won",
+    "date": "2026-06-02",
+    "hash": "bb341f299f689bdf2c1806c2fc01e703"
+  },
+  {
+    "match": "Brescia – Ascoli",
+    "prediction": "1X",
+    "odds": 1.44,
+    "status": "Unknown",
+    "date": "2026-06-02",
+    "hash": "c40348318ecccf481043232be0a87d91"
+  },
+  {
+    "match": "Croatia – Belgium",
+    "prediction": "X",
+    "odds": 3.5,
+    "status": "Lost",
+    "date": "2026-06-02",
+    "hash": "84d7d94dc7f4d5e957619c534abf592f"
   }
 ]
