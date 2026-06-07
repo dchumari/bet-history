@@ -1058,7 +1058,7 @@
   {
     "match": "Moldova – Bulgaria",
     "prediction": "1X",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-06-05",
     "hash": "a83c662fe34d4b0e9b8df3b848fed1a3"
@@ -1066,7 +1066,7 @@
   {
     "match": "Saoura – Constantine",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-06-05",
     "hash": "1e1c394249098cb80997cc6390a8ec66"
@@ -1074,7 +1074,7 @@
   {
     "match": "Tajikistan – India",
     "prediction": "1",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Won",
     "date": "2026-06-05",
     "hash": "c98dd6cfc2bcd04e160e250d77589a51"
@@ -1082,7 +1082,7 @@
   {
     "match": "Slovakia – Montenegro",
     "prediction": "1",
-    "odds": 1.6,
+    "odds": "1.6",
     "status": "Lost",
     "date": "2026-06-05",
     "hash": "0e4b01f17fe641051d3d5eb37299dc26"
@@ -1090,9 +1090,49 @@
   {
     "match": "San Marino – Bangladesh",
     "prediction": "1X",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Lost",
     "date": "2026-06-05",
     "hash": "6b93d48e0634abaf07738b32d6c1611c"
+  },
+  {
+    "match": "USA – Germany",
+    "prediction": "Over 2.5 goals",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-06-06",
+    "hash": "c92f2f95e5aa35f284174a2a460e7ad9"
+  },
+  {
+    "match": "Romania – Wales",
+    "prediction": "1X",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-06-06",
+    "hash": "66758c14320256f5df3277ea93db240c"
+  },
+  {
+    "match": "Portugal – Chile",
+    "prediction": "1",
+    "odds": 1.18,
+    "status": "Won",
+    "date": "2026-06-06",
+    "hash": "a5c35b7f56a514c1f15ebd8e98de7085"
+  },
+  {
+    "match": "England – New Zealand",
+    "prediction": "1",
+    "odds": 1.1,
+    "status": "Won",
+    "date": "2026-06-06",
+    "hash": "0af6a8ae1de591d3a2a6fe9124ccc68c"
+  },
+  {
+    "match": "Gibraltar – Cayman Islands",
+    "prediction": "Under 3.5 goals",
+    "odds": 1.57,
+    "status": "Lost",
+    "date": "2026-06-06",
+    "hash": "9c653f6b2c0cdddc502dda9ed7be1772"
   }
 ]
