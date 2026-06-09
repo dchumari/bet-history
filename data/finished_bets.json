@@ -1138,7 +1138,7 @@
   {
     "match": "Denmark – Ukraine",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-06-07",
     "hash": "5accfe2f346df85e8d7d6746c63de2bb"
@@ -1146,7 +1146,7 @@
   {
     "match": "Liechtenstein – Cyprus",
     "prediction": "2",
-    "odds": 1.27,
+    "odds": "1.27",
     "status": "Won",
     "date": "2026-06-07",
     "hash": "31b55380fbf1689598187a420c988f8b"
@@ -1154,7 +1154,7 @@
   {
     "match": "Ecuador – Guatemala",
     "prediction": "1",
-    "odds": 1.16,
+    "odds": "1.16",
     "status": "Won",
     "date": "2026-06-07",
     "hash": "e7557d83b63548f17f41ee544674ab16"
@@ -1162,7 +1162,7 @@
   {
     "match": "Morocco – Norway",
     "prediction": "2",
-    "odds": 2.2,
+    "odds": "2.2",
     "status": "Lost",
     "date": "2026-06-07",
     "hash": "0c288490f49899bb00108e5b57b70619"
@@ -1170,9 +1170,49 @@
   {
     "match": "Greece – Italy",
     "prediction": "1",
-    "odds": 2.0,
+    "odds": "2.0",
     "status": "Lost",
     "date": "2026-06-07",
     "hash": "b14e7e2b40cf41ee0493d54ad9e408d4"
+  },
+  {
+    "match": "Atl Nacional – Junior Barranquilla",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-06-08",
+    "hash": "999a95d8167eecf1276ca975823da3d0"
+  },
+  {
+    "match": "Netherlands – Uzbekistan",
+    "prediction": "1",
+    "odds": 1.27,
+    "status": "Won",
+    "date": "2026-06-08",
+    "hash": "d4486d22aa66d2a0e268c705e7723534"
+  },
+  {
+    "match": "Peru – Spain",
+    "prediction": "2",
+    "odds": 1.16,
+    "status": "Won",
+    "date": "2026-06-08",
+    "hash": "f9f46b4477c3320559c290d3fbe047fa"
+  },
+  {
+    "match": "France – Northern Ireland",
+    "prediction": "1",
+    "odds": 1.12,
+    "status": "Won",
+    "date": "2026-06-08",
+    "hash": "2d6f9f0fb2e3446b6e434b43ed7182c1"
+  },
+  {
+    "match": "Norway U21 – Finland U21",
+    "prediction": "1",
+    "odds": 1.61,
+    "status": "Lost",
+    "date": "2026-06-08",
+    "hash": "a79169490925f45ca4604c5b318b0aee"
   }
 ]
