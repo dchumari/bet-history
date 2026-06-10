@@ -1178,7 +1178,7 @@
   {
     "match": "Atl Nacional – Junior Barranquilla",
     "prediction": "1",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-06-08",
     "hash": "999a95d8167eecf1276ca975823da3d0"
@@ -1186,7 +1186,7 @@
   {
     "match": "Netherlands – Uzbekistan",
     "prediction": "1",
-    "odds": 1.27,
+    "odds": "1.27",
     "status": "Won",
     "date": "2026-06-08",
     "hash": "d4486d22aa66d2a0e268c705e7723534"
@@ -1194,7 +1194,7 @@
   {
     "match": "Peru – Spain",
     "prediction": "2",
-    "odds": 1.16,
+    "odds": "1.16",
     "status": "Won",
     "date": "2026-06-08",
     "hash": "f9f46b4477c3320559c290d3fbe047fa"
@@ -1202,7 +1202,7 @@
   {
     "match": "France – Northern Ireland",
     "prediction": "1",
-    "odds": 1.12,
+    "odds": "1.12",
     "status": "Won",
     "date": "2026-06-08",
     "hash": "2d6f9f0fb2e3446b6e434b43ed7182c1"
@@ -1210,9 +1210,49 @@
   {
     "match": "Norway U21 – Finland U21",
     "prediction": "1",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Lost",
     "date": "2026-06-08",
     "hash": "a79169490925f45ca4604c5b318b0aee"
+  },
+  {
+    "match": "Indonesia – Mozambique",
+    "prediction": "1",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-06-09",
+    "hash": "2a0cd1af3cb2a07099557e0bbb7df0da"
+  },
+  {
+    "match": "Argentina – Iceland",
+    "prediction": "1",
+    "odds": 1.16,
+    "status": "Won",
+    "date": "2026-06-09",
+    "hash": "693c884baa1a43e3fa9b2aaa5496df46"
+  },
+  {
+    "match": "China – Thailand",
+    "prediction": "1",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-06-09",
+    "hash": "0a6696c06c2673cca41afd03773551b7"
+  },
+  {
+    "match": "Tajikistan – India",
+    "prediction": "1",
+    "odds": 1.65,
+    "status": "Lost",
+    "date": "2026-06-09",
+    "hash": "9f76ce3c23a2d4cb13c5e3088924bccf"
+  },
+  {
+    "match": "Saudi Arabia – Senegal",
+    "prediction": "2",
+    "odds": 1.55,
+    "status": "Lost",
+    "date": "2026-06-09",
+    "hash": "8fb52d0043c7ea32a203fe25147237c9"
   }
 ]
