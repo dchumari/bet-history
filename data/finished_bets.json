@@ -1218,7 +1218,7 @@
   {
     "match": "Indonesia – Mozambique",
     "prediction": "1",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-06-09",
     "hash": "2a0cd1af3cb2a07099557e0bbb7df0da"
@@ -1226,7 +1226,7 @@
   {
     "match": "Argentina – Iceland",
     "prediction": "1",
-    "odds": 1.16,
+    "odds": "1.16",
     "status": "Won",
     "date": "2026-06-09",
     "hash": "693c884baa1a43e3fa9b2aaa5496df46"
@@ -1234,7 +1234,7 @@
   {
     "match": "China – Thailand",
     "prediction": "1",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Lost",
     "date": "2026-06-09",
     "hash": "0a6696c06c2673cca41afd03773551b7"
@@ -1242,7 +1242,7 @@
   {
     "match": "Tajikistan – India",
     "prediction": "1",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Lost",
     "date": "2026-06-09",
     "hash": "9f76ce3c23a2d4cb13c5e3088924bccf"
@@ -1250,7 +1250,7 @@
   {
     "match": "Saudi Arabia – Senegal",
     "prediction": "2",
-    "odds": 1.55,
+    "odds": "1.55",
     "status": "Lost",
     "date": "2026-06-09",
     "hash": "8fb52d0043c7ea32a203fe25147237c9"
