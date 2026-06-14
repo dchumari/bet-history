@@ -1338,7 +1338,7 @@
   {
     "match": "USA – Paraguay",
     "prediction": "1",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Won",
     "date": "2026-06-12",
     "hash": "0f8eb2e52b6b94556a2740fcbff70d19"
@@ -1346,7 +1346,7 @@
   {
     "match": "St Patricks – Drogheda",
     "prediction": "1",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-06-12",
     "hash": "0cf227be1d79f7560990949c933199fb"
@@ -1354,7 +1354,7 @@
   {
     "match": "Canada – Bosnia",
     "prediction": "1",
-    "odds": 1.85,
+    "odds": "1.85",
     "status": "Lost",
     "date": "2026-06-12",
     "hash": "c60f414d93d7eddc543c307929a8d494"
@@ -1362,7 +1362,7 @@
   {
     "match": "Waterford – Sligo",
     "prediction": "Under 3.5 goals",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Lost",
     "date": "2026-06-12",
     "hash": "a4b8ff55a5c226941b7421456fa8a985"
@@ -1370,9 +1370,49 @@
   {
     "match": "Derry – Bohemians",
     "prediction": "Under 3.5 goals",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Lost",
     "date": "2026-06-12",
     "hash": "8664a0fe31f4d5e51e390869ed554ce2"
+  },
+  {
+    "match": "Aatvidabergs – Eskilsminne",
+    "prediction": "1",
+    "odds": 1.72,
+    "status": "Won",
+    "date": "2026-06-13",
+    "hash": "2c57f9018c89a94b0a30d6df27f7f774"
+  },
+  {
+    "match": "Haiti – Scotland",
+    "prediction": "2",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-06-13",
+    "hash": "27db7e809f6f1e25295fb0cfcbde5865"
+  },
+  {
+    "match": "Australia – Türkiye",
+    "prediction": "2",
+    "odds": 1.7,
+    "status": "Lost",
+    "date": "2026-06-13",
+    "hash": "2700097655d6b2a13afc0aff7f420cdd"
+  },
+  {
+    "match": "Brazil – Morocco",
+    "prediction": "1",
+    "odds": 1.66,
+    "status": "Lost",
+    "date": "2026-06-13",
+    "hash": "aa9fa13eb6aeb4a8eba53a79ac9ee248"
+  },
+  {
+    "match": "Qatar – Switzerland",
+    "prediction": "2",
+    "odds": 1.25,
+    "status": "Lost",
+    "date": "2026-06-13",
+    "hash": "b1c470ee89d767803343904b4c96a1b5"
   }
 ]
