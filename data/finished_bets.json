@@ -1378,7 +1378,7 @@
   {
     "match": "Aatvidabergs – Eskilsminne",
     "prediction": "1",
-    "odds": 1.72,
+    "odds": "1.72",
     "status": "Won",
     "date": "2026-06-13",
     "hash": "2c57f9018c89a94b0a30d6df27f7f774"
@@ -1386,7 +1386,7 @@
   {
     "match": "Haiti – Scotland",
     "prediction": "2",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Won",
     "date": "2026-06-13",
     "hash": "27db7e809f6f1e25295fb0cfcbde5865"
@@ -1394,7 +1394,7 @@
   {
     "match": "Australia – Türkiye",
     "prediction": "2",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Lost",
     "date": "2026-06-13",
     "hash": "2700097655d6b2a13afc0aff7f420cdd"
@@ -1402,7 +1402,7 @@
   {
     "match": "Brazil – Morocco",
     "prediction": "1",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Lost",
     "date": "2026-06-13",
     "hash": "aa9fa13eb6aeb4a8eba53a79ac9ee248"
@@ -1410,9 +1410,49 @@
   {
     "match": "Qatar – Switzerland",
     "prediction": "2",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Lost",
     "date": "2026-06-13",
     "hash": "b1c470ee89d767803343904b4c96a1b5"
+  },
+  {
+    "match": "Malaga – Almeria",
+    "prediction": "X",
+    "odds": 3.2,
+    "status": "Won",
+    "date": "2026-06-14",
+    "hash": "cd86791f28d5f53fae24c9dbcfbd08a6"
+  },
+  {
+    "match": "Sweden – Tunisia",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Won",
+    "date": "2026-06-14",
+    "hash": "9358b628d0ede620b7ba27a1588b590a"
+  },
+  {
+    "match": "Germany – Curacao",
+    "prediction": "1",
+    "odds": 1.04,
+    "status": "Won",
+    "date": "2026-06-14",
+    "hash": "ea89f02eaceeae2e58600b883f89b4de"
+  },
+  {
+    "match": "Ivory Coast – Ecuador",
+    "prediction": "2",
+    "odds": 2.37,
+    "status": "Lost",
+    "date": "2026-06-14",
+    "hash": "3ed03e1443b35e3b99211cce7ad44990"
+  },
+  {
+    "match": "Netherlands – Japan",
+    "prediction": "1",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-06-14",
+    "hash": "96f8f376223d3681553fa3d1603e2afe"
   }
 ]
