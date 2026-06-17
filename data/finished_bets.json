@@ -1454,5 +1454,45 @@
     "status": "Lost",
     "date": "2026-06-14",
     "hash": "96f8f376223d3681553fa3d1603e2afe"
+  },
+  {
+    "match": "France – Senegal",
+    "prediction": "1",
+    "odds": 1.48,
+    "status": "Won",
+    "date": "2026-06-16",
+    "hash": "345bf785ec8ed3547cdce21e70d1d2a0"
+  },
+  {
+    "match": "Argentina – Algeria",
+    "prediction": "1",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-06-16",
+    "hash": "dc396557bedd755ceef31a439aacb0a8"
+  },
+  {
+    "match": "Austria – Jordan",
+    "prediction": "1",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-06-16",
+    "hash": "59e53035955a42551d70e44bc946263d"
+  },
+  {
+    "match": "Iraq – Norway",
+    "prediction": "2",
+    "odds": 1.2,
+    "status": "Won",
+    "date": "2026-06-16",
+    "hash": "2f70b5ab9a964308360681b7d7f00f57"
+  },
+  {
+    "match": "Fortaleza – America MG",
+    "prediction": "1",
+    "odds": 1.53,
+    "status": "Lost",
+    "date": "2026-06-16",
+    "hash": "6faf33bc498aeeb4ad5c4415463d2868"
   }
 ]
