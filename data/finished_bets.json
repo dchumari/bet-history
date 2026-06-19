@@ -1494,5 +1494,77 @@
     "status": "Lost",
     "date": "2026-06-16",
     "hash": "6faf33bc498aeeb4ad5c4415463d2868"
+  },
+  {
+    "match": "Maardu – Nomme Kalju II",
+    "prediction": "1",
+    "odds": 1.83,
+    "status": "Won",
+    "date": "2026-06-18",
+    "hash": "9cbd826faccef5a6ce70ea6f351455ff"
+  },
+  {
+    "match": "Switzerland – Bosnia",
+    "prediction": "1",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-06-18",
+    "hash": "16ab30a6130e4c52b48e333d62cc197f"
+  },
+  {
+    "match": "Canada – Qatar",
+    "prediction": "1",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-06-18",
+    "hash": "f0fef108c6a6b2128a6b5f417c9d6798"
+  },
+  {
+    "match": "Mexico – South Korea",
+    "prediction": "1X",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-06-18",
+    "hash": "8c63c4bfe5cd07cb2688ca754ee27aef"
+  },
+  {
+    "match": "Czechia – South Africa",
+    "prediction": "1",
+    "odds": 1.8,
+    "status": "Lost",
+    "date": "2026-06-18",
+    "hash": "91af19cba37d192c29d5fe5304bbff45"
+  },
+  {
+    "match": "England – Croatia",
+    "prediction": "1",
+    "odds": 1.72,
+    "status": "Won",
+    "date": "2026-06-18",
+    "hash": "a701cc7646abd09a42525a8e9a77ac07"
+  },
+  {
+    "match": "Riga – Rigas",
+    "prediction": "Over 1.5 goals",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-06-18",
+    "hash": "a89cf747b7deb5318614939d6020560d"
+  },
+  {
+    "match": "Uzbekistan – Colombia",
+    "prediction": "2",
+    "odds": 1.38,
+    "status": "Won",
+    "date": "2026-06-18",
+    "hash": "9359447f3b49a67017c277897fe49d71"
+  },
+  {
+    "match": "Ghana – Panama",
+    "prediction": "1X",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-06-18",
+    "hash": "c9e3eb5acccf6285302fe176a2869682"
   }
 ]
