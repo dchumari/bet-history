@@ -1566,5 +1566,77 @@
     "status": "Won",
     "date": "2026-06-18",
     "hash": "c9e3eb5acccf6285302fe176a2869682"
+  },
+  {
+    "match": "Netherlands – Sweden",
+    "prediction": "1",
+    "odds": 1.72,
+    "status": "Won",
+    "date": "2026-06-20",
+    "hash": "36d24d831d1f4957405f8359c3615598"
+  },
+  {
+    "match": "Germany – Ivory Coast",
+    "prediction": "1",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-06-20",
+    "hash": "a3e8ff1d1eabf7af5e64c0dc0d56d0ff"
+  },
+  {
+    "match": "Tunisia – Japan",
+    "prediction": "2",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-06-20",
+    "hash": "80210c8f675f9c19fbb18ddd5ba580dd"
+  },
+  {
+    "match": "Heming – Gamle Oslo",
+    "prediction": "Over 2.5 goals",
+    "odds": 1.44,
+    "status": "Lost",
+    "date": "2026-06-20",
+    "hash": "011b002c9a0352eb222d8ae7fe124649"
+  },
+  {
+    "match": "Ecuador – Curacao",
+    "prediction": "1",
+    "odds": 1.1,
+    "status": "Lost",
+    "date": "2026-06-20",
+    "hash": "ce4671148e5723207a177558cd599237"
+  },
+  {
+    "match": "Scotland – Morocco",
+    "prediction": "2",
+    "odds": 1.72,
+    "status": "Won",
+    "date": "2026-06-20",
+    "hash": "5ddb13f4f7ab6ba086ccbf61f080532d"
+  },
+  {
+    "match": "USA – Australia",
+    "prediction": "1",
+    "odds": 1.6,
+    "status": "Won",
+    "date": "2026-06-20",
+    "hash": "32bf6f4e14e873ce8ea031fa42d494f6"
+  },
+  {
+    "match": "Bohemians – Dundalk",
+    "prediction": "Under 3.5 goals",
+    "odds": 1.44,
+    "status": "Won",
+    "date": "2026-06-20",
+    "hash": "c1fd87ce133dace5d96f93918ec04547"
+  },
+  {
+    "match": "Brazil – Haiti",
+    "prediction": "1",
+    "odds": 1.09,
+    "status": "Won",
+    "date": "2026-06-20",
+    "hash": "413ee9dfd9139c6896d47932ce729517"
   }
 ]
