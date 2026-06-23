@@ -1642,7 +1642,7 @@
   {
     "match": "New Zealand – Egypt",
     "prediction": "2",
-    "odds": 1.6,
+    "odds": "1.6",
     "status": "Won",
     "date": "2026-06-21",
     "hash": "7ebfc32157594423ab9ac54e6841a322"
@@ -1650,7 +1650,7 @@
   {
     "match": "Union Minas – Huancayo",
     "prediction": "2",
-    "odds": 1.3,
+    "odds": "1.3",
     "status": "Won",
     "date": "2026-06-21",
     "hash": "0f3148ca03676ca5a8a1c416b4b1eadb"
@@ -1658,7 +1658,7 @@
   {
     "match": "Spain – Saudi Arabia",
     "prediction": "1",
-    "odds": 1.09,
+    "odds": "1.09",
     "status": "Won",
     "date": "2026-06-21",
     "hash": "2e9698219c25e0356d4430585f1a6919"
@@ -1666,7 +1666,7 @@
   {
     "match": "Uruguay – Cape Verde",
     "prediction": "1",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Lost",
     "date": "2026-06-21",
     "hash": "c1363afb3e9b8fc00955c3123cf327d1"
@@ -1674,9 +1674,49 @@
   {
     "match": "Belgium – Iran",
     "prediction": "1",
-    "odds": 1.42,
+    "odds": "1.42",
     "status": "Lost",
     "date": "2026-06-21",
     "hash": "7d1eefdf3fb611321bab3d5f1a38c192"
+  },
+  {
+    "match": "Jordan – Algeria",
+    "prediction": "2",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-06-22",
+    "hash": "88e2d447eab04cf85a4f06880efd72cb"
+  },
+  {
+    "match": "Argentina – Austria",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-06-22",
+    "hash": "fe1377fe9b2c42121201593338d94ce2"
+  },
+  {
+    "match": "Norway – Senegal",
+    "prediction": "1X",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-06-22",
+    "hash": "6d837bc51f401dce79143cf376c9f234"
+  },
+  {
+    "match": "Shamrock – Derry",
+    "prediction": "Under 3.5 goals",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-06-22",
+    "hash": "37fe2be78a386d4b69c02a44b0bf11ae"
+  },
+  {
+    "match": "France – Iraq",
+    "prediction": "1",
+    "odds": 1.07,
+    "status": "Won",
+    "date": "2026-06-22",
+    "hash": "42e4ae7e24e2aa3a09fcf8c0c2e3055c"
   }
 ]
