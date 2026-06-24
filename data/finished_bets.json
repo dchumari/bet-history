@@ -1682,7 +1682,7 @@
   {
     "match": "Jordan – Algeria",
     "prediction": "2",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Won",
     "date": "2026-06-22",
     "hash": "88e2d447eab04cf85a4f06880efd72cb"
@@ -1690,7 +1690,7 @@
   {
     "match": "Argentina – Austria",
     "prediction": "1",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-06-22",
     "hash": "fe1377fe9b2c42121201593338d94ce2"
@@ -1698,7 +1698,7 @@
   {
     "match": "Norway – Senegal",
     "prediction": "1X",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-06-22",
     "hash": "6d837bc51f401dce79143cf376c9f234"
@@ -1706,7 +1706,7 @@
   {
     "match": "Shamrock – Derry",
     "prediction": "Under 3.5 goals",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-06-22",
     "hash": "37fe2be78a386d4b69c02a44b0bf11ae"
@@ -1714,9 +1714,49 @@
   {
     "match": "France – Iraq",
     "prediction": "1",
-    "odds": 1.07,
+    "odds": "1.07",
     "status": "Won",
     "date": "2026-06-22",
     "hash": "42e4ae7e24e2aa3a09fcf8c0c2e3055c"
+  },
+  {
+    "match": "Colombia – DR Congo",
+    "prediction": "1",
+    "odds": 1.55,
+    "status": "Won",
+    "date": "2026-06-23",
+    "hash": "2f3371f87a8ea1e7d98a242567b1649d"
+  },
+  {
+    "match": "Panama – Croatia",
+    "prediction": "2",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-06-23",
+    "hash": "9b5a931f279e6fa144e18c6a29dce96d"
+  },
+  {
+    "match": "Mariehamn – HJK Helsinki",
+    "prediction": "2",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-06-23",
+    "hash": "5359550de05ddeaa1e5f278b373d497b"
+  },
+  {
+    "match": "Portugal – Uzbekistan",
+    "prediction": "1",
+    "odds": 1.14,
+    "status": "Won",
+    "date": "2026-06-23",
+    "hash": "70ecb88de79d61f5512c337e8d9ce2f1"
+  },
+  {
+    "match": "England – Ghana",
+    "prediction": "1",
+    "odds": 1.2,
+    "status": "Lost",
+    "date": "2026-06-23",
+    "hash": "f24a91f81c9eb217823756d614499aba"
   }
 ]
