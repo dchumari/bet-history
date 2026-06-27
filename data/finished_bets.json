@@ -1762,7 +1762,7 @@
   {
     "match": "Paraguay – Australia",
     "prediction": "X",
-    "odds": 2.25,
+    "odds": "2.25",
     "status": "Won",
     "date": "2026-06-25",
     "hash": "ef7a057a03b9f19edad9b8c0d77a6839"
@@ -1770,7 +1770,7 @@
   {
     "match": "Curacao – Ivory Coast",
     "prediction": "2",
-    "odds": 1.14,
+    "odds": "1.14",
     "status": "Won",
     "date": "2026-06-25",
     "hash": "b4a92a764ef454c4a08724b3c00d5cd9"
@@ -1778,7 +1778,7 @@
   {
     "match": "Türkiye – USA",
     "prediction": "2",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Lost",
     "date": "2026-06-25",
     "hash": "e26914b54a4a71d6cd79922245aa751a"
@@ -1786,7 +1786,7 @@
   {
     "match": "Japan – Sweden",
     "prediction": "1",
-    "odds": 1.85,
+    "odds": "1.85",
     "status": "Lost",
     "date": "2026-06-25",
     "hash": "81790f3c1f3fe816c43cf537cb35822d"
@@ -1794,7 +1794,7 @@
   {
     "match": "Ecuador – Germany",
     "prediction": "2",
-    "odds": 1.83,
+    "odds": "1.83",
     "status": "Lost",
     "date": "2026-06-25",
     "hash": "3a2729daf5da50b2d5bf0489e8d67751"
@@ -1802,7 +1802,7 @@
   {
     "match": "Czechia – Mexico",
     "prediction": "2",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Won",
     "date": "2026-06-25",
     "hash": "4d5a24826d6c22f11aab2158e293bf45"
@@ -1810,7 +1810,7 @@
   {
     "match": "Bosnia – Qatar",
     "prediction": "1",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-06-25",
     "hash": "1847345f14ff5b9055410df5b9f5f667"
@@ -1818,7 +1818,7 @@
   {
     "match": "Switzerland – Canada",
     "prediction": "1X",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-06-25",
     "hash": "b17884d63aa3b61b2f45255d71388707"
@@ -1826,7 +1826,7 @@
   {
     "match": "Scotland – Brazil",
     "prediction": "2",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-06-25",
     "hash": "811b1216d391ead6324473240ac991f0"
@@ -1834,9 +1834,49 @@
   {
     "match": "South Africa – South Korea",
     "prediction": "2",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Lost",
     "date": "2026-06-25",
     "hash": "d9e0ae5d4eddcb26d9ada88493a5d403"
+  },
+  {
+    "match": "Norway – France",
+    "prediction": "2",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-06-26",
+    "hash": "1f56106775e45f81ec7e7536b1198de7"
+  },
+  {
+    "match": "Uruguay – Spain",
+    "prediction": "2",
+    "odds": 1.48,
+    "status": "Won",
+    "date": "2026-06-26",
+    "hash": "fc7c570a3b1aeb0eb9cb28c425b99744"
+  },
+  {
+    "match": "Senegal – Iraq",
+    "prediction": "1",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-06-26",
+    "hash": "fab385fcc487397471f6ea62db1fb2d4"
+  },
+  {
+    "match": "New Zealand – Belgium",
+    "prediction": "2",
+    "odds": 1.14,
+    "status": "Won",
+    "date": "2026-06-26",
+    "hash": "afa0eae773742a78c2a02a500cb55299"
+  },
+  {
+    "match": "Cape Verde – Saudi Arabia",
+    "prediction": "1",
+    "odds": 2.62,
+    "status": "Lost",
+    "date": "2026-06-26",
+    "hash": "0de7b63b8e22edcb1f58fad595702a8f"
   }
 ]
