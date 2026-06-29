@@ -1882,7 +1882,7 @@
   {
     "match": "Algeria – Austria",
     "prediction": "X",
-    "odds": 2.2,
+    "odds": "2.2",
     "status": "Won",
     "date": "2026-06-27",
     "hash": "c4531e274f3ca8ed221a35aa08e15b82"
@@ -1890,7 +1890,7 @@
   {
     "match": "DR Congo – Uzbekistan",
     "prediction": "1",
-    "odds": 1.75,
+    "odds": "1.75",
     "status": "Won",
     "date": "2026-06-27",
     "hash": "9e64e60aea0797578b1963ea27a689fc"
@@ -1898,7 +1898,7 @@
   {
     "match": "Jordan – Argentina",
     "prediction": "2",
-    "odds": 1.18,
+    "odds": "1.18",
     "status": "Won",
     "date": "2026-06-27",
     "hash": "54d18bc007687c6f7c9742dfada4a7e4"
@@ -1906,7 +1906,7 @@
   {
     "match": "Panama – England",
     "prediction": "2",
-    "odds": 1.14,
+    "odds": "1.14",
     "status": "Won",
     "date": "2026-06-27",
     "hash": "62d01182840e5d957ffb1cef19619252"
@@ -1914,9 +1914,49 @@
   {
     "match": "Croatia – Ghana",
     "prediction": "X",
-    "odds": 3.3,
+    "odds": "3.3",
     "status": "Lost",
     "date": "2026-06-27",
     "hash": "b89dba49bb70374023d67dbdd15e8b3e"
+  },
+  {
+    "match": "Molde – Bodo Glimt",
+    "prediction": "2",
+    "odds": 2.1,
+    "status": "Won",
+    "date": "2026-06-28",
+    "hash": "18f594ce13fd541554817af94620aab3"
+  },
+  {
+    "match": "South Africa – Canada",
+    "prediction": "2",
+    "odds": 1.7,
+    "status": "Won",
+    "date": "2026-06-28",
+    "hash": "fe2b81f1b07ac78fd56473a8e4b19385"
+  },
+  {
+    "match": "Qingdao – Zhejiang",
+    "prediction": "Both To Score",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-06-28",
+    "hash": "47d90796efd21d5ddb5eb35d1b655bee"
+  },
+  {
+    "match": "Nijlen – Lierse",
+    "prediction": "Over 2.5 goals",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-06-28",
+    "hash": "fa737f157279df0f3b76f2f65fa8dbaa"
+  },
+  {
+    "match": "Univ de Chile – San Felipe",
+    "prediction": "1",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-06-28",
+    "hash": "38bef1d9818c96d87031592861946aab"
   }
 ]
