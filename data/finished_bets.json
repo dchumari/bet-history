@@ -1922,7 +1922,7 @@
   {
     "match": "Molde – Bodo Glimt",
     "prediction": "2",
-    "odds": 2.1,
+    "odds": "2.1",
     "status": "Won",
     "date": "2026-06-28",
     "hash": "18f594ce13fd541554817af94620aab3"
@@ -1930,7 +1930,7 @@
   {
     "match": "South Africa – Canada",
     "prediction": "2",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-06-28",
     "hash": "fe2b81f1b07ac78fd56473a8e4b19385"
@@ -1938,7 +1938,7 @@
   {
     "match": "Qingdao – Zhejiang",
     "prediction": "Both To Score",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-06-28",
     "hash": "47d90796efd21d5ddb5eb35d1b655bee"
@@ -1946,7 +1946,7 @@
   {
     "match": "Nijlen – Lierse",
     "prediction": "Over 2.5 goals",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-06-28",
     "hash": "fa737f157279df0f3b76f2f65fa8dbaa"
@@ -1954,7 +1954,7 @@
   {
     "match": "Univ de Chile – San Felipe",
     "prediction": "1",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-06-28",
     "hash": "38bef1d9818c96d87031592861946aab"
