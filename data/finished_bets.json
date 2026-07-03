@@ -1962,7 +1962,7 @@
   {
     "match": "Eskilsminne – Kristianstads",
     "prediction": "1",
-    "odds": 1.85,
+    "odds": "1.85",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "c96ebea4c105a85608c2612cc6d78f5a"
@@ -1970,7 +1970,7 @@
   {
     "match": "Guairena – Dep. Santani",
     "prediction": "Under 2.5 goals",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "f401129a73bf01a7e00f231518955848"
@@ -1978,7 +1978,7 @@
   {
     "match": "USA – Bosnia",
     "prediction": "1",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "e86687537f5ea7e4861ea15a9f2115c7"
@@ -1986,7 +1986,7 @@
   {
     "match": "England – DR Congo",
     "prediction": "1",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "68820963d2d0a894acd39b1199220978"
@@ -1994,7 +1994,7 @@
   {
     "match": "Belgium – Senegal",
     "prediction": "1X",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "da029ff983597739c5cff80a9ec93822"
@@ -2002,7 +2002,7 @@
   {
     "match": "VPS – FC Inter",
     "prediction": "Over 1.5 goals",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "0d42e10c20b3bd72905d25108305c119"
@@ -2010,7 +2010,7 @@
   {
     "match": "Ivory Coast – Norway",
     "prediction": "X2",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "ecbbb7034192c32912cc7dbced498d4a"
@@ -2018,7 +2018,7 @@
   {
     "match": "France – Sweden",
     "prediction": "1",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "8291ee592768ff6afcfd7f2ea96eef94"
@@ -2026,7 +2026,7 @@
   {
     "match": "Mexico – Ecuador",
     "prediction": "1X",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "9f8dce8dc10729a895a41f66f49360e9"
@@ -2034,7 +2034,7 @@
   {
     "match": "Volta – Amazonas",
     "prediction": "Under 2.5 goals",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Lost",
     "date": "2026-07-01",
     "hash": "d626e42100d9f9231e34de6742946ddb"
@@ -2042,7 +2042,7 @@
   {
     "match": "Brazil – Japan",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "570166bb5553bc8a9c1221c5beeb5945"
@@ -2050,7 +2050,7 @@
   {
     "match": "Garcilaso – Binacional",
     "prediction": "1",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "00f3688ab7705a8d706347d69df10c2e"
@@ -2058,7 +2058,7 @@
   {
     "match": "Netherlands – Morocco",
     "prediction": "1X",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "c54c4e79bafde93c4e2e4163fc30fc98"
@@ -2066,7 +2066,7 @@
   {
     "match": "Al Arabi – Al Fahaheel",
     "prediction": "1",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-07-01",
     "hash": "a26fd8ecece0026282855e3f952ac61b"
@@ -2074,9 +2074,49 @@
   {
     "match": "Germany – Paraguay",
     "prediction": "1",
-    "odds": 1.3,
+    "odds": "1.3",
     "status": "Lost",
     "date": "2026-07-01",
     "hash": "84aa11bae745f418525ef5a5767968e6"
+  },
+  {
+    "match": "Switzerland – Algeria",
+    "prediction": "1",
+    "odds": 2.0,
+    "status": "Won",
+    "date": "2026-07-02",
+    "hash": "ea580791fe738c1d824b03aa8481e632"
+  },
+  {
+    "match": "Portugal – Croatia",
+    "prediction": "1",
+    "odds": 1.75,
+    "status": "Won",
+    "date": "2026-07-02",
+    "hash": "279bd3e53f5966e28f5a997b97a776fe"
+  },
+  {
+    "match": "Zalgiris B – Hegelmann B",
+    "prediction": "1",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-07-02",
+    "hash": "cd5737282cb3ffbd79db67ddc8e348da"
+  },
+  {
+    "match": "Kuressaare – Tallinna Flora",
+    "prediction": "2",
+    "odds": 1.3,
+    "status": "Won",
+    "date": "2026-07-02",
+    "hash": "19f023e15e7b608c90e846e59b1cde8f"
+  },
+  {
+    "match": "Spain – Austria",
+    "prediction": "1",
+    "odds": 1.3,
+    "status": "Won",
+    "date": "2026-07-02",
+    "hash": "b71d553c825f8e1818ebb5273d568509"
   }
 ]
