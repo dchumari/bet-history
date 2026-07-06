@@ -2162,7 +2162,7 @@
   {
     "match": "Canada – Morocco",
     "prediction": "2",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Won",
     "date": "2026-07-04",
     "hash": "c5aacf2e60063cca55f42c0bf03d9bcc"
@@ -2170,7 +2170,7 @@
   {
     "match": "Dalian Yingbo – Wuhan",
     "prediction": "Both To Score",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-07-04",
     "hash": "83cb5b624062cb854df242064c382803"
@@ -2178,7 +2178,7 @@
   {
     "match": "Degerfors – Malmo",
     "prediction": "X2",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-07-04",
     "hash": "772a28f0bd709d5baf418c840d77c5fb"
@@ -2186,7 +2186,7 @@
   {
     "match": "Paraguay – France",
     "prediction": "2",
-    "odds": 1.16,
+    "odds": "1.16",
     "status": "Won",
     "date": "2026-07-04",
     "hash": "6dd1aecfda37850ca549e630e8497116"
@@ -2194,7 +2194,7 @@
   {
     "match": "Liaoning – Chongqing",
     "prediction": "Under 3.5 goals",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Lost",
     "date": "2026-07-04",
     "hash": "b6ab5619aad3c5b047fa17f019a539bd"
@@ -2202,7 +2202,7 @@
   {
     "match": "Australia – Egypt",
     "prediction": "Both To Score",
-    "odds": 2.2,
+    "odds": "2.2",
     "status": "Won",
     "date": "2026-07-04",
     "hash": "8c7b9eb48f0ce00d4babec068b908dfc"
@@ -2210,7 +2210,7 @@
   {
     "match": "Colombia – Ghana",
     "prediction": "1",
-    "odds": 1.42,
+    "odds": "1.42",
     "status": "Won",
     "date": "2026-07-04",
     "hash": "aef5b540e608622fa5caf80a3d8b3b86"
@@ -2218,9 +2218,49 @@
   {
     "match": "Argentina – Cape Verde",
     "prediction": "1",
-    "odds": 1.14,
+    "odds": "1.14",
     "status": "Lost",
     "date": "2026-07-04",
     "hash": "b1a7124840e5cc7e2cdf185f6b41ca9e"
+  },
+  {
+    "match": "Mexico – England",
+    "prediction": "Both To Score",
+    "odds": 2.0,
+    "status": "Won",
+    "date": "2026-07-05",
+    "hash": "239f5c0515c2ec3cf578808689c1a921"
+  },
+  {
+    "match": "Safi – Raja Casablanca",
+    "prediction": "2",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-07-05",
+    "hash": "24f60407e52622821bc8921bda6ec3d9"
+  },
+  {
+    "match": "Kalmar – Orgryte",
+    "prediction": "1",
+    "odds": 1.41,
+    "status": "Won",
+    "date": "2026-07-05",
+    "hash": "4ea3247f0a11117b6fab1ad283bd9d84"
+  },
+  {
+    "match": "Ordabasy – Ulytau",
+    "prediction": "1",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-07-05",
+    "hash": "8e40ace38d94020b93d0763926e4e0fc"
+  },
+  {
+    "match": "Brazil – Norway",
+    "prediction": "1",
+    "odds": 1.83,
+    "status": "Lost",
+    "date": "2026-07-05",
+    "hash": "a2ae90db7de45b0b8c1027c82f592d4e"
   }
 ]
