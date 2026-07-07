@@ -2226,7 +2226,7 @@
   {
     "match": "Mexico – England",
     "prediction": "Both To Score",
-    "odds": 2.0,
+    "odds": "2.0",
     "status": "Won",
     "date": "2026-07-05",
     "hash": "239f5c0515c2ec3cf578808689c1a921"
@@ -2234,7 +2234,7 @@
   {
     "match": "Safi – Raja Casablanca",
     "prediction": "2",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Won",
     "date": "2026-07-05",
     "hash": "24f60407e52622821bc8921bda6ec3d9"
@@ -2242,7 +2242,7 @@
   {
     "match": "Kalmar – Orgryte",
     "prediction": "1",
-    "odds": 1.41,
+    "odds": "1.41",
     "status": "Won",
     "date": "2026-07-05",
     "hash": "4ea3247f0a11117b6fab1ad283bd9d84"
@@ -2250,7 +2250,7 @@
   {
     "match": "Ordabasy – Ulytau",
     "prediction": "1",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-07-05",
     "hash": "8e40ace38d94020b93d0763926e4e0fc"
@@ -2258,9 +2258,49 @@
   {
     "match": "Brazil – Norway",
     "prediction": "1",
-    "odds": 1.83,
+    "odds": "1.83",
     "status": "Lost",
     "date": "2026-07-05",
     "hash": "a2ae90db7de45b0b8c1027c82f592d4e"
+  },
+  {
+    "match": "Portugal – Spain",
+    "prediction": "2",
+    "odds": 1.9,
+    "status": "Won",
+    "date": "2026-07-06",
+    "hash": "c3e93ddbc8c70086ff66f774d8146f73"
+  },
+  {
+    "match": "USA – Belgium",
+    "prediction": "Both To Score",
+    "odds": 1.53,
+    "status": "Unknown",
+    "date": "2026-07-06",
+    "hash": "8e77da6813e8c310196e3a68ddc616ca"
+  },
+  {
+    "match": "Univ Catolica – Mushuc Runa",
+    "prediction": "Over 1.5 goals",
+    "odds": 1.2,
+    "status": "Unknown",
+    "date": "2026-07-06",
+    "hash": "ba384017eff15cf0694b7491e2fae69a"
+  },
+  {
+    "match": "Super Nova – Ogre Utd",
+    "prediction": "1",
+    "odds": 1.65,
+    "status": "Lost",
+    "date": "2026-07-06",
+    "hash": "46ea99c6634750c63134e35ded1ad2ce"
+  },
+  {
+    "match": "Hacken – Djurgardens",
+    "prediction": "1X",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-07-06",
+    "hash": "c30bac9a486bbeb0b8b817f09b2ca058"
   }
 ]
