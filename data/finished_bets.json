@@ -2266,7 +2266,7 @@
   {
     "match": "Portugal – Spain",
     "prediction": "2",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Won",
     "date": "2026-07-06",
     "hash": "c3e93ddbc8c70086ff66f774d8146f73"
@@ -2274,7 +2274,7 @@
   {
     "match": "USA – Belgium",
     "prediction": "Both To Score",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Unknown",
     "date": "2026-07-06",
     "hash": "8e77da6813e8c310196e3a68ddc616ca"
@@ -2282,7 +2282,7 @@
   {
     "match": "Univ Catolica – Mushuc Runa",
     "prediction": "Over 1.5 goals",
-    "odds": 1.2,
+    "odds": "1.2",
     "status": "Unknown",
     "date": "2026-07-06",
     "hash": "ba384017eff15cf0694b7491e2fae69a"
@@ -2290,7 +2290,7 @@
   {
     "match": "Super Nova – Ogre Utd",
     "prediction": "1",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Lost",
     "date": "2026-07-06",
     "hash": "46ea99c6634750c63134e35ded1ad2ce"
@@ -2298,9 +2298,65 @@
   {
     "match": "Hacken – Djurgardens",
     "prediction": "1X",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Lost",
     "date": "2026-07-06",
     "hash": "c30bac9a486bbeb0b8b817f09b2ca058"
+  },
+  {
+    "match": "Tre Fiori – Larne",
+    "prediction": "2",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-07-07",
+    "hash": "ccb667533036d56fd4dd4f1d039b1136"
+  },
+  {
+    "match": "Argentina – Egypt",
+    "prediction": "1",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-07-07",
+    "hash": "7f68ffa5b7a5335b04fd9b19b2e2a25e"
+  },
+  {
+    "match": "Switzerland – Colombia",
+    "prediction": "X2",
+    "odds": 1.3,
+    "status": "Won",
+    "date": "2026-07-07",
+    "hash": "27a39c3df029b57df2db0a6d6c3a8792"
+  },
+  {
+    "match": "Sabah – The New Saints",
+    "prediction": "1",
+    "odds": 1.27,
+    "status": "Won",
+    "date": "2026-07-07",
+    "hash": "763dd88c0c94ffeb8d781f1bbab55c7d"
+  },
+  {
+    "match": "Vikingur – Gyori",
+    "prediction": "Both To Score",
+    "odds": 1.61,
+    "status": "Lost",
+    "date": "2026-07-07",
+    "hash": "325b92d76bb9477106f0e57efdfcad68"
+  },
+  {
+    "match": "USA – Belgium",
+    "prediction": "Both To Score",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-07-07",
+    "hash": "5a8308b9ef8a45f13ac9c7daabc8167f"
+  },
+  {
+    "match": "Univ Catolica – Mushuc Runa",
+    "prediction": "Over 1.5 goals",
+    "odds": 1.2,
+    "status": "Won",
+    "date": "2026-07-07",
+    "hash": "54014e4176b2e3393a00518494d9ca9b"
   }
 ]
