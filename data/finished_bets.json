@@ -2362,7 +2362,7 @@
   {
     "match": "BC Maxline – Uni Craiova",
     "prediction": "2",
-    "odds": 1.83,
+    "odds": "1.83",
     "status": "Won",
     "date": "2026-07-08",
     "hash": "d5ebe043a0a679086a139d50fd0ee7cc"
@@ -2370,7 +2370,7 @@
   {
     "match": "Kairat Almaty – Sutjeska",
     "prediction": "1",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-07-08",
     "hash": "5185429056944738b034853142ae9b06"
@@ -2378,7 +2378,7 @@
   {
     "match": "Differdange – Ilves",
     "prediction": "1",
-    "odds": 2.5,
+    "odds": "2.5",
     "status": "Lost",
     "date": "2026-07-08",
     "hash": "371540e023fe138bef4cc0c5a078f8de"
@@ -2386,7 +2386,7 @@
   {
     "match": "Petrocub – Egnatia",
     "prediction": "1",
-    "odds": 2.1,
+    "odds": "2.1",
     "status": "Lost",
     "date": "2026-07-08",
     "hash": "7eb8a46c8558224670ac233f37c6625f"
@@ -2394,7 +2394,7 @@
   {
     "match": "Flora Tallinna – Iberia",
     "prediction": "1X",
-    "odds": 1.55,
+    "odds": "1.55",
     "status": "Lost",
     "date": "2026-07-08",
     "hash": "ea5625bf1e4087ce6231ec64dfd331f2"
