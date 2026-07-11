@@ -2398,5 +2398,69 @@
     "status": "Lost",
     "date": "2026-07-08",
     "hash": "ea5625bf1e4087ce6231ec64dfd331f2"
+  },
+  {
+    "match": "Zlin – Dukla",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Won",
+    "date": "2026-07-10",
+    "hash": "59a47dc696514383e8ec9688988367fb"
+  },
+  {
+    "match": "Spain – Belgium",
+    "prediction": "1",
+    "odds": 1.65,
+    "status": "Won",
+    "date": "2026-07-10",
+    "hash": "8837dda379b0dad58ac902367bbf3e7a"
+  },
+  {
+    "match": "Sandhausen – Kaiserslautern",
+    "prediction": "2",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-07-10",
+    "hash": "057ec26d4c7262729e164c0b386650df"
+  },
+  {
+    "match": "Plzen – Young Boys",
+    "prediction": "Over 2.5 goals",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-07-10",
+    "hash": "5cfb2e12839fd1c475cd906248007a88"
+  },
+  {
+    "match": "Hradec – Nordsjaelland",
+    "prediction": "2",
+    "odds": 1.75,
+    "status": "Lost",
+    "date": "2026-07-10",
+    "hash": "63f5edcf8df71b77c6b39f7b64535931"
+  },
+  {
+    "match": "Vllaznia – Malisheva",
+    "prediction": "Both To Score",
+    "odds": 1.72,
+    "status": "Won",
+    "date": "2026-07-10",
+    "hash": "d7c72ed5d854564d8552e84a7c0a505d"
+  },
+  {
+    "match": "Stjarnan – Vikingur",
+    "prediction": "1",
+    "odds": 1.61,
+    "status": "Won",
+    "date": "2026-07-10",
+    "hash": "ca8f48102749fb74dd740f1eec54f5fa"
+  },
+  {
+    "match": "France – Morocco",
+    "prediction": "1",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-07-10",
+    "hash": "47544a35f2de0231c9ca54d348e3cffb"
   }
 ]
