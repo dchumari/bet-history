@@ -2466,7 +2466,7 @@
   {
     "match": "Real Sireti – Politehnica",
     "prediction": "2",
-    "odds": 2.35,
+    "odds": "2.35",
     "status": "Won",
     "date": "2026-07-11",
     "hash": "1ccc8845d5acfbc54d376658c06f0993"
@@ -2474,7 +2474,7 @@
   {
     "match": "Kauno Zalgiris – Panevezys",
     "prediction": "1",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-07-11",
     "hash": "b318bc6a6c8994694912d78c8ae6f9fe"
@@ -2482,7 +2482,7 @@
   {
     "match": "Norway – England",
     "prediction": "2",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Unknown",
     "date": "2026-07-11",
     "hash": "91b11c3b14d6c4f63a205d83958b6acd"
@@ -2490,7 +2490,7 @@
   {
     "match": "Argentina – Switzerland",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Unknown",
     "date": "2026-07-11",
     "hash": "fce914c75b79e0f9c831795e9b947c11"
@@ -2498,9 +2498,49 @@
   {
     "match": "Orgryte – Hacken",
     "prediction": "2",
-    "odds": 1.49,
+    "odds": "1.49",
     "status": "Lost",
     "date": "2026-07-11",
     "hash": "f044de70fd8aef44452b3bb7bb41da06"
+  },
+  {
+    "match": "Tobol – Okzhetpes",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Won",
+    "date": "2026-07-12",
+    "hash": "2ade656145994892a1fa5874634ac8ce"
+  },
+  {
+    "match": "Malmo – Goteborg",
+    "prediction": "1",
+    "odds": 1.81,
+    "status": "Won",
+    "date": "2026-07-12",
+    "hash": "3a9b525a0be811cdbc32d987d82b7da4"
+  },
+  {
+    "match": "The Strongest – Bolivar",
+    "prediction": "2",
+    "odds": 2.45,
+    "status": "Unknown",
+    "date": "2026-07-12",
+    "hash": "fe7da9893c4b4b2bf13b8640072e98c0"
+  },
+  {
+    "match": "Avai – Nautico",
+    "prediction": "Both To Score",
+    "odds": 1.83,
+    "status": "Lost",
+    "date": "2026-07-12",
+    "hash": "5e02e311bce9e8e214a4a53811ef8655"
+  },
+  {
+    "match": "Uni Craiova – Uni Cluj",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Lost",
+    "date": "2026-07-12",
+    "hash": "615d29c191992335b4550a3dc84e3892"
   }
 ]
