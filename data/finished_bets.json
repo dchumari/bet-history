@@ -2506,7 +2506,7 @@
   {
     "match": "Tobol – Okzhetpes",
     "prediction": "1",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Won",
     "date": "2026-07-12",
     "hash": "2ade656145994892a1fa5874634ac8ce"
@@ -2514,7 +2514,7 @@
   {
     "match": "Malmo – Goteborg",
     "prediction": "1",
-    "odds": 1.81,
+    "odds": "1.81",
     "status": "Won",
     "date": "2026-07-12",
     "hash": "3a9b525a0be811cdbc32d987d82b7da4"
@@ -2522,7 +2522,7 @@
   {
     "match": "The Strongest – Bolivar",
     "prediction": "2",
-    "odds": 2.45,
+    "odds": "2.45",
     "status": "Unknown",
     "date": "2026-07-12",
     "hash": "fe7da9893c4b4b2bf13b8640072e98c0"
@@ -2530,7 +2530,7 @@
   {
     "match": "Avai – Nautico",
     "prediction": "Both To Score",
-    "odds": 1.83,
+    "odds": "1.83",
     "status": "Lost",
     "date": "2026-07-12",
     "hash": "5e02e311bce9e8e214a4a53811ef8655"
@@ -2538,9 +2538,49 @@
   {
     "match": "Uni Craiova – Uni Cluj",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Lost",
     "date": "2026-07-12",
     "hash": "615d29c191992335b4550a3dc84e3892"
+  },
+  {
+    "match": "Djurgardens – Halmstads",
+    "prediction": "1",
+    "odds": 1.19,
+    "status": "Won",
+    "date": "2026-07-13",
+    "hash": "5453121df2002a8d40b56ccb9016457f"
+  },
+  {
+    "match": "America MG – Londrina",
+    "prediction": "1",
+    "odds": 1.91,
+    "status": "Unknown",
+    "date": "2026-07-13",
+    "hash": "6806c981576c050c2d90a56578ec9ff2"
+  },
+  {
+    "match": "Vestri – Fylkir",
+    "prediction": "2",
+    "odds": 1.65,
+    "status": "Unknown",
+    "date": "2026-07-13",
+    "hash": "b72da179c95fe02b965e7506a6b5e28a"
+  },
+  {
+    "match": "Honka – HJS",
+    "prediction": "1",
+    "odds": 1.18,
+    "status": "Lost",
+    "date": "2026-07-13",
+    "hash": "91ea047a9e7a046bf421110852105674"
+  },
+  {
+    "match": "Ningbo – Foshan Nanshi",
+    "prediction": "Over 2.5 goals",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-07-13",
+    "hash": "0c50b5b0dc253e4a236b53afb7ba8ab3"
   }
 ]
