@@ -2634,7 +2634,7 @@
   {
     "match": "Malisheva – Vllaznia",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Won",
     "date": "2026-07-15",
     "hash": "1bbd4a346333713ef84995fdf9ef861c"
@@ -2642,7 +2642,7 @@
   {
     "match": "Sutjeska – Kairat Almaty",
     "prediction": "2",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Won",
     "date": "2026-07-15",
     "hash": "06eb0e3fa619079938fc3b2cc071f37e"
@@ -2650,7 +2650,7 @@
   {
     "match": "Atert Bissen – Klaksvikar",
     "prediction": "Both To Score",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Won",
     "date": "2026-07-15",
     "hash": "88650c6141faab6ef0fd8d180ef9623e"
@@ -2658,7 +2658,7 @@
   {
     "match": "Uni Craiova – BC Maxline",
     "prediction": "1",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-07-15",
     "hash": "7a1fbf4e60267e27b640c6876666036e"
@@ -2666,9 +2666,49 @@
   {
     "match": "England – Argentina",
     "prediction": "1X",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Lost",
     "date": "2026-07-15",
     "hash": "1ae582bd008ffe1ea639f485359d2d8e"
+  },
+  {
+    "match": "Derry City – CSKA Sofia",
+    "prediction": "2",
+    "odds": 1.8,
+    "status": "Won",
+    "date": "2026-07-16",
+    "hash": "5e953b397495f38948f6f95959d94e7c"
+  },
+  {
+    "match": "Rigas – Glentoran",
+    "prediction": "1",
+    "odds": 1.44,
+    "status": "Won",
+    "date": "2026-07-16",
+    "hash": "e78af66ab0c581d4310405c848a8ccd6"
+  },
+  {
+    "match": "Vestri – Qarabag",
+    "prediction": "2",
+    "odds": 1.1,
+    "status": "Unknown",
+    "date": "2026-07-16",
+    "hash": "c84125c8d61acca13a0f56b9e53a5b99"
+  },
+  {
+    "match": "BATE Borisov – Elbasani",
+    "prediction": "2",
+    "odds": 2.0,
+    "status": "Lost",
+    "date": "2026-07-16",
+    "hash": "db3a32924a0c2d821a3ec412a8281384"
+  },
+  {
+    "match": "Elimai – Alashkert",
+    "prediction": "1",
+    "odds": 1.55,
+    "status": "Lost",
+    "date": "2026-07-16",
+    "hash": "223d48ecbe1b4cb2aec988f24cf4b126"
   }
 ]
