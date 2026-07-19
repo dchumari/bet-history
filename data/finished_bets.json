@@ -2714,7 +2714,7 @@
   {
     "match": "Sparta – Nordsjaelland",
     "prediction": "Over 2.5 goals",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Won",
     "date": "2026-07-17",
     "hash": "4340b047bc23e1b6dcd42d05990e3831"
@@ -2722,7 +2722,7 @@
   {
     "match": "Yunnan Yukun – Shanghai Port",
     "prediction": "Both To Score",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-07-17",
     "hash": "dac833872c0eec85cca275d6ed14d135"
@@ -2730,7 +2730,7 @@
   {
     "match": "Henan – Qingdao",
     "prediction": "1",
-    "odds": 1.27,
+    "odds": "1.27",
     "status": "Won",
     "date": "2026-07-17",
     "hash": "fe6cfa6ab3eb888ca9118aea04b10afe"
@@ -2738,7 +2738,7 @@
   {
     "match": "Benfica – Villarreal",
     "prediction": "Over 2.5 goals",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Lost",
     "date": "2026-07-17",
     "hash": "afb6f80242c7b7d27019f8e4b6c21a06"
@@ -2746,7 +2746,7 @@
   {
     "match": "Beijing Guoan – Liaoning",
     "prediction": "1",
-    "odds": 1.37,
+    "odds": "1.37",
     "status": "Lost",
     "date": "2026-07-17",
     "hash": "e525bda13014f381bff89956d447ddcd"
@@ -2754,9 +2754,49 @@
   {
     "match": "Vestri – Qarabag",
     "prediction": "2",
-    "odds": 1.1,
+    "odds": "1.1",
     "status": "Won",
     "date": "2026-07-17",
     "hash": "d6ea3a87650a6c27508f67ec64e22ff8"
+  },
+  {
+    "match": "Viking – Sandefjord",
+    "prediction": "Both To Score",
+    "odds": 1.75,
+    "status": "Won",
+    "date": "2026-07-18",
+    "hash": "85bd1ed12f9bd1cdeeae92b41e1a0816"
+  },
+  {
+    "match": "France – England",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Lost",
+    "date": "2026-07-18",
+    "hash": "0181e3bae9c1c887e3941afa48b4df66"
+  },
+  {
+    "match": "Aurora – Oriente Petrolero",
+    "prediction": "1",
+    "odds": 1.57,
+    "status": "Lost",
+    "date": "2026-07-18",
+    "hash": "945d428108d0d9384662bc2945814581"
+  },
+  {
+    "match": "LDU – Leones",
+    "prediction": "1",
+    "odds": 1.45,
+    "status": "Lost",
+    "date": "2026-07-18",
+    "hash": "8991f255130530637a843ad43c31f063"
+  },
+  {
+    "match": "Shanghai Shenhua – Tianjin",
+    "prediction": "Over 2.5 goals",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-07-18",
+    "hash": "4d5049eea515da9801be85329b3464c1"
   }
 ]
