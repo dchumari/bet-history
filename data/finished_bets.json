@@ -2878,5 +2878,85 @@
     "status": "Lost",
     "date": "2026-07-20",
     "hash": "cf8f87b696270b3a90928711864b9a02"
+  },
+  {
+    "match": "Inter Miami – Chicago Fire",
+    "prediction": "1",
+    "odds": 2.01,
+    "status": "Won",
+    "date": "2026-07-22",
+    "hash": "dabb1cfa258280a3c79b6192359b7de7"
+  },
+  {
+    "match": "Sporting Cristal – Bragantino",
+    "prediction": "Under 2.5 goals",
+    "odds": 1.8,
+    "status": "Won",
+    "date": "2026-07-22",
+    "hash": "c805a47e5480d7d04b874a234504f5e6"
+  },
+  {
+    "match": "Coritiba – Palmeiras",
+    "prediction": "2",
+    "odds": 1.76,
+    "status": "Won",
+    "date": "2026-07-22",
+    "hash": "cac1b9866a683cc46b123847d8e69391"
+  },
+  {
+    "match": "Nottm Forest – Blackburn",
+    "prediction": "1",
+    "odds": 1.61,
+    "status": "Won",
+    "date": "2026-07-22",
+    "hash": "6f42bd33affc4a72959b50e77434ee32"
+  },
+  {
+    "match": "Omonia – Kairat Almaty",
+    "prediction": "1",
+    "odds": 1.61,
+    "status": "Won",
+    "date": "2026-07-22",
+    "hash": "e5251b3e385ea903cc4b262ef9a3d192"
+  },
+  {
+    "match": "Sturm Graz – Hearts",
+    "prediction": "1",
+    "odds": 1.72,
+    "status": "Won",
+    "date": "2026-07-22",
+    "hash": "0dcce1304bda17b1f441d4a936825e6d"
+  },
+  {
+    "match": "Sabah – KuPS",
+    "prediction": "1",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-07-22",
+    "hash": "90862276471fcb3fb850b8e27cda0131"
+  },
+  {
+    "match": "Fenerbahce – Gornik",
+    "prediction": "1",
+    "odds": 1.18,
+    "status": "Won",
+    "date": "2026-07-22",
+    "hash": "7c8b09a9b813712a7e4a7cd9e2cc1116"
+  },
+  {
+    "match": "Mjallby – Lincoln",
+    "prediction": "1",
+    "odds": 1.14,
+    "status": "Won",
+    "date": "2026-07-22",
+    "hash": "589d156ac90fa84b8ea67bc0583442a6"
+  },
+  {
+    "match": "Thun – Dinamo Zagreb",
+    "prediction": "2",
+    "odds": 1.9,
+    "status": "Lost",
+    "date": "2026-07-22",
+    "hash": "b0dd9876b60b7a944e2c578f90949c75"
   }
 ]
