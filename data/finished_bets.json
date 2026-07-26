@@ -3002,7 +3002,7 @@
   {
     "match": "Rosenborg – Man Utd",
     "prediction": "2",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Won",
     "date": "2026-07-24",
     "hash": "f5c69d84a90f58942e98bad72e4feb97"
@@ -3010,7 +3010,7 @@
   {
     "match": "Wolfsburg – Lyon",
     "prediction": "2",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-07-24",
     "hash": "235bb6292468b0d966861066395668d0"
@@ -3018,7 +3018,7 @@
   {
     "match": "Vasteras – Orgryte",
     "prediction": "1",
-    "odds": 1.49,
+    "odds": "1.49",
     "status": "Won",
     "date": "2026-07-24",
     "hash": "d6c98aa49d1b1f1068790f0effd1029b"
@@ -3026,7 +3026,7 @@
   {
     "match": "Timor-Leste – Vietnam",
     "prediction": "2",
-    "odds": 1.08,
+    "odds": "1.08",
     "status": "Won",
     "date": "2026-07-24",
     "hash": "52cb664688b1770dc536523191153023"
@@ -3034,9 +3034,49 @@
   {
     "match": "Groningen – Volendam",
     "prediction": "1",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Lost",
     "date": "2026-07-24",
     "hash": "fe8a02769b0e1a3cf76dbbc5801331fe"
+  },
+  {
+    "match": "Juan Pablo II – Cienciano",
+    "prediction": "1",
+    "odds": 2.3,
+    "status": "Won",
+    "date": "2026-07-25",
+    "hash": "4ad48a4ade8446fcb0b2f6392456c209"
+  },
+  {
+    "match": "Montreal – Inter Miami",
+    "prediction": "2",
+    "odds": 2.1,
+    "status": "Won",
+    "date": "2026-07-25",
+    "hash": "1a3a662b71c8abda73c3238eae6c5e9e"
+  },
+  {
+    "match": "Porto – Aston Villa",
+    "prediction": "1",
+    "odds": 2.05,
+    "status": "Won",
+    "date": "2026-07-25",
+    "hash": "e8092c302f0547ecde15d6e8fd5a957e"
+  },
+  {
+    "match": "AGF – Brondby",
+    "prediction": "1",
+    "odds": 2.2,
+    "status": "Lost",
+    "date": "2026-07-25",
+    "hash": "ef8ca9c91eea6f723dd6ca5622ef9fb2"
+  },
+  {
+    "match": "Luzern – Thun",
+    "prediction": "1",
+    "odds": 1.86,
+    "status": "Lost",
+    "date": "2026-07-25",
+    "hash": "d4059f22b3a559934c575eac46dd55aa"
   }
 ]
