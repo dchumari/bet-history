@@ -3082,7 +3082,7 @@
   {
     "match": "SonderjyskE – Midtjylland",
     "prediction": "Both To Score",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Won",
     "date": "2026-07-26",
     "hash": "d6e4aaca19e3f341ce97b7d49fe47d8c"
@@ -3090,7 +3090,7 @@
   {
     "match": "HJK Helsinki – TPS",
     "prediction": "1",
-    "odds": 1.48,
+    "odds": "1.48",
     "status": "Won",
     "date": "2026-07-26",
     "hash": "965a9d58c3da5d456f7be063bfbccf7a"
@@ -3098,7 +3098,7 @@
   {
     "match": "Horsens – Nordsjaelland",
     "prediction": "2",
-    "odds": 1.86,
+    "odds": "1.86",
     "status": "Lost",
     "date": "2026-07-26",
     "hash": "b99dfee83b9c19cfb5109e77dabb4a4a"
@@ -3106,7 +3106,7 @@
   {
     "match": "Brann – Valerenga",
     "prediction": "1",
-    "odds": 1.72,
+    "odds": "1.72",
     "status": "Lost",
     "date": "2026-07-26",
     "hash": "788c076b954097d0e375f7daddeeed72"
@@ -3114,9 +3114,49 @@
   {
     "match": "GAIS – Halmstads",
     "prediction": "1",
-    "odds": 1.3,
+    "odds": "1.3",
     "status": "Lost",
     "date": "2026-07-26",
     "hash": "03f29c6c5bc8affcd7a66316e2668922"
+  },
+  {
+    "match": "Tukums – Rigas",
+    "prediction": "2",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-07-27",
+    "hash": "40fb407f9bbae4f15deff3c063cba5de"
+  },
+  {
+    "match": "CFR Cluj – Voluntari",
+    "prediction": "1X",
+    "odds": 1.2,
+    "status": "Won",
+    "date": "2026-07-27",
+    "hash": "69a5dc182c23de2f11025000c4373fd3"
+  },
+  {
+    "match": "Singapore – Timor-Leste",
+    "prediction": "1",
+    "odds": 1.07,
+    "status": "Won",
+    "date": "2026-07-27",
+    "hash": "166e219cc53c68ea4154af7a0d15b1d5"
+  },
+  {
+    "match": "Hacken – AIK",
+    "prediction": "1",
+    "odds": 1.81,
+    "status": "Lost",
+    "date": "2026-07-27",
+    "hash": "3303712dc27bc4135a357ccbae43dd2e"
+  },
+  {
+    "match": "Randers – Silkeborg",
+    "prediction": "1",
+    "odds": 1.68,
+    "status": "Lost",
+    "date": "2026-07-27",
+    "hash": "5978c5199831659d853934ed43baebb1"
   }
 ]
