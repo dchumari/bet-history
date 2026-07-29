@@ -3122,7 +3122,7 @@
   {
     "match": "Tukums – Rigas",
     "prediction": "2",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-07-27",
     "hash": "40fb407f9bbae4f15deff3c063cba5de"
@@ -3130,7 +3130,7 @@
   {
     "match": "CFR Cluj – Voluntari",
     "prediction": "1X",
-    "odds": 1.2,
+    "odds": "1.2",
     "status": "Won",
     "date": "2026-07-27",
     "hash": "69a5dc182c23de2f11025000c4373fd3"
@@ -3138,7 +3138,7 @@
   {
     "match": "Singapore – Timor-Leste",
     "prediction": "1",
-    "odds": 1.07,
+    "odds": "1.07",
     "status": "Won",
     "date": "2026-07-27",
     "hash": "166e219cc53c68ea4154af7a0d15b1d5"
@@ -3146,7 +3146,7 @@
   {
     "match": "Hacken – AIK",
     "prediction": "1",
-    "odds": 1.81,
+    "odds": "1.81",
     "status": "Lost",
     "date": "2026-07-27",
     "hash": "3303712dc27bc4135a357ccbae43dd2e"
@@ -3154,9 +3154,49 @@
   {
     "match": "Randers – Silkeborg",
     "prediction": "1",
-    "odds": 1.68,
+    "odds": "1.68",
     "status": "Lost",
     "date": "2026-07-27",
     "hash": "5978c5199831659d853934ed43baebb1"
+  },
+  {
+    "match": "Hearts – Sturm",
+    "prediction": "1",
+    "odds": 1.8,
+    "status": "Lost",
+    "date": "2026-07-28",
+    "hash": "78db15247268f2076ab36f170b8d39ed"
+  },
+  {
+    "match": "KuPS – Sabah",
+    "prediction": "BTTS",
+    "odds": 1.72,
+    "status": "Lost",
+    "date": "2026-07-28",
+    "hash": "0340682c9c07061cbeaf606e0e13e0f3"
+  },
+  {
+    "match": "Lincoln – Mjallby",
+    "prediction": "2",
+    "odds": 1.55,
+    "status": "Lost",
+    "date": "2026-07-28",
+    "hash": "c3d12787eac307c0b813b933abf37230"
+  },
+  {
+    "match": "Dinamo Zagreb – Thun",
+    "prediction": "1",
+    "odds": 1.4,
+    "status": "Lost",
+    "date": "2026-07-28",
+    "hash": "e5e3579a2cf1dea0543eb51a649f98e6"
+  },
+  {
+    "match": "Riga – Vardar",
+    "prediction": "1",
+    "odds": 1.36,
+    "status": "Lost",
+    "date": "2026-07-28",
+    "hash": "3cd3691ba981a83e0ea6ec3c8f862bde"
   }
 ]
