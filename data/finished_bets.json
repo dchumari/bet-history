@@ -3162,7 +3162,7 @@
   {
     "match": "Hearts – Sturm",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Lost",
     "date": "2026-07-28",
     "hash": "78db15247268f2076ab36f170b8d39ed"
@@ -3170,7 +3170,7 @@
   {
     "match": "KuPS – Sabah",
     "prediction": "BTTS",
-    "odds": 1.72,
+    "odds": "1.72",
     "status": "Lost",
     "date": "2026-07-28",
     "hash": "0340682c9c07061cbeaf606e0e13e0f3"
@@ -3178,7 +3178,7 @@
   {
     "match": "Lincoln – Mjallby",
     "prediction": "2",
-    "odds": 1.55,
+    "odds": "1.55",
     "status": "Lost",
     "date": "2026-07-28",
     "hash": "c3d12787eac307c0b813b933abf37230"
@@ -3186,7 +3186,7 @@
   {
     "match": "Dinamo Zagreb – Thun",
     "prediction": "1",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Lost",
     "date": "2026-07-28",
     "hash": "e5e3579a2cf1dea0543eb51a649f98e6"
@@ -3194,9 +3194,49 @@
   {
     "match": "Riga – Vardar",
     "prediction": "1",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Lost",
     "date": "2026-07-28",
     "hash": "3cd3691ba981a83e0ea6ec3c8f862bde"
+  },
+  {
+    "match": "Kairat Almaty – Omonia",
+    "prediction": "1",
+    "odds": 2.2,
+    "status": "Won",
+    "date": "2026-07-29",
+    "hash": "478022c175a754659d002cef58eb0630"
+  },
+  {
+    "match": "Copenhagen – Zhytomyr",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Won",
+    "date": "2026-07-29",
+    "hash": "dc9fd62e00fdcf6df6e17dae9badc6bd"
+  },
+  {
+    "match": "Crvena Zvezda – Larne",
+    "prediction": "1",
+    "odds": 1.05,
+    "status": "Won",
+    "date": "2026-07-29",
+    "hash": "263f60346c81c9374ff23c45d3833515"
+  },
+  {
+    "match": "Atletico – Getafe",
+    "prediction": "Under 2.5",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-07-29",
+    "hash": "86e7cebf5acd367c230efa4a1634ccf8"
+  },
+  {
+    "match": "Gornik – Fenerbahce",
+    "prediction": "2",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-07-29",
+    "hash": "f0aed613530d3a8382bdc295cfcf35a4"
   }
 ]
