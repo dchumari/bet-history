@@ -3202,7 +3202,7 @@
   {
     "match": "Kairat Almaty – Omonia",
     "prediction": "1",
-    "odds": 2.2,
+    "odds": "2.2",
     "status": "Won",
     "date": "2026-07-29",
     "hash": "478022c175a754659d002cef58eb0630"
@@ -3210,7 +3210,7 @@
   {
     "match": "Copenhagen – Zhytomyr",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-07-29",
     "hash": "dc9fd62e00fdcf6df6e17dae9badc6bd"
@@ -3218,7 +3218,7 @@
   {
     "match": "Crvena Zvezda – Larne",
     "prediction": "1",
-    "odds": 1.05,
+    "odds": "1.05",
     "status": "Won",
     "date": "2026-07-29",
     "hash": "263f60346c81c9374ff23c45d3833515"
@@ -3226,7 +3226,7 @@
   {
     "match": "Atletico – Getafe",
     "prediction": "Under 2.5",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Lost",
     "date": "2026-07-29",
     "hash": "86e7cebf5acd367c230efa4a1634ccf8"
@@ -3234,9 +3234,49 @@
   {
     "match": "Gornik – Fenerbahce",
     "prediction": "2",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Lost",
     "date": "2026-07-29",
     "hash": "f0aed613530d3a8382bdc295cfcf35a4"
+  },
+  {
+    "match": "Shkendija – NK Bravo",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-07-30",
+    "hash": "35f8c1a86fc591396ed11e2823222d10"
+  },
+  {
+    "match": "Mallorca – Al-Ittihad",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-07-30",
+    "hash": "ecea41aa761cb4fbf2603336f77bc3f0"
+  },
+  {
+    "match": "Benfica – St Gallen",
+    "prediction": "1",
+    "odds": 1.12,
+    "status": "Won",
+    "date": "2026-07-30",
+    "hash": "f378756c4d801a760ec1739a39275128"
+  },
+  {
+    "match": "Pyunik – Debreceni",
+    "prediction": "1",
+    "odds": 2.05,
+    "status": "Lost",
+    "date": "2026-07-30",
+    "hash": "58318f1f6b4a7a869fa9159a050900c9"
+  },
+  {
+    "match": "Hradec – Tromso",
+    "prediction": "2",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-07-30",
+    "hash": "1c9eaa49b57c0ca20ebb2b117ad2a534"
   }
 ]
