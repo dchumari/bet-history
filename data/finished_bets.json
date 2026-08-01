@@ -3242,7 +3242,7 @@
   {
     "match": "Shkendija – NK Bravo",
     "prediction": "1",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-07-30",
     "hash": "35f8c1a86fc591396ed11e2823222d10"
@@ -3250,7 +3250,7 @@
   {
     "match": "Mallorca – Al-Ittihad",
     "prediction": "1",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-07-30",
     "hash": "ecea41aa761cb4fbf2603336f77bc3f0"
@@ -3258,7 +3258,7 @@
   {
     "match": "Benfica – St Gallen",
     "prediction": "1",
-    "odds": 1.12,
+    "odds": "1.12",
     "status": "Won",
     "date": "2026-07-30",
     "hash": "f378756c4d801a760ec1739a39275128"
@@ -3266,7 +3266,7 @@
   {
     "match": "Pyunik – Debreceni",
     "prediction": "1",
-    "odds": 2.05,
+    "odds": "2.05",
     "status": "Lost",
     "date": "2026-07-30",
     "hash": "58318f1f6b4a7a869fa9159a050900c9"
@@ -3274,9 +3274,49 @@
   {
     "match": "Hradec – Tromso",
     "prediction": "2",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Lost",
     "date": "2026-07-30",
     "hash": "1c9eaa49b57c0ca20ebb2b117ad2a534"
+  },
+  {
+    "match": "Torquay – Exeter",
+    "prediction": "1",
+    "odds": 1.66,
+    "status": "Won",
+    "date": "2026-07-31",
+    "hash": "911b27ee2622c0f0efb34968a1ccb1ef"
+  },
+  {
+    "match": "Toulouse – Real Sociedad",
+    "prediction": "2",
+    "odds": 2.37,
+    "status": "Lost",
+    "date": "2026-07-31",
+    "hash": "f1abe6f8224df7b0d7ec3b027015294a"
+  },
+  {
+    "match": "Birmingham – Barcelona",
+    "prediction": "2",
+    "odds": 1.57,
+    "status": "Lost",
+    "date": "2026-07-31",
+    "hash": "a555e5f3d3402825dfe81c4ad9209ce3"
+  },
+  {
+    "match": "Dundee Utd – Rangers",
+    "prediction": "2",
+    "odds": 1.49,
+    "status": "Lost",
+    "date": "2026-07-31",
+    "hash": "c3d53353bd8127135bc0b55e71ae7042"
+  },
+  {
+    "match": "Monaco – Cercle Brugge",
+    "prediction": "1",
+    "odds": 1.33,
+    "status": "Lost",
+    "date": "2026-07-31",
+    "hash": "557e1e60c3c85fee1488302ce9c099f5"
   }
 ]
