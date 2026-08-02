@@ -3282,7 +3282,7 @@
   {
     "match": "Torquay – Exeter",
     "prediction": "1",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Won",
     "date": "2026-07-31",
     "hash": "911b27ee2622c0f0efb34968a1ccb1ef"
@@ -3290,7 +3290,7 @@
   {
     "match": "Toulouse – Real Sociedad",
     "prediction": "2",
-    "odds": 2.37,
+    "odds": "2.37",
     "status": "Lost",
     "date": "2026-07-31",
     "hash": "f1abe6f8224df7b0d7ec3b027015294a"
@@ -3298,7 +3298,7 @@
   {
     "match": "Birmingham – Barcelona",
     "prediction": "2",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Lost",
     "date": "2026-07-31",
     "hash": "a555e5f3d3402825dfe81c4ad9209ce3"
@@ -3306,7 +3306,7 @@
   {
     "match": "Dundee Utd – Rangers",
     "prediction": "2",
-    "odds": 1.49,
+    "odds": "1.49",
     "status": "Lost",
     "date": "2026-07-31",
     "hash": "c3d53353bd8127135bc0b55e71ae7042"
@@ -3314,9 +3314,49 @@
   {
     "match": "Monaco – Cercle Brugge",
     "prediction": "1",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Lost",
     "date": "2026-07-31",
     "hash": "557e1e60c3c85fee1488302ce9c099f5"
+  },
+  {
+    "match": "Portland – Seattle",
+    "prediction": "1",
+    "odds": 2.1,
+    "status": "Won",
+    "date": "2026-08-01",
+    "hash": "297980840a2df6b796299c53de55f097"
+  },
+  {
+    "match": "Aberdeen – Hearts",
+    "prediction": "Both To Score",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-08-01",
+    "hash": "a7b9f7258b7d9c7935e850c54b557cea"
+  },
+  {
+    "match": "Real Madrid – Fiorentina",
+    "prediction": "Both To Score",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-08-01",
+    "hash": "4fe3a7b0ef4b512c349e43cafe6c151c"
+  },
+  {
+    "match": "Porto – Torreense",
+    "prediction": "1",
+    "odds": 1.11,
+    "status": "Won",
+    "date": "2026-08-01",
+    "hash": "0ba93b649587b507fe813627ac501b76"
+  },
+  {
+    "match": "Tokyo – Dortmund",
+    "prediction": "1",
+    "odds": 2.7,
+    "status": "Lost",
+    "date": "2026-08-01",
+    "hash": "ddcf10ecb8608942e36bc7eac89aa62c"
   }
 ]
