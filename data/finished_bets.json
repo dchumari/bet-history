@@ -3362,7 +3362,7 @@
   {
     "match": "Celtic – Dundee",
     "prediction": "1",
-    "odds": 1.17,
+    "odds": "1.17",
     "status": "Won",
     "date": "2026-08-03",
     "hash": "007e3b851c9924b3ee3796c28c535b3f"
@@ -3370,7 +3370,7 @@
   {
     "match": "OB – SonderjyskE",
     "prediction": "1X",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-08-03",
     "hash": "8d3e6f6c0fe34e203bf9910ee78dd344"
@@ -3378,7 +3378,7 @@
   {
     "match": "Halmstads – Sirius",
     "prediction": "2",
-    "odds": 1.35,
+    "odds": "1.35",
     "status": "Won",
     "date": "2026-08-03",
     "hash": "3522492c9e78a1e569d4ae1dfa794e02"
@@ -3386,7 +3386,7 @@
   {
     "match": "Auda – Ogre United",
     "prediction": "1",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Unknown",
     "date": "2026-08-03",
     "hash": "a99baafeaa4646f3f95b8cdca8f4818a"
@@ -3394,7 +3394,7 @@
   {
     "match": "Sarmiento – Rivadavia",
     "prediction": "X2",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Lost",
     "date": "2026-08-03",
     "hash": "1ce3e6ca0ffab224828d2848168a661b"
@@ -3402,7 +3402,7 @@
   {
     "match": "Oriente – Nacional",
     "prediction": "1",
-    "odds": 1.86,
+    "odds": "1.86",
     "status": "Won",
     "date": "2026-08-03",
     "hash": "7a9cbe481da28654605d9415558999df"
@@ -3410,7 +3410,7 @@
   {
     "match": "Goteborg – Degerfors",
     "prediction": "1",
-    "odds": 1.68,
+    "odds": "1.68",
     "status": "Won",
     "date": "2026-08-03",
     "hash": "0985e7ccbdf7966e0b1bf0482292b0d1"
@@ -3418,7 +3418,7 @@
   {
     "match": "Silkeborg – Copenhagen",
     "prediction": "2",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Won",
     "date": "2026-08-03",
     "hash": "44990075f3665bdd0346abbabe274644"
@@ -3426,9 +3426,49 @@
   {
     "match": "Nordsjaelland – Randers",
     "prediction": "1",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Won",
     "date": "2026-08-03",
     "hash": "dfcb98d1c73391ca3f7971ca8ac2290c"
+  },
+  {
+    "match": "Dinamo Zagreb – Kauno",
+    "prediction": "1",
+    "odds": 1.14,
+    "status": "Won",
+    "date": "2026-08-04",
+    "hash": "95d09c17d36314d22b732efc2d567fe0"
+  },
+  {
+    "match": "Jeju Utd – Bayern",
+    "prediction": "2",
+    "odds": 1.14,
+    "status": "Won",
+    "date": "2026-08-04",
+    "hash": "5eb1f7378e14b660a2e00f98cfbe8bf4"
+  },
+  {
+    "match": "Beer Sheva – Red Star",
+    "prediction": "2",
+    "odds": 1.75,
+    "status": "Lost",
+    "date": "2026-08-04",
+    "hash": "ef04883f3552f07bb767f37e84d0fd41"
+  },
+  {
+    "match": "Auda – Dinamo Tirana",
+    "prediction": "X2",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-08-04",
+    "hash": "6fcffbd5b5e3106fa22746632a2e072c"
+  },
+  {
+    "match": "Sparta Prague – Lyon",
+    "prediction": "X2",
+    "odds": 1.28,
+    "status": "Lost",
+    "date": "2026-08-04",
+    "hash": "ed28baca609ec62ac7b2acb97098e516"
   }
 ]
