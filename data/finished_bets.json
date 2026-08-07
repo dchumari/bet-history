@@ -3474,7 +3474,7 @@
   {
     "match": "Villarreal – Levante",
     "prediction": "Under 3.5 goals",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-08-05",
     "hash": "8fe3158478c2472b2701967ceaf078f5"
@@ -3482,7 +3482,7 @@
   {
     "match": "K-League Allstars – Man City",
     "prediction": "Over 3.5 goals",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-08-05",
     "hash": "bcff0ca0023f186d13767ac3c55210af"
@@ -3490,7 +3490,7 @@
   {
     "match": "Toluca – Seattle",
     "prediction": "1",
-    "odds": 1.38,
+    "odds": "1.38",
     "status": "Won",
     "date": "2026-08-05",
     "hash": "e1fa6d50c6424a630c7a8f8b9853ffa7"
@@ -3498,7 +3498,7 @@
   {
     "match": "Fenerbahce – Sturm Graz",
     "prediction": "1",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-08-05",
     "hash": "074ff6a9fc6abbc9fd3418da3c4dcd43"
@@ -3506,9 +3506,49 @@
   {
     "match": "Brann – Apollon Limassol",
     "prediction": "1",
-    "odds": 1.6,
+    "odds": "1.6",
     "status": "Lost",
     "date": "2026-08-05",
     "hash": "ec4138199dfcaf48ee9e29f96135eccc"
+  },
+  {
+    "match": "Monaco – Getafe",
+    "prediction": "1",
+    "odds": 1.8,
+    "status": "Won",
+    "date": "2026-08-06",
+    "hash": "df8b68528d7d593430ebb3c37df01f0b"
+  },
+  {
+    "match": "Borac – Vitebsk",
+    "prediction": "1",
+    "odds": 1.8,
+    "status": "Won",
+    "date": "2026-08-06",
+    "hash": "c1e271cb523aa0c20ee725ea92409500"
+  },
+  {
+    "match": "Benfica – Hearts",
+    "prediction": "1",
+    "odds": 1.14,
+    "status": "Won",
+    "date": "2026-08-06",
+    "hash": "d300d226f52f320d52d9aec99f5f11e7"
+  },
+  {
+    "match": "Ajax – Shelbourne",
+    "prediction": "1",
+    "odds": 1.07,
+    "status": "Won",
+    "date": "2026-08-06",
+    "hash": "c4197a2267edec39f1d976ef2dd3c67f"
+  },
+  {
+    "match": "PAOK – Anderlecht",
+    "prediction": "1",
+    "odds": 1.66,
+    "status": "Lost",
+    "date": "2026-08-06",
+    "hash": "4acdebddf32185c8dfacf8dbb75da450"
   }
 ]
