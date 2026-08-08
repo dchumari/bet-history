@@ -3514,7 +3514,7 @@
   {
     "match": "Monaco – Getafe",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Won",
     "date": "2026-08-06",
     "hash": "df8b68528d7d593430ebb3c37df01f0b"
@@ -3522,7 +3522,7 @@
   {
     "match": "Borac – Vitebsk",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Won",
     "date": "2026-08-06",
     "hash": "c1e271cb523aa0c20ee725ea92409500"
@@ -3530,7 +3530,7 @@
   {
     "match": "Benfica – Hearts",
     "prediction": "1",
-    "odds": 1.14,
+    "odds": "1.14",
     "status": "Won",
     "date": "2026-08-06",
     "hash": "d300d226f52f320d52d9aec99f5f11e7"
@@ -3538,7 +3538,7 @@
   {
     "match": "Ajax – Shelbourne",
     "prediction": "1",
-    "odds": 1.07,
+    "odds": "1.07",
     "status": "Won",
     "date": "2026-08-06",
     "hash": "c4197a2267edec39f1d976ef2dd3c67f"
@@ -3546,9 +3546,49 @@
   {
     "match": "PAOK – Anderlecht",
     "prediction": "1",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Lost",
     "date": "2026-08-06",
     "hash": "4acdebddf32185c8dfacf8dbb75da450"
+  },
+  {
+    "match": "Cincinnati – Pumas UNAM",
+    "prediction": "1",
+    "odds": 2.1,
+    "status": "Won",
+    "date": "2026-08-07",
+    "hash": "0ac4787cde099431bb4da167060363a8"
+  },
+  {
+    "match": "Middlesbrough – Wrexham",
+    "prediction": "1",
+    "odds": 1.62,
+    "status": "Won",
+    "date": "2026-08-07",
+    "hash": "b933814cf5665a7090bdfb70f672163a"
+  },
+  {
+    "match": "Bayern – Aston Villa",
+    "prediction": "BTTS",
+    "odds": 1.44,
+    "status": "Won",
+    "date": "2026-08-07",
+    "hash": "ca034f20f18aaa9d6222d53099e8b93d"
+  },
+  {
+    "match": "Wycombe – Stevenage",
+    "prediction": "1",
+    "odds": 2.15,
+    "status": "Lost",
+    "date": "2026-08-07",
+    "hash": "853c26df7c3453437ad70336c64c24ec"
+  },
+  {
+    "match": "Vancouver – Juarez",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-08-07",
+    "hash": "db799421f93ca6daee283d6ed9833ba3"
   }
 ]
