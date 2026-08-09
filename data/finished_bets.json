@@ -3554,7 +3554,7 @@
   {
     "match": "Cincinnati – Pumas UNAM",
     "prediction": "1",
-    "odds": 2.1,
+    "odds": "2.1",
     "status": "Won",
     "date": "2026-08-07",
     "hash": "0ac4787cde099431bb4da167060363a8"
@@ -3562,7 +3562,7 @@
   {
     "match": "Middlesbrough – Wrexham",
     "prediction": "1",
-    "odds": 1.62,
+    "odds": "1.62",
     "status": "Won",
     "date": "2026-08-07",
     "hash": "b933814cf5665a7090bdfb70f672163a"
@@ -3570,7 +3570,7 @@
   {
     "match": "Bayern – Aston Villa",
     "prediction": "BTTS",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Won",
     "date": "2026-08-07",
     "hash": "ca034f20f18aaa9d6222d53099e8b93d"
@@ -3578,7 +3578,7 @@
   {
     "match": "Wycombe – Stevenage",
     "prediction": "1",
-    "odds": 2.15,
+    "odds": "2.15",
     "status": "Lost",
     "date": "2026-08-07",
     "hash": "853c26df7c3453437ad70336c64c24ec"
@@ -3586,9 +3586,49 @@
   {
     "match": "Vancouver – Juarez",
     "prediction": "1",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Lost",
     "date": "2026-08-07",
     "hash": "db799421f93ca6daee283d6ed9833ba3"
+  },
+  {
+    "match": "Leverkusen – Sevilla",
+    "prediction": "1",
+    "odds": 1.95,
+    "status": "Won",
+    "date": "2026-08-08",
+    "hash": "83571e1bc20e5343aeb12ae5cd7698d6"
+  },
+  {
+    "match": "Real Salt Lake – Atlante",
+    "prediction": "1",
+    "odds": 1.66,
+    "status": "Won",
+    "date": "2026-08-08",
+    "hash": "8122620a77e2182d21f548b495641b33"
+  },
+  {
+    "match": "Orlando City – Leon",
+    "prediction": "1",
+    "odds": 2.05,
+    "status": "Lost",
+    "date": "2026-08-08",
+    "hash": "fad629c842065bca219ff9cbecfe6bc6"
+  },
+  {
+    "match": "Tottenham – Getafe",
+    "prediction": "1",
+    "odds": 2.0,
+    "status": "Lost",
+    "date": "2026-08-08",
+    "hash": "d68bd21a75e2e64aa872192912f9659f"
+  },
+  {
+    "match": "PSV – Fortuna",
+    "prediction": "1",
+    "odds": 1.2,
+    "status": "Lost",
+    "date": "2026-08-08",
+    "hash": "ba174d98dde8b4c8825b736aef47480d"
   }
 ]
