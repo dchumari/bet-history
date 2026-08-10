@@ -3594,7 +3594,7 @@
   {
     "match": "Leverkusen – Sevilla",
     "prediction": "1",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Won",
     "date": "2026-08-08",
     "hash": "83571e1bc20e5343aeb12ae5cd7698d6"
@@ -3602,7 +3602,7 @@
   {
     "match": "Real Salt Lake – Atlante",
     "prediction": "1",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Won",
     "date": "2026-08-08",
     "hash": "8122620a77e2182d21f548b495641b33"
@@ -3610,7 +3610,7 @@
   {
     "match": "Orlando City – Leon",
     "prediction": "1",
-    "odds": 2.05,
+    "odds": "2.05",
     "status": "Lost",
     "date": "2026-08-08",
     "hash": "fad629c842065bca219ff9cbecfe6bc6"
@@ -3618,7 +3618,7 @@
   {
     "match": "Tottenham – Getafe",
     "prediction": "1",
-    "odds": 2.0,
+    "odds": "2.0",
     "status": "Lost",
     "date": "2026-08-08",
     "hash": "d68bd21a75e2e64aa872192912f9659f"
@@ -3626,7 +3626,7 @@
   {
     "match": "PSV – Fortuna",
     "prediction": "1",
-    "odds": 1.2,
+    "odds": "1.2",
     "status": "Lost",
     "date": "2026-08-08",
     "hash": "ba174d98dde8b4c8825b736aef47480d"
