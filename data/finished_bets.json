@@ -3630,5 +3630,61 @@
     "status": "Lost",
     "date": "2026-08-08",
     "hash": "ba174d98dde8b4c8825b736aef47480d"
+  },
+  {
+    "match": "Rosenborg 2 – Ranheim 2",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-08-10",
+    "hash": "0ccddccc826640353c7fe9090fbb8ad9"
+  },
+  {
+    "match": "Plymouth – Exeter",
+    "prediction": "1",
+    "odds": 1.39,
+    "status": "Won",
+    "date": "2026-08-10",
+    "hash": "db7baf232ebca0ebcaf4a3cfa3627dc3"
+  },
+  {
+    "match": "TransINVEST – Panevezys",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Lost",
+    "date": "2026-08-10",
+    "hash": "2178ba90870dea56946cf7c1bcf6bf6f"
+  },
+  {
+    "match": "Silkeborg – OB",
+    "prediction": "X2",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-08-10",
+    "hash": "1db26a5a42c6a88d9f4fd9a59eed8aaa"
+  },
+  {
+    "match": "Sirius – Brommapojkarna",
+    "prediction": "1",
+    "odds": 1.27,
+    "status": "Lost",
+    "date": "2026-08-10",
+    "hash": "beaed2e0d9b36025126c4a6cb01b0b89"
+  },
+  {
+    "match": "Kilmarnock – Celtic",
+    "prediction": "2",
+    "odds": 1.35,
+    "status": "Won",
+    "date": "2026-08-10",
+    "hash": "191939ef57b4b8756f53c7d2b6520aef"
+  },
+  {
+    "match": "Chicago Fire – Santos",
+    "prediction": "1",
+    "odds": 1.45,
+    "status": "Won",
+    "date": "2026-08-10",
+    "hash": "72fc6aab14890f2bac963c1bbbef1f97"
   }
 ]
