@@ -3686,5 +3686,85 @@
     "status": "Won",
     "date": "2026-08-10",
     "hash": "72fc6aab14890f2bac963c1bbbef1f97"
+  },
+  {
+    "match": "PSG – Aston Villa",
+    "prediction": "1",
+    "odds": 1.72,
+    "status": "Won",
+    "date": "2026-08-12",
+    "hash": "4dfb9fe44e38c85a1135030b1141f510"
+  },
+  {
+    "match": "Monterrey – Nashville",
+    "prediction": "BTTS",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-08-12",
+    "hash": "09a92fa77fe68c005fad8bf3b2411f1f"
+  },
+  {
+    "match": "Inter Miami – Leon",
+    "prediction": "BTTS",
+    "odds": 1.44,
+    "status": "Won",
+    "date": "2026-08-12",
+    "hash": "457163d9ba72fe01ceac8f015e54e1c2"
+  },
+  {
+    "match": "Katowice – Tel Aviv",
+    "prediction": "Over 1.5",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-08-12",
+    "hash": "47132f2d9ec54ce09affea54ef62f82e"
+  },
+  {
+    "match": "Toluca – Dallas",
+    "prediction": "1",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-08-12",
+    "hash": "b37ab88b10bf276822357ef615910db7"
+  },
+  {
+    "match": "NEC – Olympiakos",
+    "prediction": "BTTS",
+    "odds": 1.8,
+    "status": "Won",
+    "date": "2026-08-12",
+    "hash": "90efec710268d515ce8f0b128cd01ace"
+  },
+  {
+    "match": "Bodo – Union SG",
+    "prediction": "Over 2.5",
+    "odds": 1.44,
+    "status": "Won",
+    "date": "2026-08-12",
+    "hash": "8ba539a2fafd8ff4bac2c39c3c62e953"
+  },
+  {
+    "match": "Columbus – Pumas UNAM",
+    "prediction": "1",
+    "odds": 1.6,
+    "status": "Lost",
+    "date": "2026-08-12",
+    "hash": "8f0a65f11529c2152c7185933ff1abd2"
+  },
+  {
+    "match": "Cincinnati – Atlas",
+    "prediction": "1",
+    "odds": 1.57,
+    "status": "Lost",
+    "date": "2026-08-12",
+    "hash": "b976006450811789a28655fbf802fb6f"
+  },
+  {
+    "match": "Tigres – Vancouver",
+    "prediction": "1",
+    "odds": 1.4,
+    "status": "Lost",
+    "date": "2026-08-12",
+    "hash": "f80f688290529fb46081903d030604ae"
   }
 ]
