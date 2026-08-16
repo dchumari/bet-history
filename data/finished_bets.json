@@ -3806,5 +3806,69 @@
     "status": "Lost",
     "date": "2026-08-13",
     "hash": "40688cf33e643373333aee3c798bdb13"
+  },
+  {
+    "match": "Sevilla – Rayo Vallecano",
+    "prediction": "1X",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-08-15",
+    "hash": "51b4fd43757e7977fb229fc62672c024"
+  },
+  {
+    "match": "Middlesbrough – Lincoln",
+    "prediction": "1",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-08-15",
+    "hash": "bc6948eac7b7e82e00f756bf26172e3e"
+  },
+  {
+    "match": "Notts County – Leicester",
+    "prediction": "2",
+    "odds": 1.91,
+    "status": "Lost",
+    "date": "2026-08-15",
+    "hash": "c577bf5c9c8aea073df46cb6e4e8fcbf"
+  },
+  {
+    "match": "Alaves – Getafe",
+    "prediction": "X2",
+    "odds": 1.57,
+    "status": "Lost",
+    "date": "2026-08-15",
+    "hash": "755f0a5db6ccafbf1cfedcee52f69aad"
+  },
+  {
+    "match": "Genclerbirligi – Fenerbahce",
+    "prediction": "2",
+    "odds": 1.42,
+    "status": "Lost",
+    "date": "2026-08-15",
+    "hash": "e148e49e93ca03641683cab9a6058355"
+  },
+  {
+    "match": "Elfsborg – Vasteras",
+    "prediction": "1",
+    "odds": 1.76,
+    "status": "Won",
+    "date": "2026-08-15",
+    "hash": "00e56e4b9056a25a025f19bcd7f9665c"
+  },
+  {
+    "match": "Klaksvikar – Lech Poznan",
+    "prediction": "2",
+    "odds": 1.66,
+    "status": "Won",
+    "date": "2026-08-15",
+    "hash": "3b3e66e4945b4aa10fbdfd3efec1e5cc"
+  },
+  {
+    "match": "Sporting – Guimaraes",
+    "prediction": "1",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-08-15",
+    "hash": "f61e79ed059df7b24476fdd377ea8b56"
   }
 ]
