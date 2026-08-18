@@ -3874,7 +3874,7 @@
   {
     "match": "Watford – Southampton",
     "prediction": "BTTS",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Won",
     "date": "2026-08-16",
     "hash": "597cb1ee162d1fc1a45d1520b8370382"
@@ -3882,7 +3882,7 @@
   {
     "match": "Arsenal – Man City",
     "prediction": "1X",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-08-16",
     "hash": "8bbf05644db3fe60b0f6074bfe1daf48"
@@ -3890,7 +3890,7 @@
   {
     "match": "Besiktas – Eyupspor",
     "prediction": "1",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-08-16",
     "hash": "c4b199edda5b60a3db4c6133644e375e"
@@ -3898,7 +3898,7 @@
   {
     "match": "Santander – Villarreal",
     "prediction": "2",
-    "odds": 2.1,
+    "odds": "2.1",
     "status": "Lost",
     "date": "2026-08-16",
     "hash": "1dfcab61d3d4bde8accc0e63ec881a84"
@@ -3906,9 +3906,49 @@
   {
     "match": "Lens – PSG",
     "prediction": "2",
-    "odds": 1.72,
+    "odds": "1.72",
     "status": "Lost",
     "date": "2026-08-16",
     "hash": "aa15050037ab1abb65e3c969a6a173fe"
+  },
+  {
+    "match": "Gnistan – Ilves",
+    "prediction": "1",
+    "odds": 2.45,
+    "status": "Won",
+    "date": "2026-08-17",
+    "hash": "42d93b7ca5e4dbf008a1d5a2c34cc3cc"
+  },
+  {
+    "match": "Cardiff – Wrexham",
+    "prediction": "BTTS",
+    "odds": 1.61,
+    "status": "Won",
+    "date": "2026-08-17",
+    "hash": "01c36f103ce9fdd90e33df67e7d769a1"
+  },
+  {
+    "match": "Brondby – SonderjyskE",
+    "prediction": "1",
+    "odds": 1.39,
+    "status": "Won",
+    "date": "2026-08-17",
+    "hash": "21e89be445d0eafe1f51eb34ace95e3c"
+  },
+  {
+    "match": "Deportivo – Elche",
+    "prediction": "1X",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-08-17",
+    "hash": "dcb8ca359d2d11851edae74a9055c2ef"
+  },
+  {
+    "match": "Casa Pia – Benfica",
+    "prediction": "2",
+    "odds": 1.19,
+    "status": "Won",
+    "date": "2026-08-17",
+    "hash": "4c8202f6c0a6072ae547e76e543e5c2d"
   }
 ]
