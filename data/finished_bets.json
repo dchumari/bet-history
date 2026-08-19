@@ -3914,7 +3914,7 @@
   {
     "match": "Gnistan – Ilves",
     "prediction": "1",
-    "odds": 2.45,
+    "odds": "2.45",
     "status": "Won",
     "date": "2026-08-17",
     "hash": "42d93b7ca5e4dbf008a1d5a2c34cc3cc"
@@ -3922,7 +3922,7 @@
   {
     "match": "Cardiff – Wrexham",
     "prediction": "BTTS",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Won",
     "date": "2026-08-17",
     "hash": "01c36f103ce9fdd90e33df67e7d769a1"
@@ -3930,7 +3930,7 @@
   {
     "match": "Brondby – SonderjyskE",
     "prediction": "1",
-    "odds": 1.39,
+    "odds": "1.39",
     "status": "Won",
     "date": "2026-08-17",
     "hash": "21e89be445d0eafe1f51eb34ace95e3c"
@@ -3938,7 +3938,7 @@
   {
     "match": "Deportivo – Elche",
     "prediction": "1X",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-08-17",
     "hash": "dcb8ca359d2d11851edae74a9055c2ef"
@@ -3946,9 +3946,49 @@
   {
     "match": "Casa Pia – Benfica",
     "prediction": "2",
-    "odds": 1.19,
+    "odds": "1.19",
     "status": "Won",
     "date": "2026-08-17",
     "hash": "4c8202f6c0a6072ae547e76e543e5c2d"
+  },
+  {
+    "match": "Levski – AEK Athens",
+    "prediction": "X2",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-08-18",
+    "hash": "aad79141bc57b4568e6ba044ba7cec81"
+  },
+  {
+    "match": "Fenerbahce – Lyon",
+    "prediction": "1X",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-08-18",
+    "hash": "2ba2916fb4af37de5f4b3fd0f6295f4e"
+  },
+  {
+    "match": "Sao Paulo – Bolivar",
+    "prediction": "1",
+    "odds": 1.4,
+    "status": "Unknown",
+    "date": "2026-08-18",
+    "hash": "9c292db20966addc64d61f579cc80267"
+  },
+  {
+    "match": "Bristol U21 – Wigan U21",
+    "prediction": "1",
+    "odds": 1.85,
+    "status": "Lost",
+    "date": "2026-08-18",
+    "hash": "15a8b6372a3f318f2b83880a7ac5da51"
+  },
+  {
+    "match": "Dinamo Zagreb – Viking",
+    "prediction": "1",
+    "odds": 1.66,
+    "status": "Lost",
+    "date": "2026-08-18",
+    "hash": "b50b5d49a4889acac5d580a5d82e0faa"
   }
 ]
