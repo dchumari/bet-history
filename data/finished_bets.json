@@ -3954,7 +3954,7 @@
   {
     "match": "Levski – AEK Athens",
     "prediction": "X2",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-08-18",
     "hash": "aad79141bc57b4568e6ba044ba7cec81"
@@ -3962,7 +3962,7 @@
   {
     "match": "Fenerbahce – Lyon",
     "prediction": "1X",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-08-18",
     "hash": "2ba2916fb4af37de5f4b3fd0f6295f4e"
@@ -3970,7 +3970,7 @@
   {
     "match": "Sao Paulo – Bolivar",
     "prediction": "1",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Unknown",
     "date": "2026-08-18",
     "hash": "9c292db20966addc64d61f579cc80267"
@@ -3978,7 +3978,7 @@
   {
     "match": "Bristol U21 – Wigan U21",
     "prediction": "1",
-    "odds": 1.85,
+    "odds": "1.85",
     "status": "Lost",
     "date": "2026-08-18",
     "hash": "15a8b6372a3f318f2b83880a7ac5da51"
@@ -3986,9 +3986,57 @@
   {
     "match": "Dinamo Zagreb – Viking",
     "prediction": "1",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Lost",
     "date": "2026-08-18",
     "hash": "b50b5d49a4889acac5d580a5d82e0faa"
+  },
+  {
+    "match": "Celtic – LASK Linz",
+    "prediction": "1",
+    "odds": 1.65,
+    "status": "Won",
+    "date": "2026-08-19",
+    "hash": "a476eca94dd877e7e5ad499c46e230e7"
+  },
+  {
+    "match": "NEC – Bodo Glimt",
+    "prediction": "X2",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-08-19",
+    "hash": "79785d44a4b1ffdb77fe349dbbc2062c"
+  },
+  {
+    "match": "Atletico Madrid – Malaga",
+    "prediction": "1",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-08-19",
+    "hash": "ed37a984b89ee945043a4c639a7a3b41"
+  },
+  {
+    "match": "Seattle – Austin",
+    "prediction": "1",
+    "odds": 1.66,
+    "status": "Unknown",
+    "date": "2026-08-19",
+    "hash": "04c62843b5654b277cd33eddd9cc48ea"
+  },
+  {
+    "match": "Slovan – NK Celje",
+    "prediction": "1",
+    "odds": 1.65,
+    "status": "Lost",
+    "date": "2026-08-19",
+    "hash": "11c3d2a6a7ee93cee8393dc02c47b436"
+  },
+  {
+    "match": "Sao Paulo – Bolivar",
+    "prediction": "1",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-08-19",
+    "hash": "708258d5809b6c53d6a4a97f3ff9f55e"
   }
 ]
