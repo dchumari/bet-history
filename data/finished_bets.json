@@ -3994,7 +3994,7 @@
   {
     "match": "Celtic – LASK Linz",
     "prediction": "1",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Won",
     "date": "2026-08-19",
     "hash": "a476eca94dd877e7e5ad499c46e230e7"
@@ -4002,7 +4002,7 @@
   {
     "match": "NEC – Bodo Glimt",
     "prediction": "X2",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Won",
     "date": "2026-08-19",
     "hash": "79785d44a4b1ffdb77fe349dbbc2062c"
@@ -4010,7 +4010,7 @@
   {
     "match": "Atletico Madrid – Malaga",
     "prediction": "1",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-08-19",
     "hash": "ed37a984b89ee945043a4c639a7a3b41"
@@ -4018,7 +4018,7 @@
   {
     "match": "Seattle – Austin",
     "prediction": "1",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Unknown",
     "date": "2026-08-19",
     "hash": "04c62843b5654b277cd33eddd9cc48ea"
@@ -4026,7 +4026,7 @@
   {
     "match": "Slovan – NK Celje",
     "prediction": "1",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Lost",
     "date": "2026-08-19",
     "hash": "11c3d2a6a7ee93cee8393dc02c47b436"
@@ -4034,9 +4034,49 @@
   {
     "match": "Sao Paulo – Bolivar",
     "prediction": "1",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-08-19",
     "hash": "708258d5809b6c53d6a4a97f3ff9f55e"
+  },
+  {
+    "match": "Crvena Zvezda – Plzen",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Won",
+    "date": "2026-08-20",
+    "hash": "3b68cdca28a783fa37476a066ee4c7c8"
+  },
+  {
+    "match": "Getafe – Partizan",
+    "prediction": "1",
+    "odds": 1.3,
+    "status": "Won",
+    "date": "2026-08-20",
+    "hash": "b029b82d0b4c09fb9ed801764a65531f"
+  },
+  {
+    "match": "Rayo Vallecano – Alaves",
+    "prediction": "1X",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-08-20",
+    "hash": "52bd43e24165990abb203974427a9eb2"
+  },
+  {
+    "match": "Benfica – AGF",
+    "prediction": "1",
+    "odds": 1.16,
+    "status": "Won",
+    "date": "2026-08-20",
+    "hash": "df2068705049988c516782a9454edac4"
+  },
+  {
+    "match": "Twente – Qarabag",
+    "prediction": "1",
+    "odds": 1.57,
+    "status": "Lost",
+    "date": "2026-08-20",
+    "hash": "a01bb4d97a9f90975f258b472c3ab7ad"
   }
 ]
