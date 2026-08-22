@@ -4042,7 +4042,7 @@
   {
     "match": "Crvena Zvezda – Plzen",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-08-20",
     "hash": "3b68cdca28a783fa37476a066ee4c7c8"
@@ -4050,7 +4050,7 @@
   {
     "match": "Getafe – Partizan",
     "prediction": "1",
-    "odds": 1.3,
+    "odds": "1.3",
     "status": "Won",
     "date": "2026-08-20",
     "hash": "b029b82d0b4c09fb9ed801764a65531f"
@@ -4058,7 +4058,7 @@
   {
     "match": "Rayo Vallecano – Alaves",
     "prediction": "1X",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-08-20",
     "hash": "52bd43e24165990abb203974427a9eb2"
@@ -4066,7 +4066,7 @@
   {
     "match": "Benfica – AGF",
     "prediction": "1",
-    "odds": 1.16,
+    "odds": "1.16",
     "status": "Won",
     "date": "2026-08-20",
     "hash": "df2068705049988c516782a9454edac4"
@@ -4074,9 +4074,49 @@
   {
     "match": "Twente – Qarabag",
     "prediction": "1",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Lost",
     "date": "2026-08-20",
     "hash": "a01bb4d97a9f90975f258b472c3ab7ad"
+  },
+  {
+    "match": "Betis – Real Sociedad",
+    "prediction": "1",
+    "odds": 2.05,
+    "status": "Won",
+    "date": "2026-08-21",
+    "hash": "3c9b03100ab93132bf66d04fde02b918"
+  },
+  {
+    "match": "Auda – Tukums",
+    "prediction": "1",
+    "odds": 1.42,
+    "status": "Won",
+    "date": "2026-08-21",
+    "hash": "0dd28c68690e79381174c21c5c61610e"
+  },
+  {
+    "match": "Erzurum – Galatasaray",
+    "prediction": "2",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-08-21",
+    "hash": "f8839d15c2cf1e1e51b13add2d7e6562"
+  },
+  {
+    "match": "Marseille – Strasbourg",
+    "prediction": "1X",
+    "odds": 1.2,
+    "status": "Won",
+    "date": "2026-08-21",
+    "hash": "1aadcfbf39676fde055ee7f9c2d08aec"
+  },
+  {
+    "match": "Arsenal – Coventry",
+    "prediction": "1",
+    "odds": 1.18,
+    "status": "Won",
+    "date": "2026-08-21",
+    "hash": "dc82f9a217fe8114b91fa8d9fdce171c"
   }
 ]
