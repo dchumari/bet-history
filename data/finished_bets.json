@@ -4082,7 +4082,7 @@
   {
     "match": "Betis – Real Sociedad",
     "prediction": "1",
-    "odds": 2.05,
+    "odds": "2.05",
     "status": "Won",
     "date": "2026-08-21",
     "hash": "3c9b03100ab93132bf66d04fde02b918"
@@ -4090,7 +4090,7 @@
   {
     "match": "Auda – Tukums",
     "prediction": "1",
-    "odds": 1.42,
+    "odds": "1.42",
     "status": "Won",
     "date": "2026-08-21",
     "hash": "0dd28c68690e79381174c21c5c61610e"
@@ -4098,7 +4098,7 @@
   {
     "match": "Erzurum – Galatasaray",
     "prediction": "2",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-08-21",
     "hash": "f8839d15c2cf1e1e51b13add2d7e6562"
@@ -4106,7 +4106,7 @@
   {
     "match": "Marseille – Strasbourg",
     "prediction": "1X",
-    "odds": 1.2,
+    "odds": "1.2",
     "status": "Won",
     "date": "2026-08-21",
     "hash": "1aadcfbf39676fde055ee7f9c2d08aec"
@@ -4114,9 +4114,49 @@
   {
     "match": "Arsenal – Coventry",
     "prediction": "1",
-    "odds": 1.18,
+    "odds": "1.18",
     "status": "Won",
     "date": "2026-08-21",
     "hash": "dc82f9a217fe8114b91fa8d9fdce171c"
+  },
+  {
+    "match": "Derby – Cardiff",
+    "prediction": "BTTS",
+    "odds": 1.8,
+    "status": "Won",
+    "date": "2026-08-22",
+    "hash": "a46292045f732f125d45eb745702e032"
+  },
+  {
+    "match": "Ipswich – Sunderland",
+    "prediction": "BTTS",
+    "odds": 1.75,
+    "status": "Won",
+    "date": "2026-08-22",
+    "hash": "d00ccc93705a5c970fc7285a10dd7050"
+  },
+  {
+    "match": "Espanyol – Real Madrid",
+    "prediction": "2",
+    "odds": 1.42,
+    "status": "Won",
+    "date": "2026-08-22",
+    "hash": "93fc8b922b6c912945d37812323c4a4a"
+  },
+  {
+    "match": "Brentford – Tottenham",
+    "prediction": "BTTS",
+    "odds": 1.57,
+    "status": "Lost",
+    "date": "2026-08-22",
+    "hash": "08b15d577a20fa23b72a7e37a777f44e"
+  },
+  {
+    "match": "Hull – Man Utd",
+    "prediction": "2",
+    "odds": 1.37,
+    "status": "Lost",
+    "date": "2026-08-22",
+    "hash": "5028ac5ed8e7d0801cfb6c0c30eb4a19"
   }
 ]
