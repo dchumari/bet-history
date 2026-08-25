@@ -4162,7 +4162,7 @@
   {
     "match": "Man City – Bournemouth",
     "prediction": "1",
-    "odds": 1.48,
+    "odds": "1.48",
     "status": "Won",
     "date": "2026-08-23",
     "hash": "dfee3817e35f7d820758e8987ec1a162"
@@ -4170,7 +4170,7 @@
   {
     "match": "Elche – Barcelona",
     "prediction": "2",
-    "odds": 1.3,
+    "odds": "1.3",
     "status": "Won",
     "date": "2026-08-23",
     "hash": "4dc48bfeb283922e08ab5c01588ebf62"
@@ -4178,7 +4178,7 @@
   {
     "match": "Newcastle – Liverpool",
     "prediction": "2",
-    "odds": 1.85,
+    "odds": "1.85",
     "status": "Lost",
     "date": "2026-08-23",
     "hash": "a318ebacb081491540eedef24c601af4"
@@ -4186,7 +4186,7 @@
   {
     "match": "Brighton – Aston Villa",
     "prediction": "BTTS",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Lost",
     "date": "2026-08-23",
     "hash": "507d6b7a00ceb5df002be011d15f84d5"
@@ -4194,7 +4194,7 @@
   {
     "match": "Venezia – Lecce",
     "prediction": "1X",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Lost",
     "date": "2026-08-23",
     "hash": "c242ef1821a3e22b5978cc945f221d80"
