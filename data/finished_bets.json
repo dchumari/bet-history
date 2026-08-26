@@ -4198,5 +4198,85 @@
     "status": "Lost",
     "date": "2026-08-23",
     "hash": "c242ef1821a3e22b5978cc945f221d80"
+  },
+  {
+    "match": "Cardiff – Norwich",
+    "prediction": "2",
+    "odds": 2.3,
+    "status": "Won",
+    "date": "2026-08-25",
+    "hash": "0b2db045065300aced75c850917472f1"
+  },
+  {
+    "match": "LASK Linz – Celtic",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Won",
+    "date": "2026-08-25",
+    "hash": "698b5850f29c42b193f367738eb7b5ae"
+  },
+  {
+    "match": "Sabah – Beer Sheva",
+    "prediction": "1",
+    "odds": 1.83,
+    "status": "Won",
+    "date": "2026-08-25",
+    "hash": "db61900d9affa34a2101a2efe8ed58b9"
+  },
+  {
+    "match": "Ipswich – Leicester",
+    "prediction": "1",
+    "odds": 1.46,
+    "status": "Won",
+    "date": "2026-08-25",
+    "hash": "766eaae922d043b17b1e85b3f4418d17"
+  },
+  {
+    "match": "Valencia – Betis",
+    "prediction": "X2",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-08-25",
+    "hash": "0ba77b053ba54b35f7bc28eef8436200"
+  },
+  {
+    "match": "Fulham – Chelsea",
+    "prediction": "2",
+    "odds": 1.83,
+    "status": "Won",
+    "date": "2026-08-25",
+    "hash": "90762978882a17a663aa85f6e34fda2d"
+  },
+  {
+    "match": "Roma – Fiorentina",
+    "prediction": "1",
+    "odds": 1.66,
+    "status": "Won",
+    "date": "2026-08-25",
+    "hash": "0d75a04d2c8a084c8e64ae6dca0bf427"
+  },
+  {
+    "match": "Malaga – Deportivo",
+    "prediction": "1X",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-08-25",
+    "hash": "fa75ee8c9814bed01831d9f93302a5d4"
+  },
+  {
+    "match": "Osasuna – Levante",
+    "prediction": "1X",
+    "odds": 1.18,
+    "status": "Won",
+    "date": "2026-08-25",
+    "hash": "bd066ffce47aeb8188286fea273e2d1f"
+  },
+  {
+    "match": "Bologna – Lazio",
+    "prediction": "X",
+    "odds": 3.2,
+    "status": "Lost",
+    "date": "2026-08-25",
+    "hash": "ef67ad11a73151e295b26114feb22f5e"
   }
 ]
