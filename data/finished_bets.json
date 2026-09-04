@@ -4562,7 +4562,7 @@
   {
     "match": "Wigan – MK Dons",
     "prediction": "1",
-    "odds": 2.3,
+    "odds": "2.3",
     "status": "Won",
     "date": "2026-09-02",
     "hash": "174d8b8be7d3b90ca1ed3909abfad247"
@@ -4570,7 +4570,7 @@
   {
     "match": "QPR – Cardiff",
     "prediction": "BTTS",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Won",
     "date": "2026-09-02",
     "hash": "1554e41260685911047a2a861040f7a7"
@@ -4578,7 +4578,7 @@
   {
     "match": "Burnley – Middlesbrough",
     "prediction": "2",
-    "odds": 2.45,
+    "odds": "2.45",
     "status": "Lost",
     "date": "2026-09-02",
     "hash": "3cc36759234760ca1cd7d716b739d00c"
@@ -4586,7 +4586,7 @@
   {
     "match": "West Brom – Charlton",
     "prediction": "1",
-    "odds": 1.71,
+    "odds": "1.71",
     "status": "Lost",
     "date": "2026-09-02",
     "hash": "dc485e2412b36f7816ccdaf0b92e38a2"
@@ -4594,9 +4594,49 @@
   {
     "match": "Sassuolo – Frosinone",
     "prediction": "1",
-    "odds": 1.81,
+    "odds": "1.81",
     "status": "Lost",
     "date": "2026-09-02",
     "hash": "1683df1af9e51cbc5286410dc651d63c"
+  },
+  {
+    "match": "Anderlecht – Kortrijk",
+    "prediction": "1",
+    "odds": 1.48,
+    "status": "Won",
+    "date": "2026-09-03",
+    "hash": "ba1f7f8a675ce94f0cdbefb31563d9c5"
+  },
+  {
+    "match": "Toulouse – Lille",
+    "prediction": "X2",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-09-03",
+    "hash": "469465ce82c58ee9de10463fc0a3097a"
+  },
+  {
+    "match": "Hibernian – Hearts",
+    "prediction": "Over 1.5 goals",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-09-03",
+    "hash": "be12211895ec0718b861dbb29d8f9042"
+  },
+  {
+    "match": "Sociedad – Celta",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Lost",
+    "date": "2026-09-03",
+    "hash": "99b48777dc4e5f684e77ca2c6d80af3d"
+  },
+  {
+    "match": "Copenhagen – Nordsjaelland",
+    "prediction": "BTTS",
+    "odds": 1.44,
+    "status": "Lost",
+    "date": "2026-09-03",
+    "hash": "ceff2ac7662afa82c6830c39187b7c73"
   }
 ]
