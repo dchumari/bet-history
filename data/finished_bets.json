@@ -4602,7 +4602,7 @@
   {
     "match": "Anderlecht – Kortrijk",
     "prediction": "1",
-    "odds": 1.48,
+    "odds": "1.48",
     "status": "Won",
     "date": "2026-09-03",
     "hash": "ba1f7f8a675ce94f0cdbefb31563d9c5"
@@ -4610,7 +4610,7 @@
   {
     "match": "Toulouse – Lille",
     "prediction": "X2",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-09-03",
     "hash": "469465ce82c58ee9de10463fc0a3097a"
@@ -4618,7 +4618,7 @@
   {
     "match": "Hibernian – Hearts",
     "prediction": "Over 1.5 goals",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-09-03",
     "hash": "be12211895ec0718b861dbb29d8f9042"
@@ -4626,7 +4626,7 @@
   {
     "match": "Sociedad – Celta",
     "prediction": "1",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Lost",
     "date": "2026-09-03",
     "hash": "99b48777dc4e5f684e77ca2c6d80af3d"
@@ -4634,7 +4634,7 @@
   {
     "match": "Copenhagen – Nordsjaelland",
     "prediction": "BTTS",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Lost",
     "date": "2026-09-03",
     "hash": "ceff2ac7662afa82c6830c39187b7c73"
