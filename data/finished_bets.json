@@ -4638,5 +4638,69 @@
     "status": "Lost",
     "date": "2026-09-03",
     "hash": "ceff2ac7662afa82c6830c39187b7c73"
+  },
+  {
+    "match": "Roma – Atalanta",
+    "prediction": "1",
+    "odds": 1.72,
+    "status": "Won",
+    "date": "2026-09-05",
+    "hash": "552561383cdf576e0e9cc6669cdb7b2c"
+  },
+  {
+    "match": "Man City – Coventry",
+    "prediction": "1",
+    "odds": 1.14,
+    "status": "Won",
+    "date": "2026-09-05",
+    "hash": "2316172a7aa7313de2530f5f2466a4f0"
+  },
+  {
+    "match": "Newcastle – Bournemouth",
+    "prediction": "1",
+    "odds": 2.15,
+    "status": "Lost",
+    "date": "2026-09-05",
+    "hash": "432bc72a5e7dbb76c711afd0da262905"
+  },
+  {
+    "match": "Brighton – Leeds",
+    "prediction": "1",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-09-05",
+    "hash": "6bd7e45137f9f986b5a0029e3859186b"
+  },
+  {
+    "match": "Villarreal – Deportivo",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-09-05",
+    "hash": "34cd8d3eb3da69fd2c2fb45a5fc68272"
+  },
+  {
+    "match": "Ipswich – Liverpool",
+    "prediction": "2",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-09-05",
+    "hash": "beb1dff2f6c425490e7c01ff5d6c7314"
+  },
+  {
+    "match": "Stuttgart – FC Köln",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-09-05",
+    "hash": "cc5432049629bd4a268a99863045c398"
+  },
+  {
+    "match": "Porto – Moreirense",
+    "prediction": "1",
+    "odds": 1.15,
+    "status": "Won",
+    "date": "2026-09-05",
+    "hash": "a676bf286bddc57cfacfacf7660e34bc"
   }
 ]
