@@ -4642,7 +4642,7 @@
   {
     "match": "Roma – Atalanta",
     "prediction": "1",
-    "odds": 1.72,
+    "odds": "1.72",
     "status": "Won",
     "date": "2026-09-05",
     "hash": "552561383cdf576e0e9cc6669cdb7b2c"
@@ -4650,7 +4650,7 @@
   {
     "match": "Man City – Coventry",
     "prediction": "1",
-    "odds": 1.14,
+    "odds": "1.14",
     "status": "Won",
     "date": "2026-09-05",
     "hash": "2316172a7aa7313de2530f5f2466a4f0"
@@ -4658,7 +4658,7 @@
   {
     "match": "Newcastle – Bournemouth",
     "prediction": "1",
-    "odds": 2.15,
+    "odds": "2.15",
     "status": "Lost",
     "date": "2026-09-05",
     "hash": "432bc72a5e7dbb76c711afd0da262905"
@@ -4666,7 +4666,7 @@
   {
     "match": "Brighton – Leeds",
     "prediction": "1",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Lost",
     "date": "2026-09-05",
     "hash": "6bd7e45137f9f986b5a0029e3859186b"
@@ -4674,7 +4674,7 @@
   {
     "match": "Villarreal – Deportivo",
     "prediction": "1",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Lost",
     "date": "2026-09-05",
     "hash": "34cd8d3eb3da69fd2c2fb45a5fc68272"
@@ -4682,7 +4682,7 @@
   {
     "match": "Ipswich – Liverpool",
     "prediction": "2",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-09-05",
     "hash": "beb1dff2f6c425490e7c01ff5d6c7314"
@@ -4690,7 +4690,7 @@
   {
     "match": "Stuttgart – FC Köln",
     "prediction": "1",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-09-05",
     "hash": "cc5432049629bd4a268a99863045c398"
@@ -4698,9 +4698,49 @@
   {
     "match": "Porto – Moreirense",
     "prediction": "1",
-    "odds": 1.15,
+    "odds": "1.15",
     "status": "Won",
     "date": "2026-09-05",
     "hash": "a676bf286bddc57cfacfacf7660e34bc"
+  },
+  {
+    "match": "Arsenal – Chelsea",
+    "prediction": "1",
+    "odds": 1.66,
+    "status": "Won",
+    "date": "2026-09-06",
+    "hash": "9b38df61830650ba7ba10fb9099bdab1"
+  },
+  {
+    "match": "Parma – Monza",
+    "prediction": "1X",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-09-06",
+    "hash": "dff880f92f01bba0599dfc6d44dabf53"
+  },
+  {
+    "match": "Valencia – Barcelona",
+    "prediction": "2",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-09-06",
+    "hash": "a1d5d2acafa1ce4a9e7d11df8973d9f1"
+  },
+  {
+    "match": "Juventus – AC Milan",
+    "prediction": "1",
+    "odds": 2.1,
+    "status": "Lost",
+    "date": "2026-09-06",
+    "hash": "7344512bd66dc88fa2c9b3b45e3b53d1"
+  },
+  {
+    "match": "Everton – Man Utd",
+    "prediction": "2",
+    "odds": 2.05,
+    "status": "Lost",
+    "date": "2026-09-06",
+    "hash": "a57d7ac482dc7c3cad00a57f2bfde92a"
   }
 ]
