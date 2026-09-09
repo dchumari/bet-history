@@ -4746,7 +4746,7 @@
   {
     "match": "Elche – Sociedad",
     "prediction": "2",
-    "odds": 2.2,
+    "odds": "2.2",
     "status": "Won",
     "date": "2026-09-07",
     "hash": "c9b6a15bb9077d67cf59fa6d2c260ae7"
@@ -4754,7 +4754,7 @@
   {
     "match": "Udinese – Lazio",
     "prediction": "X2",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-09-07",
     "hash": "8a1c137d5fb5ccae4b2b83a744cd57a3"
@@ -4762,7 +4762,7 @@
   {
     "match": "Cagliari – Lecce",
     "prediction": "1X",
-    "odds": 1.2,
+    "odds": "1.2",
     "status": "Won",
     "date": "2026-09-07",
     "hash": "1494d5fa493bfd3725d69552d69c0623"
@@ -4770,7 +4770,7 @@
   {
     "match": "Getafe – Celta",
     "prediction": "1",
-    "odds": 2.5,
+    "odds": "2.5",
     "status": "Lost",
     "date": "2026-09-07",
     "hash": "9822b65b50b8ee1195eead0bfd7af583"
@@ -4778,9 +4778,49 @@
   {
     "match": "Rizespor – Alanyaspor",
     "prediction": "1",
-    "odds": 1.85,
+    "odds": "1.85",
     "status": "Lost",
     "date": "2026-09-07",
     "hash": "e817a20cc7d4f228c95dcc3e0c34ac5a"
+  },
+  {
+    "match": "Dortmund – Villarreal",
+    "prediction": "1",
+    "odds": 1.75,
+    "status": "Won",
+    "date": "2026-09-08",
+    "hash": "8243a688d52c7107e8d28f8bdce897d1"
+  },
+  {
+    "match": "AEK Athens – LASK",
+    "prediction": "1",
+    "odds": 1.75,
+    "status": "Won",
+    "date": "2026-09-08",
+    "hash": "1ef02587f319d6e3df4284e589c6b98f"
+  },
+  {
+    "match": "Porto – Man City",
+    "prediction": "2",
+    "odds": 1.7,
+    "status": "Won",
+    "date": "2026-09-08",
+    "hash": "e85b953dc562fadcb0ad780b7188b52c"
+  },
+  {
+    "match": "Real Madrid – Inter",
+    "prediction": "1",
+    "odds": 1.61,
+    "status": "Won",
+    "date": "2026-09-08",
+    "hash": "3f1c0b9457ba9e9c29b5253052c54acd"
+  },
+  {
+    "match": "Lille – Betis",
+    "prediction": "1",
+    "odds": 2.2,
+    "status": "Lost",
+    "date": "2026-09-08",
+    "hash": "99b3af50917e81c924a79ac16cc1fbaf"
   }
 ]
