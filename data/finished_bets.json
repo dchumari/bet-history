@@ -4866,7 +4866,7 @@
   {
     "match": "Como – Leipzig",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Won",
     "date": "2026-09-10",
     "hash": "e2b8114e7832949f3d4f1cc843f4e59e"
@@ -4874,7 +4874,7 @@
   {
     "match": "Man Utd – Sabah",
     "prediction": "1",
-    "odds": 1.09,
+    "odds": "1.09",
     "status": "Won",
     "date": "2026-09-10",
     "hash": "1e083e7558ebe2f57d66e8f9d860a9e5"
@@ -4882,7 +4882,7 @@
   {
     "match": "Bayern – Bodo Glimt",
     "prediction": "1",
-    "odds": 1.09,
+    "odds": "1.09",
     "status": "Won",
     "date": "2026-09-10",
     "hash": "1954b26ee938770ab576ffdfa27d0301"
@@ -4890,7 +4890,7 @@
   {
     "match": "Fenerbahce – Roma",
     "prediction": "2",
-    "odds": 2.15,
+    "odds": "2.15",
     "status": "Lost",
     "date": "2026-09-10",
     "hash": "a6de5d906ee64fda754186f4057c0bb4"
@@ -4898,9 +4898,49 @@
   {
     "match": "PSV – Shakhtar",
     "prediction": "1",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Lost",
     "date": "2026-09-10",
     "hash": "d0b3cb571ef5e46d260f0ccba443abe0"
+  },
+  {
+    "match": "Sevilla – Valencia",
+    "prediction": "1",
+    "odds": 2.05,
+    "status": "Won",
+    "date": "2026-09-11",
+    "hash": "6679e38b2050d00857cc073b2f1729b7"
+  },
+  {
+    "match": "Venezia – Fiorentina",
+    "prediction": "BTTS",
+    "odds": 1.61,
+    "status": "Won",
+    "date": "2026-09-11",
+    "hash": "f4e1c7b9bc4339eef051f35fa295bd4f"
+  },
+  {
+    "match": "Rennes – Marseille",
+    "prediction": "1X",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-09-11",
+    "hash": "2482283e7a040c03c1bb278bf6700834"
+  },
+  {
+    "match": "Besiktas – Erzurum",
+    "prediction": "1",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-09-11",
+    "hash": "0e10702ebc097b0cad2fdb953a6fb9f7"
+  },
+  {
+    "match": "AZ Alkmaar – Willem II",
+    "prediction": "1",
+    "odds": 1.16,
+    "status": "Lost",
+    "date": "2026-09-11",
+    "hash": "5de60d6dc6f12f521e428fb8cc66de75"
   }
 ]
