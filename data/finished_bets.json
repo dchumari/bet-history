@@ -4946,7 +4946,7 @@
   {
     "match": "Sunderland – Arsenal",
     "prediction": "2",
-    "odds": 1.48,
+    "odds": "1.48",
     "status": "Won",
     "date": "2026-09-12",
     "hash": "913a6020fc0da1cce9556e94e268c93a"
@@ -4954,7 +4954,7 @@
   {
     "match": "Dortmund – Paderborn",
     "prediction": "1",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-09-12",
     "hash": "19b40f15a8262dde2824c7bab0252445"
@@ -4962,7 +4962,7 @@
   {
     "match": "Real Madrid – Rayo",
     "prediction": "1",
-    "odds": 1.11,
+    "odds": "1.11",
     "status": "Won",
     "date": "2026-09-12",
     "hash": "a89ac8517a5479084d86c495a358630d"
@@ -4970,7 +4970,7 @@
   {
     "match": "Crystal Palace – Ipswich",
     "prediction": "1",
-    "odds": 1.85,
+    "odds": "1.85",
     "status": "Lost",
     "date": "2026-09-12",
     "hash": "2c89f6272d4de0b9502162ea02d0e8d2"
@@ -4978,9 +4978,49 @@
   {
     "match": "Liverpool – Fulham",
     "prediction": "1",
-    "odds": 1.42,
+    "odds": "1.42",
     "status": "Lost",
     "date": "2026-09-12",
     "hash": "906aa7926f504942a5051f80fa816edc"
+  },
+  {
+    "match": "Man Utd – Man City",
+    "prediction": "2",
+    "odds": 2.1,
+    "status": "Won",
+    "date": "2026-09-13",
+    "hash": "bcc129a53c695e9fff829bb97104e85f"
+  },
+  {
+    "match": "Coventry – Brighton",
+    "prediction": "2",
+    "odds": 1.9,
+    "status": "Won",
+    "date": "2026-09-13",
+    "hash": "98ea63af74d2f0c44709af816c3f2bbd"
+  },
+  {
+    "match": "Brest – PSG",
+    "prediction": "2",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-09-13",
+    "hash": "18121b9378e6210789cdbb63ddc0eef0"
+  },
+  {
+    "match": "Levante – Barcelona",
+    "prediction": "2",
+    "odds": 1.14,
+    "status": "Won",
+    "date": "2026-09-13",
+    "hash": "1ac8188ecb25a37785dc47d0a923f4fe"
+  },
+  {
+    "match": "Elversberg – Bayern",
+    "prediction": "2",
+    "odds": 1.14,
+    "status": "Won",
+    "date": "2026-09-13",
+    "hash": "6b419ba50b638acfbca2f807724a7ec1"
   }
 ]
