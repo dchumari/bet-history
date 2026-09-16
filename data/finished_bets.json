@@ -5026,7 +5026,7 @@
   {
     "match": "Leeds – Newcastle",
     "prediction": "BTTS",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Won",
     "date": "2026-09-14",
     "hash": "c7c9d6a4bcb8fa50b12e98e10a9d6ed9"
@@ -5034,7 +5034,7 @@
   {
     "match": "Torino – Roma",
     "prediction": "2",
-    "odds": 1.55,
+    "odds": "1.55",
     "status": "Won",
     "date": "2026-09-14",
     "hash": "c347b8f8867b2c1ec4f510a631bc71f5"
@@ -5042,7 +5042,7 @@
   {
     "match": "Villarreal – Betis",
     "prediction": "BTTS",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Won",
     "date": "2026-09-14",
     "hash": "7a1f8548500f3b3e14458ba30f6265f3"
@@ -5050,7 +5050,7 @@
   {
     "match": "Inter – Udinese",
     "prediction": "1",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-09-14",
     "hash": "68ade665415aa96ec2823e80a509284d"
@@ -5058,9 +5058,49 @@
   {
     "match": "Como – Parma",
     "prediction": "1",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-09-14",
     "hash": "545e3875e9920c86195c82bc757920a6"
+  },
+  {
+    "match": "Rayo – Espanyol",
+    "prediction": "1",
+    "odds": 2.2,
+    "status": "Won",
+    "date": "2026-09-15",
+    "hash": "f4f5ae56d3ce151c9c039b5511385cdd"
+  },
+  {
+    "match": "Liverpool – Tottenham",
+    "prediction": "1",
+    "odds": 1.76,
+    "status": "Won",
+    "date": "2026-09-15",
+    "hash": "b44655221b4131d4754e3297764df48b"
+  },
+  {
+    "match": "Elche – Real Madrid",
+    "prediction": "2",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-09-15",
+    "hash": "6b642879bb2ef54d1ccf476b7e985e6d"
+  },
+  {
+    "match": "Alaves – Valencia",
+    "prediction": "1",
+    "odds": 1.8,
+    "status": "Lost",
+    "date": "2026-09-15",
+    "hash": "494db0fdc4ee519669c4fc7c13e1ca51"
+  },
+  {
+    "match": "Middlesbrough – Millwall",
+    "prediction": "1",
+    "odds": 1.51,
+    "status": "Lost",
+    "date": "2026-09-15",
+    "hash": "2c2b05ed3db01767add1af41af7e4df8"
   }
 ]
