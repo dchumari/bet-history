@@ -5066,7 +5066,7 @@
   {
     "match": "Rayo – Espanyol",
     "prediction": "1",
-    "odds": 2.2,
+    "odds": "2.2",
     "status": "Won",
     "date": "2026-09-15",
     "hash": "f4f5ae56d3ce151c9c039b5511385cdd"
@@ -5074,7 +5074,7 @@
   {
     "match": "Liverpool – Tottenham",
     "prediction": "1",
-    "odds": 1.76,
+    "odds": "1.76",
     "status": "Won",
     "date": "2026-09-15",
     "hash": "b44655221b4131d4754e3297764df48b"
@@ -5082,7 +5082,7 @@
   {
     "match": "Elche – Real Madrid",
     "prediction": "2",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-09-15",
     "hash": "6b642879bb2ef54d1ccf476b7e985e6d"
@@ -5090,7 +5090,7 @@
   {
     "match": "Alaves – Valencia",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Lost",
     "date": "2026-09-15",
     "hash": "494db0fdc4ee519669c4fc7c13e1ca51"
@@ -5098,9 +5098,49 @@
   {
     "match": "Middlesbrough – Millwall",
     "prediction": "1",
-    "odds": 1.51,
+    "odds": "1.51",
     "status": "Lost",
     "date": "2026-09-15",
     "hash": "2c2b05ed3db01767add1af41af7e4df8"
+  },
+  {
+    "match": "Anderlecht – Lyon",
+    "prediction": "2",
+    "odds": 2.25,
+    "status": "Won",
+    "date": "2026-09-16",
+    "hash": "4df62a150a11256f0d830c5c8a07eaa7"
+  },
+  {
+    "match": "Atlético – Osasuna",
+    "prediction": "1",
+    "odds": 1.38,
+    "status": "Won",
+    "date": "2026-09-16",
+    "hash": "dfec18ae87f228d751e59c6e686e9bb6"
+  },
+  {
+    "match": "Barcelona – Santander",
+    "prediction": "1",
+    "odds": 1.06,
+    "status": "Won",
+    "date": "2026-09-16",
+    "hash": "b85d6bec047b4dd23be8017bee659de2"
+  },
+  {
+    "match": "AC Milan – Benfica",
+    "prediction": "1",
+    "odds": 2.05,
+    "status": "Lost",
+    "date": "2026-09-16",
+    "hash": "3a9c348ab22846fe6658335372a5652a"
+  },
+  {
+    "match": "Sturm Graz – Rennes",
+    "prediction": "2",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-09-16",
+    "hash": "3a2b5727491079479c8bf7c2e7dc2c37"
   }
 ]
