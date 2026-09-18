@@ -5106,7 +5106,7 @@
   {
     "match": "Anderlecht – Lyon",
     "prediction": "2",
-    "odds": 2.25,
+    "odds": "2.25",
     "status": "Won",
     "date": "2026-09-16",
     "hash": "4df62a150a11256f0d830c5c8a07eaa7"
@@ -5114,7 +5114,7 @@
   {
     "match": "Atlético – Osasuna",
     "prediction": "1",
-    "odds": 1.38,
+    "odds": "1.38",
     "status": "Won",
     "date": "2026-09-16",
     "hash": "dfec18ae87f228d751e59c6e686e9bb6"
@@ -5122,7 +5122,7 @@
   {
     "match": "Barcelona – Santander",
     "prediction": "1",
-    "odds": 1.06,
+    "odds": "1.06",
     "status": "Won",
     "date": "2026-09-16",
     "hash": "b85d6bec047b4dd23be8017bee659de2"
@@ -5130,7 +5130,7 @@
   {
     "match": "AC Milan – Benfica",
     "prediction": "1",
-    "odds": 2.05,
+    "odds": "2.05",
     "status": "Lost",
     "date": "2026-09-16",
     "hash": "3a9c348ab22846fe6658335372a5652a"
@@ -5138,9 +5138,49 @@
   {
     "match": "Sturm Graz – Rennes",
     "prediction": "2",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Lost",
     "date": "2026-09-16",
     "hash": "3a2b5727491079479c8bf7c2e7dc2c37"
+  },
+  {
+    "match": "Malaga – Villarreal",
+    "prediction": "2",
+    "odds": 1.95,
+    "status": "Won",
+    "date": "2026-09-17",
+    "hash": "2712dc3d667fb882553fbfd64bdee870"
+  },
+  {
+    "match": "Besiktas – Marseille",
+    "prediction": "1",
+    "odds": 1.8,
+    "status": "Won",
+    "date": "2026-09-17",
+    "hash": "8f3cddcdb9a8d6041b54507fdf8fe195"
+  },
+  {
+    "match": "Betis – Getafe",
+    "prediction": "1",
+    "odds": 1.66,
+    "status": "Won",
+    "date": "2026-09-17",
+    "hash": "ead7eeae74af36cd36bce8ce32b0da81"
+  },
+  {
+    "match": "Juventus – NEC",
+    "prediction": "1",
+    "odds": 1.2,
+    "status": "Won",
+    "date": "2026-09-17",
+    "hash": "b1280b258c4fe63d115d6173dcf4e976"
+  },
+  {
+    "match": "Man City – Norwich",
+    "prediction": "1",
+    "odds": 1.09,
+    "status": "Won",
+    "date": "2026-09-17",
+    "hash": "794e538d64aba16dc963de4a3be6984d"
   }
 ]
