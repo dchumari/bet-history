@@ -5186,7 +5186,7 @@
   {
     "match": "Monaco – Lens",
     "prediction": "1",
-    "odds": 2.05,
+    "odds": "2.05",
     "status": "Won",
     "date": "2026-09-18",
     "hash": "3283f6ed023a9c34f4970b39b97414a2"
@@ -5194,7 +5194,7 @@
   {
     "match": "Bristol City – Watford",
     "prediction": "1",
-    "odds": 1.81,
+    "odds": "1.81",
     "status": "Won",
     "date": "2026-09-18",
     "hash": "522b502c58a4f5378e7960ca7ec8bf22"
@@ -5202,7 +5202,7 @@
   {
     "match": "Bayern – Union",
     "prediction": "1",
-    "odds": 1.06,
+    "odds": "1.06",
     "status": "Won",
     "date": "2026-09-18",
     "hash": "1cf005652232c5aa67421ae7c93568c0"
@@ -5210,7 +5210,7 @@
   {
     "match": "Brentford – Chelsea",
     "prediction": "2",
-    "odds": 2.4,
+    "odds": "2.4",
     "status": "Lost",
     "date": "2026-09-18",
     "hash": "cbc9d664dae67bdc3c95d680500e4055"
@@ -5218,9 +5218,49 @@
   {
     "match": "Espanyol – Elche",
     "prediction": "1",
-    "odds": 1.83,
+    "odds": "1.83",
     "status": "Lost",
     "date": "2026-09-18",
     "hash": "1943db7b2c333f67aa333669b7d66cca"
+  },
+  {
+    "match": "Venezia – Lazio",
+    "prediction": "2",
+    "odds": 1.9,
+    "status": "Won",
+    "date": "2026-09-19",
+    "hash": "8b8c5e629603c44238ca9217dd226942"
+  },
+  {
+    "match": "Newcastle – Hull",
+    "prediction": "1",
+    "odds": 1.6,
+    "status": "Won",
+    "date": "2026-09-19",
+    "hash": "9525ed8d8d427f313333cbaa952c27f9"
+  },
+  {
+    "match": "Sevilla – Barcelona",
+    "prediction": "2",
+    "odds": 1.2,
+    "status": "Won",
+    "date": "2026-09-19",
+    "hash": "7c28a987f66c3c213bdad325a0364571"
+  },
+  {
+    "match": "Brighton – Arsenal",
+    "prediction": "2",
+    "odds": 1.66,
+    "status": "Lost",
+    "date": "2026-09-19",
+    "hash": "562765e429dd472445aacc8ab3d2829a"
+  },
+  {
+    "match": "Nottm Forest – Coventry",
+    "prediction": "1",
+    "odds": 1.61,
+    "status": "Lost",
+    "date": "2026-09-19",
+    "hash": "75d2e0d0cd0ce9178792e761b8445498"
   }
 ]
