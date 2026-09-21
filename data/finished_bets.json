@@ -5226,7 +5226,7 @@
   {
     "match": "Venezia – Lazio",
     "prediction": "2",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Won",
     "date": "2026-09-19",
     "hash": "8b8c5e629603c44238ca9217dd226942"
@@ -5234,7 +5234,7 @@
   {
     "match": "Newcastle – Hull",
     "prediction": "1",
-    "odds": 1.6,
+    "odds": "1.6",
     "status": "Won",
     "date": "2026-09-19",
     "hash": "9525ed8d8d427f313333cbaa952c27f9"
@@ -5242,7 +5242,7 @@
   {
     "match": "Sevilla – Barcelona",
     "prediction": "2",
-    "odds": 1.2,
+    "odds": "1.2",
     "status": "Won",
     "date": "2026-09-19",
     "hash": "7c28a987f66c3c213bdad325a0364571"
@@ -5250,7 +5250,7 @@
   {
     "match": "Brighton – Arsenal",
     "prediction": "2",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Lost",
     "date": "2026-09-19",
     "hash": "562765e429dd472445aacc8ab3d2829a"
@@ -5258,9 +5258,49 @@
   {
     "match": "Nottm Forest – Coventry",
     "prediction": "1",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Lost",
     "date": "2026-09-19",
     "hash": "75d2e0d0cd0ce9178792e761b8445498"
+  },
+  {
+    "match": "Bournemouth – Liverpool",
+    "prediction": "2",
+    "odds": 2.1,
+    "status": "Won",
+    "date": "2026-09-20",
+    "hash": "5976ccb413fc4655b0f9edadfcba8661"
+  },
+  {
+    "match": "Man City – Sunderland",
+    "prediction": "1",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-09-20",
+    "hash": "c25b40bcc86c85b022cf489745354e6d"
+  },
+  {
+    "match": "Deportivo – Betis",
+    "prediction": "2",
+    "odds": 2.0,
+    "status": "Lost",
+    "date": "2026-09-20",
+    "hash": "4f42f9114c6d75d5bfb4c8e14b2a50f6"
+  },
+  {
+    "match": "Atletico – Real Madrid",
+    "prediction": "2",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-09-20",
+    "hash": "614ee73207332cb5cf8057172f3048f8"
+  },
+  {
+    "match": "Leeds – Crystal Palace",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Lost",
+    "date": "2026-09-20",
+    "hash": "40ca3235ae5903d12a132449ad1c1d9a"
   }
 ]
