@@ -5266,7 +5266,7 @@
   {
     "match": "Bournemouth – Liverpool",
     "prediction": "2",
-    "odds": 2.1,
+    "odds": "2.1",
     "status": "Won",
     "date": "2026-09-20",
     "hash": "5976ccb413fc4655b0f9edadfcba8661"
@@ -5274,7 +5274,7 @@
   {
     "match": "Man City – Sunderland",
     "prediction": "1",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-09-20",
     "hash": "c25b40bcc86c85b022cf489745354e6d"
@@ -5282,7 +5282,7 @@
   {
     "match": "Deportivo – Betis",
     "prediction": "2",
-    "odds": 2.0,
+    "odds": "2.0",
     "status": "Lost",
     "date": "2026-09-20",
     "hash": "4f42f9114c6d75d5bfb4c8e14b2a50f6"
@@ -5290,7 +5290,7 @@
   {
     "match": "Atletico – Real Madrid",
     "prediction": "2",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Lost",
     "date": "2026-09-20",
     "hash": "614ee73207332cb5cf8057172f3048f8"
@@ -5298,9 +5298,49 @@
   {
     "match": "Leeds – Crystal Palace",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Lost",
     "date": "2026-09-20",
     "hash": "40ca3235ae5903d12a132449ad1c1d9a"
+  },
+  {
+    "match": "Petrolul – Csikszereda",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Won",
+    "date": "2026-09-21",
+    "hash": "0c789cdad1a19dfcc8f4bd82dc449b85"
+  },
+  {
+    "match": "Petrzalka – Pohronie",
+    "prediction": "1",
+    "odds": 1.51,
+    "status": "Won",
+    "date": "2026-09-21",
+    "hash": "924bce3a7f07363a03197dbcf26105a6"
+  },
+  {
+    "match": "Fiji – Vanuatu",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Lost",
+    "date": "2026-09-21",
+    "hash": "65b994806b3e4261e0897671f1e9bcce"
+  },
+  {
+    "match": "Otelul – Hunedoara",
+    "prediction": "1X",
+    "odds": 1.36,
+    "status": "Lost",
+    "date": "2026-09-21",
+    "hash": "f0383217743378e063fe771a2724fc5b"
+  },
+  {
+    "match": "Panthrakikos – Niki Volou",
+    "prediction": "X2",
+    "odds": 1.2,
+    "status": "Lost",
+    "date": "2026-09-21",
+    "hash": "783c6e72b364e56599514ce1b05c4581"
   }
 ]
