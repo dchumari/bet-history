@@ -5306,7 +5306,7 @@
   {
     "match": "Petrolul – Csikszereda",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-09-21",
     "hash": "0c789cdad1a19dfcc8f4bd82dc449b85"
@@ -5314,7 +5314,7 @@
   {
     "match": "Petrzalka – Pohronie",
     "prediction": "1",
-    "odds": 1.51,
+    "odds": "1.51",
     "status": "Won",
     "date": "2026-09-21",
     "hash": "924bce3a7f07363a03197dbcf26105a6"
@@ -5322,7 +5322,7 @@
   {
     "match": "Fiji – Vanuatu",
     "prediction": "1",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Lost",
     "date": "2026-09-21",
     "hash": "65b994806b3e4261e0897671f1e9bcce"
@@ -5330,7 +5330,7 @@
   {
     "match": "Otelul – Hunedoara",
     "prediction": "1X",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Lost",
     "date": "2026-09-21",
     "hash": "f0383217743378e063fe771a2724fc5b"
@@ -5338,9 +5338,49 @@
   {
     "match": "Panthrakikos – Niki Volou",
     "prediction": "X2",
-    "odds": 1.2,
+    "odds": "1.2",
     "status": "Lost",
     "date": "2026-09-21",
     "hash": "783c6e72b364e56599514ce1b05c4581"
+  },
+  {
+    "match": "Oldham – Fleetwood",
+    "prediction": "1",
+    "odds": 2.15,
+    "status": "Won",
+    "date": "2026-09-22",
+    "hash": "82b4823e53ddcadbe8528ef7d10c58c8"
+  },
+  {
+    "match": "MK Dons – Crawley",
+    "prediction": "1",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-09-22",
+    "hash": "132a8c07d6b427209d68f9f5f8f0fe77"
+  },
+  {
+    "match": "Arsenal W – Koge W",
+    "prediction": "1",
+    "odds": 1.06,
+    "status": "Won",
+    "date": "2026-09-22",
+    "hash": "0b34f32e2cfa359fee27ed7380498235"
+  },
+  {
+    "match": "Gillingham – Cambridge",
+    "prediction": "1",
+    "odds": 2.4,
+    "status": "Lost",
+    "date": "2026-09-22",
+    "hash": "5781348b54be755a950d49b3873dc33a"
+  },
+  {
+    "match": "Swindon – Newport",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Lost",
+    "date": "2026-09-22",
+    "hash": "10dbac07d4f73287fa66da640d224d80"
   }
 ]
