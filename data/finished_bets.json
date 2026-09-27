@@ -5466,7 +5466,7 @@
   {
     "match": "Sweden – Romania",
     "prediction": "1",
-    "odds": 1.48,
+    "odds": "1.48",
     "status": "Won",
     "date": "2026-09-25",
     "hash": "b2bf1c3518e7dd0646a588d194064c89"
@@ -5474,7 +5474,7 @@
   {
     "match": "Türkiye – France",
     "prediction": "2",
-    "odds": 1.38,
+    "odds": "1.38",
     "status": "Won",
     "date": "2026-09-25",
     "hash": "5e63b2d94a1f67a33577a48d2f050aa0"
@@ -5482,7 +5482,7 @@
   {
     "match": "Italy – Belgium",
     "prediction": "1",
-    "odds": 2.2,
+    "odds": "2.2",
     "status": "Lost",
     "date": "2026-09-25",
     "hash": "cf116b91090cae90a92c6d7b7e49185d"
@@ -5490,7 +5490,7 @@
   {
     "match": "Georgia – N. Ireland",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Lost",
     "date": "2026-09-25",
     "hash": "85625ed66418772c5873a5057fca998e"
@@ -5498,9 +5498,49 @@
   {
     "match": "Poland – Bosnia",
     "prediction": "1",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Lost",
     "date": "2026-09-25",
     "hash": "461dcc3bfefa4b855a7dcfb474c58595"
+  },
+  {
+    "match": "Slovenia – Scotland",
+    "prediction": "1X",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-09-26",
+    "hash": "3b035c78c1bf3dba4d897d2c6c09d36d"
+  },
+  {
+    "match": "England – Spain",
+    "prediction": "X2",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-09-26",
+    "hash": "29a64aacd7a8f1d2403ed0eaafcbca5e"
+  },
+  {
+    "match": "Slovakia – Moldova",
+    "prediction": "1",
+    "odds": 1.16,
+    "status": "Won",
+    "date": "2026-09-26",
+    "hash": "4e8ddcc731cbdc67d0fd186230e24b05"
+  },
+  {
+    "match": "San Marino – Finland",
+    "prediction": "2",
+    "odds": 1.07,
+    "status": "Won",
+    "date": "2026-09-26",
+    "hash": "8908e93ac8ce1733ae19a11305b0f5bb"
+  },
+  {
+    "match": "Faroe Islands – Kazakhstan",
+    "prediction": "1",
+    "odds": 2.25,
+    "status": "Lost",
+    "date": "2026-09-26",
+    "hash": "24ae2820c767730d616d64465c44d716"
   }
 ]
