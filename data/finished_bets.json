@@ -5506,7 +5506,7 @@
   {
     "match": "Slovenia – Scotland",
     "prediction": "1X",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-09-26",
     "hash": "3b035c78c1bf3dba4d897d2c6c09d36d"
@@ -5514,7 +5514,7 @@
   {
     "match": "England – Spain",
     "prediction": "X2",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-09-26",
     "hash": "29a64aacd7a8f1d2403ed0eaafcbca5e"
@@ -5522,7 +5522,7 @@
   {
     "match": "Slovakia – Moldova",
     "prediction": "1",
-    "odds": 1.16,
+    "odds": "1.16",
     "status": "Won",
     "date": "2026-09-26",
     "hash": "4e8ddcc731cbdc67d0fd186230e24b05"
@@ -5530,7 +5530,7 @@
   {
     "match": "San Marino – Finland",
     "prediction": "2",
-    "odds": 1.07,
+    "odds": "1.07",
     "status": "Won",
     "date": "2026-09-26",
     "hash": "8908e93ac8ce1733ae19a11305b0f5bb"
@@ -5538,9 +5538,49 @@
   {
     "match": "Faroe Islands – Kazakhstan",
     "prediction": "1",
-    "odds": 2.25,
+    "odds": "2.25",
     "status": "Lost",
     "date": "2026-09-26",
     "hash": "24ae2820c767730d616d64465c44d716"
+  },
+  {
+    "match": "Israel – Ireland",
+    "prediction": "X2",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-09-27",
+    "hash": "dab9a9fd39d2f627f4e567732f228b13"
+  },
+  {
+    "match": "Denmark – Wales",
+    "prediction": "1",
+    "odds": 1.45,
+    "status": "Won",
+    "date": "2026-09-27",
+    "hash": "8eb9838252a9f45f8256c5bcbb10eba4"
+  },
+  {
+    "match": "Serbia – Netherlands",
+    "prediction": "2",
+    "odds": 1.38,
+    "status": "Won",
+    "date": "2026-09-27",
+    "hash": "5621f16198b608ecaee15298785ac4d5"
+  },
+  {
+    "match": "Gibraltar – Andorra",
+    "prediction": "2",
+    "odds": 2.35,
+    "status": "Lost",
+    "date": "2026-09-27",
+    "hash": "bce92d7712dca761ebd8a156c0808914"
+  },
+  {
+    "match": "Germany – Greece",
+    "prediction": "1",
+    "odds": 1.38,
+    "status": "Lost",
+    "date": "2026-09-27",
+    "hash": "9da2584ad35cedc68f140af4e375018f"
   }
 ]
