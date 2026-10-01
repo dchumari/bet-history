@@ -5626,7 +5626,7 @@
   {
     "match": "Scotland – Switzerland",
     "prediction": "2",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Won",
     "date": "2026-09-29",
     "hash": "781c024cf83e074f796eab27babcc77b"
@@ -5634,7 +5634,7 @@
   {
     "match": "Ethiopia – Senegal",
     "prediction": "2",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-09-29",
     "hash": "9a4e3e900ea33275cc8b928e948abdf9"
@@ -5642,7 +5642,7 @@
   {
     "match": "Czechia – England",
     "prediction": "2",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-09-29",
     "hash": "da4ecfb0af91c40cd6f584bfd9344ce5"
@@ -5650,7 +5650,7 @@
   {
     "match": "Spain – Croatia",
     "prediction": "1",
-    "odds": 1.2,
+    "odds": "1.2",
     "status": "Won",
     "date": "2026-09-29",
     "hash": "41a54b50b286cb69f3bc298afa514bb9"
@@ -5658,9 +5658,49 @@
   {
     "match": "Finland – Belarus",
     "prediction": "1",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Lost",
     "date": "2026-09-29",
     "hash": "d6efc048b163659c9d2159d5117956e3"
+  },
+  {
+    "match": "Seychelles – Sri Lanka",
+    "prediction": "2",
+    "odds": 2.0,
+    "status": "Won",
+    "date": "2026-09-30",
+    "hash": "3b851c0482ba58c8d8e10ef73f8fe599"
+  },
+  {
+    "match": "NY Red Bulls – St Louis",
+    "prediction": "2",
+    "odds": 1.86,
+    "status": "Won",
+    "date": "2026-09-30",
+    "hash": "1645ecb7eb86b57b79d03da7a49c5fbe"
+  },
+  {
+    "match": "Lithuania – Andorra",
+    "prediction": "1",
+    "odds": 1.65,
+    "status": "Won",
+    "date": "2026-09-30",
+    "hash": "68550f1311eeab081a522a0c6d64bae4"
+  },
+  {
+    "match": "Roma W – Barcelona W",
+    "prediction": "2",
+    "odds": 1.07,
+    "status": "Won",
+    "date": "2026-09-30",
+    "hash": "815a1f686dfdabf4b99fe0515ce41944"
+  },
+  {
+    "match": "Oriente – The Strongest",
+    "prediction": "1",
+    "odds": 1.83,
+    "status": "Lost",
+    "date": "2026-09-30",
+    "hash": "288181b1c3d9053069990a42065ece61"
   }
 ]
