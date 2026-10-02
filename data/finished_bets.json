@@ -5666,7 +5666,7 @@
   {
     "match": "Seychelles – Sri Lanka",
     "prediction": "2",
-    "odds": 2.0,
+    "odds": "2.0",
     "status": "Won",
     "date": "2026-09-30",
     "hash": "3b851c0482ba58c8d8e10ef73f8fe599"
@@ -5674,7 +5674,7 @@
   {
     "match": "NY Red Bulls – St Louis",
     "prediction": "2",
-    "odds": 1.86,
+    "odds": "1.86",
     "status": "Won",
     "date": "2026-09-30",
     "hash": "1645ecb7eb86b57b79d03da7a49c5fbe"
@@ -5682,7 +5682,7 @@
   {
     "match": "Lithuania – Andorra",
     "prediction": "1",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Won",
     "date": "2026-09-30",
     "hash": "68550f1311eeab081a522a0c6d64bae4"
@@ -5690,7 +5690,7 @@
   {
     "match": "Roma W – Barcelona W",
     "prediction": "2",
-    "odds": 1.07,
+    "odds": "1.07",
     "status": "Won",
     "date": "2026-09-30",
     "hash": "815a1f686dfdabf4b99fe0515ce41944"
@@ -5698,9 +5698,49 @@
   {
     "match": "Oriente – The Strongest",
     "prediction": "1",
-    "odds": 1.83,
+    "odds": "1.83",
     "status": "Lost",
     "date": "2026-09-30",
     "hash": "288181b1c3d9053069990a42065ece61"
+  },
+  {
+    "match": "Denmark – Portugal",
+    "prediction": "X2",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-10-01",
+    "hash": "1c19ce29ead4f9a0471cca0c3b5fc536"
+  },
+  {
+    "match": "Greece – Netherlands",
+    "prediction": "X2",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-10-01",
+    "hash": "f0e7266dbb6d821568ee364cd5b03eb9"
+  },
+  {
+    "match": "Ireland – Austria",
+    "prediction": "X2",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-10-01",
+    "hash": "3203fa45f8b852dd01b7c47936c503ab"
+  },
+  {
+    "match": "Germany – Serbia",
+    "prediction": "1",
+    "odds": 1.2,
+    "status": "Won",
+    "date": "2026-10-01",
+    "hash": "1f156b454e0eed37e06b8299f1ff31ee"
+  },
+  {
+    "match": "Wales – Norway",
+    "prediction": "2",
+    "odds": 1.44,
+    "status": "Lost",
+    "date": "2026-10-01",
+    "hash": "68936c685cdbe952f346fe31bbdaed78"
   }
 ]
