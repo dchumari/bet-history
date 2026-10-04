@@ -5746,7 +5746,7 @@
   {
     "match": "Latvia – Montenegro",
     "prediction": "2",
-    "odds": 1.72,
+    "odds": "1.72",
     "status": "Won",
     "date": "2026-10-02",
     "hash": "f602886adef495adf8cd71bc9d7ac7bd"
@@ -5754,7 +5754,7 @@
   {
     "match": "Poland – Romania",
     "prediction": "1",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Won",
     "date": "2026-10-02",
     "hash": "23f7b3b384123d1a6e306f88e1eb7fa6"
@@ -5762,7 +5762,7 @@
   {
     "match": "Belgium – Türkiye",
     "prediction": "1",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Won",
     "date": "2026-10-02",
     "hash": "5949b7fe90671113014819678811d316"
@@ -5770,7 +5770,7 @@
   {
     "match": "Ukraine – N. Ireland",
     "prediction": "1",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Lost",
     "date": "2026-10-02",
     "hash": "1d4010487bab45708cde226b00d345f9"
@@ -5778,9 +5778,49 @@
   {
     "match": "France – Italy",
     "prediction": "1",
-    "odds": 1.45,
+    "odds": "1.45",
     "status": "Lost",
     "date": "2026-10-02",
     "hash": "2ba1655e0d055bcfb0887c9f2c3caefa"
+  },
+  {
+    "match": "Croatia – England",
+    "prediction": "2",
+    "odds": 1.75,
+    "status": "Won",
+    "date": "2026-10-03",
+    "hash": "7f268855c9229a773dfc027746ddae3c"
+  },
+  {
+    "match": "N. Macedonia – Scotland",
+    "prediction": "2",
+    "odds": 1.7,
+    "status": "Won",
+    "date": "2026-10-03",
+    "hash": "40a1e4af8cf27f68c4e4cf28ce4a0f94"
+  },
+  {
+    "match": "Iceland – Bulgaria",
+    "prediction": "1",
+    "odds": 1.44,
+    "status": "Won",
+    "date": "2026-10-03",
+    "hash": "09524633854d0bd8bf7a22777002f45a"
+  },
+  {
+    "match": "Switzerland – Slovenia",
+    "prediction": "1",
+    "odds": 1.3,
+    "status": "Won",
+    "date": "2026-10-03",
+    "hash": "401db26ce5fe4d62db3c19e851060052"
+  },
+  {
+    "match": "Spain – Czechia",
+    "prediction": "1",
+    "odds": 1.07,
+    "status": "Won",
+    "date": "2026-10-03",
+    "hash": "b60fe08eb108e8be5e91605b2e94b060"
   }
 ]
