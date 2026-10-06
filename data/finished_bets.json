@@ -5826,7 +5826,7 @@
   {
     "match": "Portugal – Norway",
     "prediction": "BTTS",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Won",
     "date": "2026-10-04",
     "hash": "60bc2abf2d0e138b209ebbbb7549ce53"
@@ -5834,7 +5834,7 @@
   {
     "match": "Netherlands – Serbia",
     "prediction": "1",
-    "odds": 1.16,
+    "odds": "1.16",
     "status": "Won",
     "date": "2026-10-04",
     "hash": "edd0518dcb5739a1c5b0040efe8f6967"
@@ -5842,7 +5842,7 @@
   {
     "match": "Ireland – Israel",
     "prediction": "1",
-    "odds": 2.1,
+    "odds": "2.1",
     "status": "Lost",
     "date": "2026-10-04",
     "hash": "afd02676da9423058b4e77f46007b66e"
@@ -5850,7 +5850,7 @@
   {
     "match": "Greece – Germany",
     "prediction": "2",
-    "odds": 1.83,
+    "odds": "1.83",
     "status": "Lost",
     "date": "2026-10-04",
     "hash": "60438dbebdef1c2c76bdb14effd8ad16"
@@ -5858,9 +5858,49 @@
   {
     "match": "Wales – Denmark",
     "prediction": "BTTS",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Lost",
     "date": "2026-10-04",
     "hash": "234b705a2abd617693dd53ac9e381764"
+  },
+  {
+    "match": "Romania – Sweden",
+    "prediction": "2",
+    "odds": 1.7,
+    "status": "Won",
+    "date": "2026-10-05",
+    "hash": "ec654aa7359745a8015471106ea2d02b"
+  },
+  {
+    "match": "France – Belgium",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-10-05",
+    "hash": "257bacf7d5f9f17778233e341cf06c75"
+  },
+  {
+    "match": "N. Ireland – Georgia",
+    "prediction": "Under 2.5",
+    "odds": 1.47,
+    "status": "Won",
+    "date": "2026-10-05",
+    "hash": "c434c08b5d0d82ac4196ceb8899c6f1c"
+  },
+  {
+    "match": "Italy – Türkiye",
+    "prediction": "1",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-10-05",
+    "hash": "30f4734713fba350ff925334e8d6c432"
+  },
+  {
+    "match": "Montenegro – Armenia",
+    "prediction": "1",
+    "odds": 1.53,
+    "status": "Lost",
+    "date": "2026-10-05",
+    "hash": "4e0c3bf4ae2e8178cc5811361eea3cb9"
   }
 ]
