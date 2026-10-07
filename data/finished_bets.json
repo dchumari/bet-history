@@ -5866,7 +5866,7 @@
   {
     "match": "Romania – Sweden",
     "prediction": "2",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-10-05",
     "hash": "ec654aa7359745a8015471106ea2d02b"
@@ -5874,7 +5874,7 @@
   {
     "match": "France – Belgium",
     "prediction": "1",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-10-05",
     "hash": "257bacf7d5f9f17778233e341cf06c75"
@@ -5882,7 +5882,7 @@
   {
     "match": "N. Ireland – Georgia",
     "prediction": "Under 2.5",
-    "odds": 1.47,
+    "odds": "1.47",
     "status": "Won",
     "date": "2026-10-05",
     "hash": "c434c08b5d0d82ac4196ceb8899c6f1c"
@@ -5890,7 +5890,7 @@
   {
     "match": "Italy – Türkiye",
     "prediction": "1",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-10-05",
     "hash": "30f4734713fba350ff925334e8d6c432"
@@ -5898,9 +5898,49 @@
   {
     "match": "Montenegro – Armenia",
     "prediction": "1",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Lost",
     "date": "2026-10-05",
     "hash": "4e0c3bf4ae2e8178cc5811361eea3cb9"
+  },
+  {
+    "match": "Croatia – Spain",
+    "prediction": "2",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-10-06",
+    "hash": "1217640fcf8ad80a7768bb8d1148ecd3"
+  },
+  {
+    "match": "England – Czechia",
+    "prediction": "1",
+    "odds": 1.11,
+    "status": "Won",
+    "date": "2026-10-06",
+    "hash": "b6ccb1defa8e059238ba4d9da5d54d38"
+  },
+  {
+    "match": "Albania – San Marino",
+    "prediction": "1",
+    "odds": 1.03,
+    "status": "Won",
+    "date": "2026-10-06",
+    "hash": "1ee521365fdd9ac0909e8e544cfef3f8"
+  },
+  {
+    "match": "Scotland – Slovenia",
+    "prediction": "1",
+    "odds": 1.75,
+    "status": "Lost",
+    "date": "2026-10-06",
+    "hash": "1741af98dba08475a9140cf7cd0ca6f0"
+  },
+  {
+    "match": "Estonia – Iceland",
+    "prediction": "2",
+    "odds": 1.57,
+    "status": "Lost",
+    "date": "2026-10-06",
+    "hash": "277f47a80ece03421a0742f13e87418e"
   }
 ]
