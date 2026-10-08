@@ -5906,7 +5906,7 @@
   {
     "match": "Croatia – Spain",
     "prediction": "2",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-10-06",
     "hash": "1217640fcf8ad80a7768bb8d1148ecd3"
@@ -5914,7 +5914,7 @@
   {
     "match": "England – Czechia",
     "prediction": "1",
-    "odds": 1.11,
+    "odds": "1.11",
     "status": "Won",
     "date": "2026-10-06",
     "hash": "b6ccb1defa8e059238ba4d9da5d54d38"
@@ -5922,7 +5922,7 @@
   {
     "match": "Albania – San Marino",
     "prediction": "1",
-    "odds": 1.03,
+    "odds": "1.03",
     "status": "Won",
     "date": "2026-10-06",
     "hash": "1ee521365fdd9ac0909e8e544cfef3f8"
@@ -5930,7 +5930,7 @@
   {
     "match": "Scotland – Slovenia",
     "prediction": "1",
-    "odds": 1.75,
+    "odds": "1.75",
     "status": "Lost",
     "date": "2026-10-06",
     "hash": "1741af98dba08475a9140cf7cd0ca6f0"
@@ -5938,9 +5938,49 @@
   {
     "match": "Estonia – Iceland",
     "prediction": "2",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Lost",
     "date": "2026-10-06",
     "hash": "277f47a80ece03421a0742f13e87418e"
+  },
+  {
+    "match": "Ceramica – Al Masry",
+    "prediction": "2",
+    "odds": 2.5,
+    "status": "Won",
+    "date": "2026-10-07",
+    "hash": "727744ef9957bb9d6016a5bc56df3345"
+  },
+  {
+    "match": "Asyut – Al Ahly",
+    "prediction": "2",
+    "odds": 1.8,
+    "status": "Won",
+    "date": "2026-10-07",
+    "hash": "02a17fb369c263e64038042e383fb785"
+  },
+  {
+    "match": "Tokyo – Shonan",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-10-07",
+    "hash": "1424bb2ccfc151f2ec044ad4686ee99e"
+  },
+  {
+    "match": "Zamalek – ZED",
+    "prediction": "2",
+    "odds": 1.38,
+    "status": "Won",
+    "date": "2026-10-07",
+    "hash": "68c41eea3eaa439d8216fe5be51fdb93"
+  },
+  {
+    "match": "Gnistan – Inter Turku",
+    "prediction": "2",
+    "odds": 1.9,
+    "status": "Lost",
+    "date": "2026-10-07",
+    "hash": "49f6c0dce6f0d2874856ed99f4dd85b1"
   }
 ]
