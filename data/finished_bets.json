@@ -6066,7 +6066,7 @@
   {
     "match": "Sunderland – Brighton",
     "prediction": "2",
-    "odds": 2.3,
+    "odds": "2.3",
     "status": "Won",
     "date": "2026-10-10",
     "hash": "b382eb3472503f5300cb77a24022de24"
@@ -6074,7 +6074,7 @@
   {
     "match": "Chelsea – Bournemouth",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-10-10",
     "hash": "bfda18bfc59f0051ad88d79a21cd9a1a"
@@ -6082,7 +6082,7 @@
   {
     "match": "Arsenal – Leeds",
     "prediction": "1",
-    "odds": 1.38,
+    "odds": "1.38",
     "status": "Won",
     "date": "2026-10-10",
     "hash": "93e9fc9e1258ec52d19c2e2527534eab"
@@ -6090,7 +6090,7 @@
   {
     "match": "Barcelona – Getafe",
     "prediction": "1",
-    "odds": 1.08,
+    "odds": "1.08",
     "status": "Won",
     "date": "2026-10-10",
     "hash": "6e117428819b366a73a14e820c621caf"
@@ -6098,9 +6098,49 @@
   {
     "match": "Man Utd – Tottenham",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Lost",
     "date": "2026-10-10",
     "hash": "ffdd70e0239c500364a686cd2590b74d"
+  },
+  {
+    "match": "Sociedad – Deportivo",
+    "prediction": "1",
+    "odds": 1.6,
+    "status": "Won",
+    "date": "2026-10-11",
+    "hash": "2318d402c097923b6c35e54be956967e"
+  },
+  {
+    "match": "Lazio – Monza",
+    "prediction": "1",
+    "odds": 1.6,
+    "status": "Won",
+    "date": "2026-10-11",
+    "hash": "132ce39b608f6b6c07c6599348aad020"
+  },
+  {
+    "match": "Betis – Osasuna",
+    "prediction": "1",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-10-11",
+    "hash": "f3610d09ad71d420566ddf230dfa7255"
+  },
+  {
+    "match": "Benfica – Guimaraes",
+    "prediction": "1",
+    "odds": 1.17,
+    "status": "Won",
+    "date": "2026-10-11",
+    "hash": "5548e7e8b43b869f5977d85110a63438"
+  },
+  {
+    "match": "Liverpool – Man City",
+    "prediction": "BTTS",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-10-11",
+    "hash": "3b22d96eada972a93b2ea2f9fac4c2a6"
   }
 ]
