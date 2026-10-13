@@ -6106,7 +6106,7 @@
   {
     "match": "Sociedad – Deportivo",
     "prediction": "1",
-    "odds": 1.6,
+    "odds": "1.6",
     "status": "Won",
     "date": "2026-10-11",
     "hash": "2318d402c097923b6c35e54be956967e"
@@ -6114,7 +6114,7 @@
   {
     "match": "Lazio – Monza",
     "prediction": "1",
-    "odds": 1.6,
+    "odds": "1.6",
     "status": "Won",
     "date": "2026-10-11",
     "hash": "132ce39b608f6b6c07c6599348aad020"
@@ -6122,7 +6122,7 @@
   {
     "match": "Betis – Osasuna",
     "prediction": "1",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Won",
     "date": "2026-10-11",
     "hash": "f3610d09ad71d420566ddf230dfa7255"
@@ -6130,7 +6130,7 @@
   {
     "match": "Benfica – Guimaraes",
     "prediction": "1",
-    "odds": 1.17,
+    "odds": "1.17",
     "status": "Won",
     "date": "2026-10-11",
     "hash": "5548e7e8b43b869f5977d85110a63438"
@@ -6138,9 +6138,49 @@
   {
     "match": "Liverpool – Man City",
     "prediction": "BTTS",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Lost",
     "date": "2026-10-11",
     "hash": "3b22d96eada972a93b2ea2f9fac4c2a6"
+  },
+  {
+    "match": "Eyupspor – Goztepe",
+    "prediction": "2",
+    "odds": 1.85,
+    "status": "Won",
+    "date": "2026-10-12",
+    "hash": "e9d680fed1fe2df735bbff504e439a76"
+  },
+  {
+    "match": "Atalanta – Venezia",
+    "prediction": "1",
+    "odds": 1.55,
+    "status": "Won",
+    "date": "2026-10-12",
+    "hash": "9c98477743e3bdaecb9f2314d7ccf6db"
+  },
+  {
+    "match": "Coventry – Newcastle",
+    "prediction": "BTTS",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-10-12",
+    "hash": "2480185387aaa8f3bc5daa406cdcac94"
+  },
+  {
+    "match": "Levante – Sevilla",
+    "prediction": "1X",
+    "odds": 1.44,
+    "status": "Won",
+    "date": "2026-10-12",
+    "hash": "689c79bf6f60fdcdf2b86fecf1cd16cb"
+  },
+  {
+    "match": "Torino – Udinese",
+    "prediction": "1X",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-10-12",
+    "hash": "5ab6e32b7b1a6ae2c664c81f7d8d3fc8"
   }
 ]
