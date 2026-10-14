@@ -6146,7 +6146,7 @@
   {
     "match": "Eyupspor – Goztepe",
     "prediction": "2",
-    "odds": 1.85,
+    "odds": "1.85",
     "status": "Won",
     "date": "2026-10-12",
     "hash": "e9d680fed1fe2df735bbff504e439a76"
@@ -6154,7 +6154,7 @@
   {
     "match": "Atalanta – Venezia",
     "prediction": "1",
-    "odds": 1.55,
+    "odds": "1.55",
     "status": "Won",
     "date": "2026-10-12",
     "hash": "9c98477743e3bdaecb9f2314d7ccf6db"
@@ -6162,7 +6162,7 @@
   {
     "match": "Coventry – Newcastle",
     "prediction": "BTTS",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Won",
     "date": "2026-10-12",
     "hash": "2480185387aaa8f3bc5daa406cdcac94"
@@ -6170,7 +6170,7 @@
   {
     "match": "Levante – Sevilla",
     "prediction": "1X",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Won",
     "date": "2026-10-12",
     "hash": "689c79bf6f60fdcdf2b86fecf1cd16cb"
@@ -6178,9 +6178,49 @@
   {
     "match": "Torino – Udinese",
     "prediction": "1X",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-10-12",
     "hash": "5ab6e32b7b1a6ae2c664c81f7d8d3fc8"
+  },
+  {
+    "match": "Atletico Madrid – Man Utd",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Won",
+    "date": "2026-10-13",
+    "hash": "fec02fc241520a8eb6b61c36ba2161f0"
+  },
+  {
+    "match": "Leipzig – PSV",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Won",
+    "date": "2026-10-13",
+    "hash": "d1571f83d05953a66e12386304770a99"
+  },
+  {
+    "match": "Galatasaray – Barcelona",
+    "prediction": "2",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-10-13",
+    "hash": "1ce4aaee71f72a57e3a9acdf7bf58346"
+  },
+  {
+    "match": "Arsenal – Lille",
+    "prediction": "1",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-10-13",
+    "hash": "b5e4beca8d53afab53efe92a3c9f56ba"
+  },
+  {
+    "match": "Viking – Bayern Munich",
+    "prediction": "2",
+    "odds": 1.11,
+    "status": "Lost",
+    "date": "2026-10-13",
+    "hash": "d7693410146b793db9ae9967d818e19d"
   }
 ]
