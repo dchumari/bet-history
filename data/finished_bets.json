@@ -6186,7 +6186,7 @@
   {
     "match": "Atletico Madrid – Man Utd",
     "prediction": "1",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Won",
     "date": "2026-10-13",
     "hash": "fec02fc241520a8eb6b61c36ba2161f0"
@@ -6194,7 +6194,7 @@
   {
     "match": "Leipzig – PSV",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Won",
     "date": "2026-10-13",
     "hash": "d1571f83d05953a66e12386304770a99"
@@ -6202,7 +6202,7 @@
   {
     "match": "Galatasaray – Barcelona",
     "prediction": "2",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-10-13",
     "hash": "1ce4aaee71f72a57e3a9acdf7bf58346"
@@ -6210,7 +6210,7 @@
   {
     "match": "Arsenal – Lille",
     "prediction": "1",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-10-13",
     "hash": "b5e4beca8d53afab53efe92a3c9f56ba"
@@ -6218,9 +6218,49 @@
   {
     "match": "Viking – Bayern Munich",
     "prediction": "2",
-    "odds": 1.11,
+    "odds": "1.11",
     "status": "Lost",
     "date": "2026-10-13",
     "hash": "d7693410146b793db9ae9967d818e19d"
+  },
+  {
+    "match": "Betis – Porto",
+    "prediction": "1",
+    "odds": 2.0,
+    "status": "Won",
+    "date": "2026-10-14",
+    "hash": "d40a05a1184bacd687de9fa5a17baed7"
+  },
+  {
+    "match": "Roma – Real Madrid",
+    "prediction": "2",
+    "odds": 1.9,
+    "status": "Won",
+    "date": "2026-10-14",
+    "hash": "3d8710994149012ac22a9c9ff12915e5"
+  },
+  {
+    "match": "Lask Linz – Liverpool",
+    "prediction": "2",
+    "odds": 1.3,
+    "status": "Won",
+    "date": "2026-10-14",
+    "hash": "c880a158aeabac4e44e36567ab8c318e"
+  },
+  {
+    "match": "Man City – PSG",
+    "prediction": "1",
+    "odds": 2.15,
+    "status": "Lost",
+    "date": "2026-10-14",
+    "hash": "80d244d97c1eb4dceb1b50b65fa6d171"
+  },
+  {
+    "match": "Feyenoord – Como",
+    "prediction": "2",
+    "odds": 1.85,
+    "status": "Lost",
+    "date": "2026-10-14",
+    "hash": "57f22c0b2383744026d508379add609a"
   }
 ]
