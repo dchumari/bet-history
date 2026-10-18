@@ -6306,7 +6306,7 @@
   {
     "match": "Frankfurt – FC Koln",
     "prediction": "1",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Won",
     "date": "2026-10-16",
     "hash": "6e6cc6960e779ec6364ac93675d7491d"
@@ -6314,7 +6314,7 @@
   {
     "match": "Frosinone – Sassuolo",
     "prediction": "BTTS",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-10-16",
     "hash": "0caa8e78489e97ad973a94a4c85d61fa"
@@ -6322,7 +6322,7 @@
   {
     "match": "Le Mans – Toulouse",
     "prediction": "X2",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-10-16",
     "hash": "5908cd8ac927e823ea4f2423f01d0d87"
@@ -6330,7 +6330,7 @@
   {
     "match": "Deportivo – Levante",
     "prediction": "1X",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-10-16",
     "hash": "3223b0f0908fd2888cc3f607c7f4ce61"
@@ -6338,9 +6338,49 @@
   {
     "match": "Burnley – Wolves",
     "prediction": "Over 1.5",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-10-16",
     "hash": "a241b916bc44ecec9c2b480bb7421162"
+  },
+  {
+    "match": "Fulham – Hull",
+    "prediction": "1",
+    "odds": 1.72,
+    "status": "Won",
+    "date": "2026-10-17",
+    "hash": "d668587aa8ff4d92830098d5154a8ac2"
+  },
+  {
+    "match": "Roma – Genoa",
+    "prediction": "1",
+    "odds": 1.55,
+    "status": "Won",
+    "date": "2026-10-17",
+    "hash": "48a7abfb0c57dd4f2d5bcedfe5d7a792"
+  },
+  {
+    "match": "Brentford – Liverpool",
+    "prediction": "BTTS",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-10-17",
+    "hash": "0f365ee8fbfcb53bae95fe5768803f99"
+  },
+  {
+    "match": "Betis – Barcelona",
+    "prediction": "2",
+    "odds": 1.38,
+    "status": "Won",
+    "date": "2026-10-17",
+    "hash": "d48587256133ef569bcd16f97c39357b"
+  },
+  {
+    "match": "Man City – Ipswich",
+    "prediction": "1",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-10-17",
+    "hash": "90d890dafe3d34a1628e9228982e531c"
   }
 ]
