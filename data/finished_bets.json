@@ -6346,7 +6346,7 @@
   {
     "match": "Fulham – Hull",
     "prediction": "1",
-    "odds": 1.72,
+    "odds": "1.72",
     "status": "Won",
     "date": "2026-10-17",
     "hash": "d668587aa8ff4d92830098d5154a8ac2"
@@ -6354,7 +6354,7 @@
   {
     "match": "Roma – Genoa",
     "prediction": "1",
-    "odds": 1.55,
+    "odds": "1.55",
     "status": "Won",
     "date": "2026-10-17",
     "hash": "48a7abfb0c57dd4f2d5bcedfe5d7a792"
@@ -6362,7 +6362,7 @@
   {
     "match": "Brentford – Liverpool",
     "prediction": "BTTS",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-10-17",
     "hash": "0f365ee8fbfcb53bae95fe5768803f99"
@@ -6370,7 +6370,7 @@
   {
     "match": "Betis – Barcelona",
     "prediction": "2",
-    "odds": 1.38,
+    "odds": "1.38",
     "status": "Won",
     "date": "2026-10-17",
     "hash": "d48587256133ef569bcd16f97c39357b"
@@ -6378,9 +6378,49 @@
   {
     "match": "Man City – Ipswich",
     "prediction": "1",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-10-17",
     "hash": "90d890dafe3d34a1628e9228982e531c"
+  },
+  {
+    "match": "Lyon – Nice",
+    "prediction": "1",
+    "odds": 1.75,
+    "status": "Won",
+    "date": "2026-10-18",
+    "hash": "0da8650220c81042de72bb409fe11ef9"
+  },
+  {
+    "match": "Nottm Forest – Arsenal",
+    "prediction": "2",
+    "odds": 1.61,
+    "status": "Won",
+    "date": "2026-10-18",
+    "hash": "693f144b866a9a2fc08ca9d6d6a1fad3"
+  },
+  {
+    "match": "Leeds – Man Utd",
+    "prediction": "BTTS",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-10-18",
+    "hash": "76949168e446870b91921c4ae730492b"
+  },
+  {
+    "match": "Brighton – Crystal Palace",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-10-18",
+    "hash": "14c52d1985ad3c39dd3feb707f238ba9"
+  },
+  {
+    "match": "Real Madrid – Sevilla",
+    "prediction": "1",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-10-18",
+    "hash": "01e5f6497d26122a0c8383a029215a18"
   }
 ]
