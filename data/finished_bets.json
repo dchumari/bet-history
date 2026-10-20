@@ -6386,7 +6386,7 @@
   {
     "match": "Lyon – Nice",
     "prediction": "1",
-    "odds": 1.75,
+    "odds": "1.75",
     "status": "Won",
     "date": "2026-10-18",
     "hash": "0da8650220c81042de72bb409fe11ef9"
@@ -6394,7 +6394,7 @@
   {
     "match": "Nottm Forest – Arsenal",
     "prediction": "2",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Won",
     "date": "2026-10-18",
     "hash": "693f144b866a9a2fc08ca9d6d6a1fad3"
@@ -6402,7 +6402,7 @@
   {
     "match": "Leeds – Man Utd",
     "prediction": "BTTS",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Won",
     "date": "2026-10-18",
     "hash": "76949168e446870b91921c4ae730492b"
@@ -6410,7 +6410,7 @@
   {
     "match": "Brighton – Crystal Palace",
     "prediction": "1",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-10-18",
     "hash": "14c52d1985ad3c39dd3feb707f238ba9"
@@ -6418,9 +6418,49 @@
   {
     "match": "Real Madrid – Sevilla",
     "prediction": "1",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-10-18",
     "hash": "01e5f6497d26122a0c8383a029215a18"
+  },
+  {
+    "match": "Tottenham – Coventry",
+    "prediction": "1",
+    "odds": 1.45,
+    "status": "Won",
+    "date": "2026-10-19",
+    "hash": "5f4213fcc87672761687c888a9bd599c"
+  },
+  {
+    "match": "Getafe – Vallecano",
+    "prediction": "X2",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-10-19",
+    "hash": "a1da28903dcdeddeee761a55d035af5e"
+  },
+  {
+    "match": "Monza – Cagliari",
+    "prediction": "1X",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-10-19",
+    "hash": "d16b5783dcdab1b5d4e9b3bc0b87f93a"
+  },
+  {
+    "match": "Parma – Torino",
+    "prediction": "X2",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-10-19",
+    "hash": "bacd525912d7bc2ebaf92842cb47a93a"
+  },
+  {
+    "match": "Al-Hilal – Al-Hazm",
+    "prediction": "1",
+    "odds": 1.07,
+    "status": "Won",
+    "date": "2026-10-19",
+    "hash": "64e793095d64729c6ec9ef1f3c49cc8f"
   }
 ]
