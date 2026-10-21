@@ -6426,7 +6426,7 @@
   {
     "match": "Tottenham – Coventry",
     "prediction": "1",
-    "odds": 1.45,
+    "odds": "1.45",
     "status": "Won",
     "date": "2026-10-19",
     "hash": "5f4213fcc87672761687c888a9bd599c"
@@ -6434,7 +6434,7 @@
   {
     "match": "Getafe – Vallecano",
     "prediction": "X2",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-10-19",
     "hash": "a1da28903dcdeddeee761a55d035af5e"
@@ -6442,7 +6442,7 @@
   {
     "match": "Monza – Cagliari",
     "prediction": "1X",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-10-19",
     "hash": "d16b5783dcdab1b5d4e9b3bc0b87f93a"
@@ -6450,7 +6450,7 @@
   {
     "match": "Parma – Torino",
     "prediction": "X2",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-10-19",
     "hash": "bacd525912d7bc2ebaf92842cb47a93a"
@@ -6458,9 +6458,49 @@
   {
     "match": "Al-Hilal – Al-Hazm",
     "prediction": "1",
-    "odds": 1.07,
+    "odds": "1.07",
     "status": "Won",
     "date": "2026-10-19",
     "hash": "64e793095d64729c6ec9ef1f3c49cc8f"
+  },
+  {
+    "match": "Liverpool – Villarreal",
+    "prediction": "1",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-10-20",
+    "hash": "2126e76a6de1d62724104556ef3c6247"
+  },
+  {
+    "match": "Sabah – Dortmund",
+    "prediction": "2",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-10-20",
+    "hash": "d619c1a9ca57c9bcc91a54f4f06d43b2"
+  },
+  {
+    "match": "PSG – Barcelona",
+    "prediction": "BTTS",
+    "odds": 1.2,
+    "status": "Won",
+    "date": "2026-10-20",
+    "hash": "950fd76d2abc4df4c68989de4f133afb"
+  },
+  {
+    "match": "Man City – AEK Athens",
+    "prediction": "1",
+    "odds": 1.1,
+    "status": "Won",
+    "date": "2026-10-20",
+    "hash": "9dbfdef3e03aebf03dab8eda79233bc4"
+  },
+  {
+    "match": "Porto – PSV",
+    "prediction": "1",
+    "odds": 1.55,
+    "status": "Lost",
+    "date": "2026-10-20",
+    "hash": "35fb382a3527b20ba74e63f767040910"
   }
 ]
