@@ -6546,7 +6546,7 @@
   {
     "match": "Ajax – Atalanta",
     "prediction": "1",
-    "odds": 2.1,
+    "odds": "2.1",
     "status": "Won",
     "date": "2026-10-22",
     "hash": "aac9e42db6d7fe11b015a297e3ba314f"
@@ -6554,7 +6554,7 @@
   {
     "match": "Hoffenheim – Lyon",
     "prediction": "1",
-    "odds": 2.0,
+    "odds": "2.0",
     "status": "Won",
     "date": "2026-10-22",
     "hash": "985daf56b67305e2695338fbbe291908"
@@ -6562,7 +6562,7 @@
   {
     "match": "Lincoln – Twente",
     "prediction": "2",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-10-22",
     "hash": "a69d0ad99b092e6d532f7091c43b6b9a"
@@ -6570,7 +6570,7 @@
   {
     "match": "Lech – Sunderland",
     "prediction": "2",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Lost",
     "date": "2026-10-22",
     "hash": "e7d9d4161ab2b0e751fad2bd9d396ff6"
@@ -6578,9 +6578,49 @@
   {
     "match": "NK Celje – Salzburg",
     "prediction": "2",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Lost",
     "date": "2026-10-22",
     "hash": "6ea60db34ea7d58fc4ffc21e93960916"
+  },
+  {
+    "match": "Torino – Monza: BTTS",
+    "prediction": "2",
+    "odds": 1.75,
+    "status": "Won",
+    "date": "2026-10-23",
+    "hash": "3fbe19667aa7fbd255580ddab114caf5"
+  },
+  {
+    "match": "Ipswich – Nottm Forest",
+    "prediction": "BTTS",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-10-23",
+    "hash": "97bbb53917dc3e261989e5ec38eabed6"
+  },
+  {
+    "match": "Bolton – Middlesbrough",
+    "prediction": "2",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-10-23",
+    "hash": "fbb1d91ae3ac9a92fdbb3bf3d30c08e8"
+  },
+  {
+    "match": "Alaves – Málaga",
+    "prediction": "1",
+    "odds": 1.65,
+    "status": "Lost",
+    "date": "2026-10-23",
+    "hash": "58e731a4c73d39556334c951a5e54d05"
+  },
+  {
+    "match": "Stuttgart – Mgladbach",
+    "prediction": "1",
+    "odds": 1.38,
+    "status": "Lost",
+    "date": "2026-10-23",
+    "hash": "d23a57bb39b13d931660b3fefd2bb870"
   }
 ]
