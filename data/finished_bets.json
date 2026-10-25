@@ -6586,7 +6586,7 @@
   {
     "match": "Torino – Monza: BTTS",
     "prediction": "2",
-    "odds": 1.75,
+    "odds": "1.75",
     "status": "Won",
     "date": "2026-10-23",
     "hash": "3fbe19667aa7fbd255580ddab114caf5"
@@ -6594,7 +6594,7 @@
   {
     "match": "Ipswich – Nottm Forest",
     "prediction": "BTTS",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Won",
     "date": "2026-10-23",
     "hash": "97bbb53917dc3e261989e5ec38eabed6"
@@ -6602,7 +6602,7 @@
   {
     "match": "Bolton – Middlesbrough",
     "prediction": "2",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Won",
     "date": "2026-10-23",
     "hash": "fbb1d91ae3ac9a92fdbb3bf3d30c08e8"
@@ -6610,7 +6610,7 @@
   {
     "match": "Alaves – Málaga",
     "prediction": "1",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Lost",
     "date": "2026-10-23",
     "hash": "58e731a4c73d39556334c951a5e54d05"
@@ -6618,9 +6618,49 @@
   {
     "match": "Stuttgart – Mgladbach",
     "prediction": "1",
-    "odds": 1.38,
+    "odds": "1.38",
     "status": "Lost",
     "date": "2026-10-23",
     "hash": "d23a57bb39b13d931660b3fefd2bb870"
+  },
+  {
+    "match": "Como – Sassuolo",
+    "prediction": "1",
+    "odds": 1.45,
+    "status": "Won",
+    "date": "2026-10-24",
+    "hash": "a1031dd2cfe6bb1fe44b704394d2efb9"
+  },
+  {
+    "match": "Arsenal – Everton",
+    "prediction": "1",
+    "odds": 1.44,
+    "status": "Won",
+    "date": "2026-10-24",
+    "hash": "7bd97eb000c982c8583e2d369b4a8d5a"
+  },
+  {
+    "match": "Atlético – Deportivo",
+    "prediction": "1",
+    "odds": 1.27,
+    "status": "Won",
+    "date": "2026-10-24",
+    "hash": "83da1f28bd936e32c24938962ab30f58"
+  },
+  {
+    "match": "Aston Villa – Man City",
+    "prediction": "2",
+    "odds": 1.65,
+    "status": "Lost",
+    "date": "2026-10-24",
+    "hash": "0132b24a7b36100cf9a509b0e204e5f9"
+  },
+  {
+    "match": "Chelsea – Tottenham",
+    "prediction": "1",
+    "odds": 1.8,
+    "status": "Lost",
+    "date": "2026-10-24",
+    "hash": "7cb7d66231e8502b9d69c64ce2024655"
   }
 ]
