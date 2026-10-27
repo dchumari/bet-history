@@ -6666,7 +6666,7 @@
   {
     "match": "Udinese – AC Milan",
     "prediction": "2",
-    "odds": 1.72,
+    "odds": "1.72",
     "status": "Won",
     "date": "2026-10-25",
     "hash": "d168eccc52e356fc3e862eb19e298e8a"
@@ -6674,7 +6674,7 @@
   {
     "match": "Celta Vigo – Betis",
     "prediction": "X2",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-10-25",
     "hash": "bfb268ea27912d2f1fcdee3d9cb75db8"
@@ -6682,7 +6682,7 @@
   {
     "match": "Barcelona – Real Madrid",
     "prediction": "BTTS",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-10-25",
     "hash": "eb1551a9df5902454045eaa4b4e37e29"
@@ -6690,7 +6690,7 @@
   {
     "match": "Man Utd – Bournemouth",
     "prediction": "BTTS",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Lost",
     "date": "2026-10-25",
     "hash": "2cede69a077b85ab79d8bf93c506592e"
@@ -6698,9 +6698,49 @@
   {
     "match": "Liverpool – Brighton",
     "prediction": "BTTS",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Lost",
     "date": "2026-10-25",
     "hash": "e0d8896cb5c1b196d889ed66d7619513"
+  },
+  {
+    "match": "Rizespor – Trabzonspor",
+    "prediction": "2",
+    "odds": 1.95,
+    "status": "Won",
+    "date": "2026-10-26",
+    "hash": "896b9069604012e8c923edffc3ceec45"
+  },
+  {
+    "match": "Sevilla – Osasuna",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Won",
+    "date": "2026-10-26",
+    "hash": "7571bc561802d2e25e460722b88fdb6c"
+  },
+  {
+    "match": "PSG – Lyon",
+    "prediction": "1",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-10-26",
+    "hash": "3fcd3782ee68bea8d219615efbeed368"
+  },
+  {
+    "match": "Santa Clara – Benfica",
+    "prediction": "2",
+    "odds": 1.35,
+    "status": "Won",
+    "date": "2026-10-26",
+    "hash": "c00b2c316ef0e101ff3670f8a3bda024"
+  },
+  {
+    "match": "Copenhagen – OB",
+    "prediction": "1",
+    "odds": 1.45,
+    "status": "Lost",
+    "date": "2026-10-26",
+    "hash": "dc8ce8589624e6abca684e64890c1cd8"
   }
 ]
