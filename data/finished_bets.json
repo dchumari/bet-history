@@ -6706,7 +6706,7 @@
   {
     "match": "Rizespor – Trabzonspor",
     "prediction": "2",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Won",
     "date": "2026-10-26",
     "hash": "896b9069604012e8c923edffc3ceec45"
@@ -6714,7 +6714,7 @@
   {
     "match": "Sevilla – Osasuna",
     "prediction": "1",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Won",
     "date": "2026-10-26",
     "hash": "7571bc561802d2e25e460722b88fdb6c"
@@ -6722,7 +6722,7 @@
   {
     "match": "PSG – Lyon",
     "prediction": "1",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-10-26",
     "hash": "3fcd3782ee68bea8d219615efbeed368"
@@ -6730,7 +6730,7 @@
   {
     "match": "Santa Clara – Benfica",
     "prediction": "2",
-    "odds": 1.35,
+    "odds": "1.35",
     "status": "Won",
     "date": "2026-10-26",
     "hash": "c00b2c316ef0e101ff3670f8a3bda024"
@@ -6738,9 +6738,49 @@
   {
     "match": "Copenhagen – OB",
     "prediction": "1",
-    "odds": 1.45,
+    "odds": "1.45",
     "status": "Lost",
     "date": "2026-10-26",
     "hash": "dc8ce8589624e6abca684e64890c1cd8"
+  },
+  {
+    "match": "Sassuolo – Lazio",
+    "prediction": "2",
+    "odds": 2.15,
+    "status": "Won",
+    "date": "2026-10-27",
+    "hash": "64b7f8fb90edd8b648c225eb8df82d1d"
+  },
+  {
+    "match": "Torino – Como",
+    "prediction": "Over 2.5 goals",
+    "odds": 1.66,
+    "status": "Won",
+    "date": "2026-10-27",
+    "hash": "4cbd18e27f055f0e6110c13cfcbf37e3"
+  },
+  {
+    "match": "Bradford – Peterborough",
+    "prediction": "1",
+    "odds": 1.61,
+    "status": "Won",
+    "date": "2026-10-27",
+    "hash": "46fac04d16e306b40ec721e601dbffed"
+  },
+  {
+    "match": "Roma – Cagliari",
+    "prediction": "1",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-10-27",
+    "hash": "3a6eab922b68b698b0810be27d4df866"
+  },
+  {
+    "match": "Fleetwood – Arsenal",
+    "prediction": "2",
+    "odds": 1.07,
+    "status": "Lost",
+    "date": "2026-10-27",
+    "hash": "55de03944647c19dc58e0b960d0ba167"
   }
 ]
