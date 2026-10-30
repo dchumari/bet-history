@@ -6786,7 +6786,7 @@
   {
     "match": "Monza – Napoli",
     "prediction": "2",
-    "odds": 1.75,
+    "odds": "1.75",
     "status": "Won",
     "date": "2026-10-28",
     "hash": "2039ed156e7ba12d9130cb6ade45699a"
@@ -6794,7 +6794,7 @@
   {
     "match": "Parma – Udinese",
     "prediction": "1X",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Won",
     "date": "2026-10-28",
     "hash": "debc7eaa708f83658fdf08591a1aa7bf"
@@ -6802,7 +6802,7 @@
   {
     "match": "Liverpool – Chelsea",
     "prediction": "BTTS",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Won",
     "date": "2026-10-28",
     "hash": "241089dfed1231dd2afcf3bb684be58f"
@@ -6810,7 +6810,7 @@
   {
     "match": "Venezia – Inter Milan",
     "prediction": "2",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-10-28",
     "hash": "de1a3b5aec8c64da72b21784361a4239"
@@ -6818,9 +6818,49 @@
   {
     "match": "AC Milan – Bologna",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Lost",
     "date": "2026-10-28",
     "hash": "61a3646fe5bba461c116584beb113373"
+  },
+  {
+    "match": "Everton – Newcastle",
+    "prediction": "1",
+    "odds": 2.1,
+    "status": "Won",
+    "date": "2026-10-29",
+    "hash": "edba23add93a949ff676985c04db15de"
+  },
+  {
+    "match": "Vasco – Flamengo",
+    "prediction": "2",
+    "odds": 1.76,
+    "status": "Won",
+    "date": "2026-10-29",
+    "hash": "95d1af486e4cd6685166a5cde55a35cc"
+  },
+  {
+    "match": "Poblense – Ceuta",
+    "prediction": "2",
+    "odds": 1.71,
+    "status": "Won",
+    "date": "2026-10-29",
+    "hash": "a61db5f46cd721579cb5d57d797cb472"
+  },
+  {
+    "match": "Frosinone – Lecce",
+    "prediction": "1",
+    "odds": 1.65,
+    "status": "Won",
+    "date": "2026-10-29",
+    "hash": "24f1754999bb01f4a9057aadc114be1d"
+  },
+  {
+    "match": "Fiorentina – Atalanta",
+    "prediction": "1Х",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-10-29",
+    "hash": "7e53f28caae309a0fe7d220a2f13cef1"
   }
 ]
