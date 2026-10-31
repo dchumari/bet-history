@@ -6826,7 +6826,7 @@
   {
     "match": "Everton – Newcastle",
     "prediction": "1",
-    "odds": 2.1,
+    "odds": "2.1",
     "status": "Won",
     "date": "2026-10-29",
     "hash": "edba23add93a949ff676985c04db15de"
@@ -6834,7 +6834,7 @@
   {
     "match": "Vasco – Flamengo",
     "prediction": "2",
-    "odds": 1.76,
+    "odds": "1.76",
     "status": "Won",
     "date": "2026-10-29",
     "hash": "95d1af486e4cd6685166a5cde55a35cc"
@@ -6842,7 +6842,7 @@
   {
     "match": "Poblense – Ceuta",
     "prediction": "2",
-    "odds": 1.71,
+    "odds": "1.71",
     "status": "Won",
     "date": "2026-10-29",
     "hash": "a61db5f46cd721579cb5d57d797cb472"
@@ -6850,7 +6850,7 @@
   {
     "match": "Frosinone – Lecce",
     "prediction": "1",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Won",
     "date": "2026-10-29",
     "hash": "24f1754999bb01f4a9057aadc114be1d"
@@ -6858,9 +6858,49 @@
   {
     "match": "Fiorentina – Atalanta",
     "prediction": "1Х",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Won",
     "date": "2026-10-29",
     "hash": "7e53f28caae309a0fe7d220a2f13cef1"
+  },
+  {
+    "match": "Konyaspor – Galatasaray",
+    "prediction": "2",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-10-30",
+    "hash": "f55cc1a3e7b504857bd87d95d070e0d5"
+  },
+  {
+    "match": "Elversberg – Mainz",
+    "prediction": "BTTS",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-10-30",
+    "hash": "97f340678de01f20217eab54e7bc245a"
+  },
+  {
+    "match": "Le Havre – PSG",
+    "prediction": "2",
+    "odds": 1.27,
+    "status": "Won",
+    "date": "2026-10-30",
+    "hash": "f9b0a0fe018bd11ae7d562706beb853d"
+  },
+  {
+    "match": "Lille – Lens",
+    "prediction": "X2",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-10-30",
+    "hash": "a5f28139cb9ecb45b378f2ce379d3250"
+  },
+  {
+    "match": "Villarreal – Espanyol",
+    "prediction": "1",
+    "odds": 1.42,
+    "status": "Lost",
+    "date": "2026-10-30",
+    "hash": "cb54688a55b6186777b96136a539c55a"
   }
 ]
