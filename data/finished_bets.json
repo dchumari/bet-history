@@ -6906,7 +6906,7 @@
   {
     "match": "Chelsea – Man Utd",
     "prediction": "1",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Won",
     "date": "2026-10-31",
     "hash": "5147e73277aeb229a921b335fc7948c4"
@@ -6914,7 +6914,7 @@
   {
     "match": "Porto – Estoril",
     "prediction": "1",
-    "odds": 1.13,
+    "odds": "1.13",
     "status": "Won",
     "date": "2026-10-31",
     "hash": "ad72ddecf2630412967a6aa8962865a0"
@@ -6922,7 +6922,7 @@
   {
     "match": "Barcelona – Alaves",
     "prediction": "1",
-    "odds": 1.1,
+    "odds": "1.1",
     "status": "Won",
     "date": "2026-10-31",
     "hash": "dfd02378bda753b72002b3d623ce8452"
@@ -6930,7 +6930,7 @@
   {
     "match": "Man City – Brighton",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Lost",
     "date": "2026-10-31",
     "hash": "8245c39c570692ce9b33975f1ccdd0ab"
@@ -6938,9 +6938,49 @@
   {
     "match": "Aston Villa – Fulham",
     "prediction": "1",
-    "odds": 2.0,
+    "odds": "2.0",
     "status": "Lost",
     "date": "2026-10-31",
     "hash": "7773c6db34457d3a79b481973808cb28"
+  },
+  {
+    "match": "Frankfurt – Hamburger",
+    "prediction": "1",
+    "odds": 1.55,
+    "status": "Won",
+    "date": "2026-11-01",
+    "hash": "608bfb8783f1062ca45c2c1ec71093ce"
+  },
+  {
+    "match": "Lazio – Cagliari",
+    "prediction": "1",
+    "odds": 1.42,
+    "status": "Won",
+    "date": "2026-11-01",
+    "hash": "38b389c0afdc7abafb768becf15fa385"
+  },
+  {
+    "match": "Como – Venezia",
+    "prediction": "1",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-11-01",
+    "hash": "532753bd2b66c595efc85e8d89b2e193"
+  },
+  {
+    "match": "Santander – Real Madrid",
+    "prediction": "2",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-11-01",
+    "hash": "6ffba55bd75bbe59b8a7867941659801"
+  },
+  {
+    "match": "Liverpool – Arsenal",
+    "prediction": "BTTS",
+    "odds": 1.66,
+    "status": "Lost",
+    "date": "2026-11-01",
+    "hash": "e9046981ea9cd4e3c246152339263d29"
   }
 ]
