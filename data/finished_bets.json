@@ -6946,7 +6946,7 @@
   {
     "match": "Frankfurt – Hamburger",
     "prediction": "1",
-    "odds": 1.55,
+    "odds": "1.55",
     "status": "Won",
     "date": "2026-11-01",
     "hash": "608bfb8783f1062ca45c2c1ec71093ce"
@@ -6954,7 +6954,7 @@
   {
     "match": "Lazio – Cagliari",
     "prediction": "1",
-    "odds": 1.42,
+    "odds": "1.42",
     "status": "Won",
     "date": "2026-11-01",
     "hash": "38b389c0afdc7abafb768becf15fa385"
@@ -6962,7 +6962,7 @@
   {
     "match": "Como – Venezia",
     "prediction": "1",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-11-01",
     "hash": "532753bd2b66c595efc85e8d89b2e193"
@@ -6970,7 +6970,7 @@
   {
     "match": "Santander – Real Madrid",
     "prediction": "2",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-11-01",
     "hash": "6ffba55bd75bbe59b8a7867941659801"
@@ -6978,9 +6978,49 @@
   {
     "match": "Liverpool – Arsenal",
     "prediction": "BTTS",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Lost",
     "date": "2026-11-01",
     "hash": "e9046981ea9cd4e3c246152339263d29"
+  },
+  {
+    "match": "Deportivo – Osasuna",
+    "prediction": "1",
+    "odds": 2.15,
+    "status": "Won",
+    "date": "2026-11-02",
+    "hash": "8df6b7392a6134ca5be515fd972ad134"
+  },
+  {
+    "match": "Benfica – Alverca",
+    "prediction": "1",
+    "odds": 1.13,
+    "status": "Won",
+    "date": "2026-11-02",
+    "hash": "9f9dc1407419eaf0a49bd88a0bf09012"
+  },
+  {
+    "match": "Lorient – Brest",
+    "prediction": "BTTS",
+    "odds": 1.8,
+    "status": "Lost",
+    "date": "2026-11-02",
+    "hash": "241386a15d779b8284b21db0d68ff3bc"
+  },
+  {
+    "match": "Atalanta – Parma",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-11-02",
+    "hash": "8c2eba425766ee5a33c2ced1b84f8b79"
+  },
+  {
+    "match": "Newcastle – Everton",
+    "prediction": "1X",
+    "odds": 1.36,
+    "status": "Lost",
+    "date": "2026-11-02",
+    "hash": "4aa3500b5a1a4a71481407535a87d66e"
   }
 ]
