@@ -7026,7 +7026,7 @@
   {
     "match": "Atletico Madrid – Bayern",
     "prediction": "2",
-    "odds": 2.45,
+    "odds": "2.45",
     "status": "Won",
     "date": "2026-11-03",
     "hash": "29263805e3e2319bae3dde7d3fd22006"
@@ -7034,7 +7034,7 @@
   {
     "match": "Galatasaray – Stuttgart",
     "prediction": "1",
-    "odds": 2.15,
+    "odds": "2.15",
     "status": "Won",
     "date": "2026-11-03",
     "hash": "aa63cfeea245785300dbda87d455ae94"
@@ -7042,7 +7042,7 @@
   {
     "match": "Feyenoord – Inter",
     "prediction": "2",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Won",
     "date": "2026-11-03",
     "hash": "06c6d619680d1f000ad76295d8717d83"
@@ -7050,7 +7050,7 @@
   {
     "match": "Villarreal – PSG",
     "prediction": "2",
-    "odds": 1.65,
+    "odds": "1.65",
     "status": "Won",
     "date": "2026-11-03",
     "hash": "5b67987c959826c692df255b670f4edf"
@@ -7058,9 +7058,49 @@
   {
     "match": "Man Utd – Roma",
     "prediction": "BTTS",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Won",
     "date": "2026-11-03",
     "hash": "3f77cc833c36728266ebfb70608af178"
+  },
+  {
+    "match": "AEK – Real Madrid",
+    "prediction": "2",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-11-04",
+    "hash": "ae6921921e1816aa7efb7ca848b0bc28"
+  },
+  {
+    "match": "Porto – Napoli",
+    "prediction": "1",
+    "odds": 1.95,
+    "status": "Won",
+    "date": "2026-11-04",
+    "hash": "a238826a5eb09cdacf851b2d5b322590"
+  },
+  {
+    "match": "Leipzig – Man City",
+    "prediction": "2",
+    "odds": 1.55,
+    "status": "Won",
+    "date": "2026-11-04",
+    "hash": "4f0ddc864155b2e85897e8dc0ca10e7a"
+  },
+  {
+    "match": "Slavia Prague – Arsenal",
+    "prediction": "2",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-11-04",
+    "hash": "877798298e2c606ae4978bed30a9461b"
+  },
+  {
+    "match": "Fenerbahce – Liverpool",
+    "prediction": "2",
+    "odds": 1.48,
+    "status": "Lost",
+    "date": "2026-11-04",
+    "hash": "bacc8129a1c2cbb0cdf8755b9817c500"
   }
 ]
