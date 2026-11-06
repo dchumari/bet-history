@@ -7066,7 +7066,7 @@
   {
     "match": "AEK – Real Madrid",
     "prediction": "2",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-11-04",
     "hash": "ae6921921e1816aa7efb7ca848b0bc28"
@@ -7074,7 +7074,7 @@
   {
     "match": "Porto – Napoli",
     "prediction": "1",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Won",
     "date": "2026-11-04",
     "hash": "a238826a5eb09cdacf851b2d5b322590"
@@ -7082,7 +7082,7 @@
   {
     "match": "Leipzig – Man City",
     "prediction": "2",
-    "odds": 1.55,
+    "odds": "1.55",
     "status": "Won",
     "date": "2026-11-04",
     "hash": "4f0ddc864155b2e85897e8dc0ca10e7a"
@@ -7090,7 +7090,7 @@
   {
     "match": "Slavia Prague – Arsenal",
     "prediction": "2",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-11-04",
     "hash": "877798298e2c606ae4978bed30a9461b"
@@ -7098,9 +7098,49 @@
   {
     "match": "Fenerbahce – Liverpool",
     "prediction": "2",
-    "odds": 1.48,
+    "odds": "1.48",
     "status": "Lost",
     "date": "2026-11-04",
     "hash": "bacc8129a1c2cbb0cdf8755b9817c500"
+  },
+  {
+    "match": "AZ Alkmaar – Juventus",
+    "prediction": "2",
+    "odds": 1.95,
+    "status": "Won",
+    "date": "2026-11-05",
+    "hash": "dce4d1718b9e9b51d788abe70bd1d0ad"
+  },
+  {
+    "match": "Sparta – Bournemouth",
+    "prediction": "2",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-11-05",
+    "hash": "43319ce97094864ca51b718082e52393"
+  },
+  {
+    "match": "Benfica – Lech Poznan",
+    "prediction": "1",
+    "odds": 1.15,
+    "status": "Won",
+    "date": "2026-11-05",
+    "hash": "c6381dd8f97c399c463bb83128d8f789"
+  },
+  {
+    "match": "Real Sociedad – Lyon",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Lost",
+    "date": "2026-11-05",
+    "hash": "a6fb83307ca225138491c7d82cea2861"
+  },
+  {
+    "match": "AC Milan – Ferencvaros",
+    "prediction": "1",
+    "odds": 1.35,
+    "status": "Lost",
+    "date": "2026-11-05",
+    "hash": "d9189a1f850fc34c253fe15a38ba0cdc"
   }
 ]
