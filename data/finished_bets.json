@@ -7106,7 +7106,7 @@
   {
     "match": "AZ Alkmaar – Juventus",
     "prediction": "2",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Won",
     "date": "2026-11-05",
     "hash": "dce4d1718b9e9b51d788abe70bd1d0ad"
@@ -7114,7 +7114,7 @@
   {
     "match": "Sparta – Bournemouth",
     "prediction": "2",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-11-05",
     "hash": "43319ce97094864ca51b718082e52393"
@@ -7122,7 +7122,7 @@
   {
     "match": "Benfica – Lech Poznan",
     "prediction": "1",
-    "odds": 1.15,
+    "odds": "1.15",
     "status": "Won",
     "date": "2026-11-05",
     "hash": "c6381dd8f97c399c463bb83128d8f789"
@@ -7130,7 +7130,7 @@
   {
     "match": "Real Sociedad – Lyon",
     "prediction": "1",
-    "odds": 1.7,
+    "odds": "1.7",
     "status": "Lost",
     "date": "2026-11-05",
     "hash": "a6fb83307ca225138491c7d82cea2861"
@@ -7138,9 +7138,49 @@
   {
     "match": "AC Milan – Ferencvaros",
     "prediction": "1",
-    "odds": 1.35,
+    "odds": "1.35",
     "status": "Lost",
     "date": "2026-11-05",
     "hash": "d9189a1f850fc34c253fe15a38ba0cdc"
+  },
+  {
+    "match": "Everton – Coventry",
+    "prediction": "BTTS",
+    "odds": 1.7,
+    "status": "Won",
+    "date": "2026-11-06",
+    "hash": "dfd5ea0ae7f6844bf325d1433267a971"
+  },
+  {
+    "match": "Hamburger – Gladbach",
+    "prediction": "BTTS",
+    "odds": 1.53,
+    "status": "Won",
+    "date": "2026-11-06",
+    "hash": "33893f0d9c6638337789cb4eae924341"
+  },
+  {
+    "match": "Venezia – Udinese",
+    "prediction": "1X",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-11-06",
+    "hash": "ad736944340c0459b8b5cc32447c9ff9"
+  },
+  {
+    "match": "Rapid Vienna – Pellets",
+    "prediction": "1",
+    "odds": 1.24,
+    "status": "Won",
+    "date": "2026-11-06",
+    "hash": "87bb8a3c5ece50a418fca8052834b51d"
+  },
+  {
+    "match": "Sevilla – Alaves",
+    "prediction": "1",
+    "odds": 1.9,
+    "status": "Lost",
+    "date": "2026-11-06",
+    "hash": "8fccee321020fd09127050ddcb8270a0"
   }
 ]
