@@ -7186,7 +7186,7 @@
   {
     "match": "Mainz – Bayern Munich",
     "prediction": "2",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-11-07",
     "hash": "1738b6ff334d099d394679c854888e0f"
@@ -7194,7 +7194,7 @@
   {
     "match": "Arsenal – Hull",
     "prediction": "1",
-    "odds": 1.16,
+    "odds": "1.16",
     "status": "Won",
     "date": "2026-11-07",
     "hash": "a71d62e43febb4255074bc37903898ba"
@@ -7202,7 +7202,7 @@
   {
     "match": "PSG – Troyes",
     "prediction": "1",
-    "odds": 1.12,
+    "odds": "1.12",
     "status": "Won",
     "date": "2026-11-07",
     "hash": "20391c0ceb4ae103fcb96fafc7e237b0"
@@ -7210,7 +7210,7 @@
   {
     "match": "Osasuna – Athletic Bilbao",
     "prediction": "2",
-    "odds": 2.0,
+    "odds": "2.0",
     "status": "Lost",
     "date": "2026-11-07",
     "hash": "d3c90df48f4447a19058a7e9d209d72a"
@@ -7218,9 +7218,49 @@
   {
     "match": "Nottm Forest – Man City",
     "prediction": "2",
-    "odds": 1.75,
+    "odds": "1.75",
     "status": "Lost",
     "date": "2026-11-07",
     "hash": "b3d94d792207ec19f505f131b72713f3"
+  },
+  {
+    "match": "Brighton – Brentford",
+    "prediction": "1",
+    "odds": 1.83,
+    "status": "Won",
+    "date": "2026-11-08",
+    "hash": "330c3906e16e3d79499888b0ce93bafb"
+  },
+  {
+    "match": "Napoli – Lazio",
+    "prediction": "BTTS",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-11-08",
+    "hash": "8d47a836b5b4a7d945d72ce8425d23d7"
+  },
+  {
+    "match": "Man Utd – Aston Villa",
+    "prediction": "BTTS",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-11-08",
+    "hash": "7db48435ca0c73fc3e44c20173c74179"
+  },
+  {
+    "match": "Sunderland – Chelsea",
+    "prediction": "2",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-11-08",
+    "hash": "ea525814d59dc22effea0c307246083b"
+  },
+  {
+    "match": "Inter – Como",
+    "prediction": "BTTS",
+    "odds": 1.44,
+    "status": "Lost",
+    "date": "2026-11-08",
+    "hash": "432cfd4e8e80fc5fade251597412f075"
   }
 ]
