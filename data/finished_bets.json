@@ -7226,7 +7226,7 @@
   {
     "match": "Brighton – Brentford",
     "prediction": "1",
-    "odds": 1.83,
+    "odds": "1.83",
     "status": "Won",
     "date": "2026-11-08",
     "hash": "330c3906e16e3d79499888b0ce93bafb"
@@ -7234,7 +7234,7 @@
   {
     "match": "Napoli – Lazio",
     "prediction": "BTTS",
-    "odds": 1.57,
+    "odds": "1.57",
     "status": "Won",
     "date": "2026-11-08",
     "hash": "8d47a836b5b4a7d945d72ce8425d23d7"
@@ -7242,7 +7242,7 @@
   {
     "match": "Man Utd – Aston Villa",
     "prediction": "BTTS",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-11-08",
     "hash": "7db48435ca0c73fc3e44c20173c74179"
@@ -7250,7 +7250,7 @@
   {
     "match": "Sunderland – Chelsea",
     "prediction": "2",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Lost",
     "date": "2026-11-08",
     "hash": "ea525814d59dc22effea0c307246083b"
@@ -7258,9 +7258,49 @@
   {
     "match": "Inter – Como",
     "prediction": "BTTS",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Lost",
     "date": "2026-11-08",
     "hash": "432cfd4e8e80fc5fade251597412f075"
+  },
+  {
+    "match": "Atletico W – Badalona W",
+    "prediction": "1",
+    "odds": 1.42,
+    "status": "Won",
+    "date": "2026-11-09",
+    "hash": "a4a0013141a598537e55e148adb5ed6e"
+  },
+  {
+    "match": "Aurora – Univ de Vinto",
+    "prediction": "1",
+    "odds": 1.765,
+    "status": "Lost",
+    "date": "2026-11-09",
+    "hash": "5c83b4afb5ea2b096ecf8eaf76c6394e"
+  },
+  {
+    "match": "Las Palmas – Eldense",
+    "prediction": "Over 2.5 goals",
+    "odds": 1.75,
+    "status": "Lost",
+    "date": "2026-11-09",
+    "hash": "014a76211814008e3a188399c0b86794"
+  },
+  {
+    "match": "WBA U21 – Bromley U21",
+    "prediction": "1",
+    "odds": 1.44,
+    "status": "Lost",
+    "date": "2026-11-09",
+    "hash": "6f111cdf25f60a7b2b2726f4a70f3e61"
+  },
+  {
+    "match": "Kristiansund – Valerenga",
+    "prediction": "BTTS",
+    "odds": 1.36,
+    "status": "Lost",
+    "date": "2026-11-09",
+    "hash": "21458ca40239bcb72fc3a5fb42f606c1"
   }
 ]
