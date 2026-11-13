@@ -7346,7 +7346,7 @@
   {
     "match": "Benfica W – Austria W",
     "prediction": "1X",
-    "odds": 1.12,
+    "odds": "1.12",
     "status": "Unknown",
     "date": "2026-11-11",
     "hash": "98f42c220ff254dc75e2c6b4b579528b"
@@ -7354,7 +7354,7 @@
   {
     "match": "Barnsley – Oldham",
     "prediction": "1",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Won",
     "date": "2026-11-11",
     "hash": "e5f8cd4a94540d3dc1e51427706c4b61"
@@ -7362,7 +7362,7 @@
   {
     "match": "Andorra U19 – Poland U19",
     "prediction": "2",
-    "odds": 1.07,
+    "odds": "1.07",
     "status": "Won",
     "date": "2026-11-11",
     "hash": "a75ff9c77ab0a183659d1bc0f2d733f8"
@@ -7370,7 +7370,7 @@
   {
     "match": "La Luz – Centro Atletico",
     "prediction": "X",
-    "odds": 2.45,
+    "odds": "2.45",
     "status": "Lost",
     "date": "2026-11-11",
     "hash": "e96e38890f4e09650f0822418b8a0eaa"
@@ -7378,9 +7378,57 @@
   {
     "match": "Bangladesh – Sri Lanka",
     "prediction": "Under 2.5 goals",
-    "odds": 1.8,
+    "odds": "1.8",
     "status": "Lost",
     "date": "2026-11-11",
     "hash": "75c093089e9e0db99bc2432efa687314"
+  },
+  {
+    "match": "Albania – Finland",
+    "prediction": "1",
+    "odds": 2.0,
+    "status": "Won",
+    "date": "2026-11-12",
+    "hash": "df803c8391f529bd8820df37e108aa37"
+  },
+  {
+    "match": "Türkiye – Belgium",
+    "prediction": "2",
+    "odds": 1.8,
+    "status": "Won",
+    "date": "2026-11-12",
+    "hash": "a4c56a0ce57e63be34781dfc6d387e57"
+  },
+  {
+    "match": "Czechia – Spain",
+    "prediction": "2",
+    "odds": 1.18,
+    "status": "Won",
+    "date": "2026-11-12",
+    "hash": "2d52ceb39fd690ac3dcf51ad0010a08d"
+  },
+  {
+    "match": "England – Croatia",
+    "prediction": "1",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-11-12",
+    "hash": "88b63f2d974c43f9028a5be78eb59113"
+  },
+  {
+    "match": "Italy – France",
+    "prediction": "2",
+    "odds": 1.9,
+    "status": "Lost",
+    "date": "2026-11-12",
+    "hash": "82d595dede2e46a3d9acc19a8b12eda6"
+  },
+  {
+    "match": "Benfica W – Austria W",
+    "prediction": "1X",
+    "odds": 1.12,
+    "status": "Won",
+    "date": "2026-11-12",
+    "hash": "2f77b54e8fb662fb5134b9656e5e329d"
   }
 ]
