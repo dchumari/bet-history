@@ -7434,7 +7434,7 @@
   {
     "match": "Netherlands – Greece",
     "prediction": "1",
-    "odds": 1.55,
+    "odds": "1.55",
     "status": "Won",
     "date": "2026-11-13",
     "hash": "98caf68d54ec58d75d9cd2dc26642a71"
@@ -7442,7 +7442,7 @@
   {
     "match": "Serbia – Germany",
     "prediction": "2",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-11-13",
     "hash": "1ab9cd6edd1ca2392b19b9484d67d462"
@@ -7450,7 +7450,7 @@
   {
     "match": "Scotland – N. Macedonia",
     "prediction": "1",
-    "odds": 1.18,
+    "odds": "1.18",
     "status": "Won",
     "date": "2026-11-13",
     "hash": "361491548230cb0291998f91d122e0d5"
@@ -7458,7 +7458,7 @@
   {
     "match": "Slovenia – Switzerland",
     "prediction": "2",
-    "odds": 1.72,
+    "odds": "1.72",
     "status": "Lost",
     "date": "2026-11-13",
     "hash": "eb311122aaaec012cf28e5aec1bd2578"
@@ -7466,9 +7466,49 @@
   {
     "match": "Luxembourg – Estonia",
     "prediction": "1X",
-    "odds": 1.36,
+    "odds": "1.36",
     "status": "Lost",
     "date": "2026-11-13",
     "hash": "9bf9c4675ef0dacc2391cf726cdbb2af"
+  },
+  {
+    "match": "Almeria – Andorra",
+    "prediction": "1",
+    "odds": 1.66,
+    "status": "Won",
+    "date": "2026-11-14",
+    "hash": "54ab2f4cb660a965d218c0ebad821d5b"
+  },
+  {
+    "match": "Georgia – Hungary",
+    "prediction": "X2",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-11-14",
+    "hash": "83640f9b122b5b4a5dc79beb786cba40"
+  },
+  {
+    "match": "Norway – Wales",
+    "prediction": "1",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-11-14",
+    "hash": "314cb191b9e64a909832902a4c8c693b"
+  },
+  {
+    "match": "Mallorca – Cordoba",
+    "prediction": "1",
+    "odds": 1.91,
+    "status": "Lost",
+    "date": "2026-11-14",
+    "hash": "d203722e71c649e6e50ed15c9ebc5c2a"
+  },
+  {
+    "match": "Romania – Poland",
+    "prediction": "2",
+    "odds": 1.85,
+    "status": "Lost",
+    "date": "2026-11-14",
+    "hash": "ad03d137634469a94eabfa64ece238b3"
   }
 ]
