@@ -7514,7 +7514,7 @@
   {
     "match": "Granada – Las Palmas",
     "prediction": "1",
-    "odds": 1.96,
+    "odds": "1.96",
     "status": "Won",
     "date": "2026-11-15",
     "hash": "6d6bb1d26bed4547174554ebfb1d7718"
@@ -7522,7 +7522,7 @@
   {
     "match": "Belgium – Italy",
     "prediction": "BTTS",
-    "odds": 1.53,
+    "odds": "1.53",
     "status": "Won",
     "date": "2026-11-15",
     "hash": "23c8f107f4408559363aa6b11f8a6c89"
@@ -7530,7 +7530,7 @@
   {
     "match": "France – Türkiye",
     "prediction": "1",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-11-15",
     "hash": "1e05b3acee15eb83931392aca1eb8080"
@@ -7538,7 +7538,7 @@
   {
     "match": "Finland – San Marino",
     "prediction": "1",
-    "odds": 1.04,
+    "odds": "1.04",
     "status": "Won",
     "date": "2026-11-15",
     "hash": "6e444b24329feaff0abe8653c2cbcfe0"
@@ -7546,9 +7546,49 @@
   {
     "match": "Spain – England",
     "prediction": "1",
-    "odds": 1.75,
+    "odds": "1.75",
     "status": "Lost",
     "date": "2026-11-15",
     "hash": "dd67b5e9a676ce419621663dee2c86d9"
+  },
+  {
+    "match": "Switzerland – Scotland",
+    "prediction": "1",
+    "odds": 1.75,
+    "status": "Won",
+    "date": "2026-11-16",
+    "hash": "f70b2d71192cc4902f31fbb3809e37c4"
+  },
+  {
+    "match": "Albacete – Celta Vigo B",
+    "prediction": "1",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-11-16",
+    "hash": "280f97fdb278321f627becf3c1a7f4b8"
+  },
+  {
+    "match": "Greece – Serbia",
+    "prediction": "1",
+    "odds": 1.42,
+    "status": "Won",
+    "date": "2026-11-16",
+    "hash": "938224e64d8867d94a2badb1b2b3ddb8"
+  },
+  {
+    "match": "Kazakhstan – Slovakia",
+    "prediction": "2",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-11-16",
+    "hash": "40702b972cce99c85bfd05427eaeee29"
+  },
+  {
+    "match": "Germany – Netherlands",
+    "prediction": "BTTS",
+    "odds": 1.4,
+    "status": "Lost",
+    "date": "2026-11-16",
+    "hash": "d8484b95c16dbaa817e5b8d709d7fd52"
   }
 ]
