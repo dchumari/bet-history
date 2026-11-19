@@ -7594,7 +7594,7 @@
   {
     "match": "Bosnia – Romania",
     "prediction": "1",
-    "odds": 1.9,
+    "odds": "1.9",
     "status": "Won",
     "date": "2026-11-17",
     "hash": "56cc21c1df89dfd9b943f2cd09ac969b"
@@ -7602,7 +7602,7 @@
   {
     "match": "Qatar – South Korea",
     "prediction": "2",
-    "odds": 1.48,
+    "odds": "1.48",
     "status": "Won",
     "date": "2026-11-17",
     "hash": "fe88c5a7434a8ad98e211631acbd6355"
@@ -7610,7 +7610,7 @@
   {
     "match": "Denmark – Norway",
     "prediction": "BTTS",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-11-17",
     "hash": "e730f55c30da375255e7eb84d37b99ee"
@@ -7618,7 +7618,7 @@
   {
     "match": "Hungary – N. Ireland",
     "prediction": "1X",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-11-17",
     "hash": "d8e54c9bf3dfec409f79d441d0347711"
@@ -7626,9 +7626,49 @@
   {
     "match": "Israel – Austria",
     "prediction": "2",
-    "odds": 1.75,
+    "odds": "1.75",
     "status": "Lost",
     "date": "2026-11-17",
     "hash": "2be9b3dad9ed252625987fb62e09576a"
+  },
+  {
+    "match": "Flamengo – Athletico-PR",
+    "prediction": "Under 3.5 goals",
+    "odds": 1.61,
+    "status": "Won",
+    "date": "2026-11-18",
+    "hash": "c4bd5a57f2e8ecbf8de5926e73bce7a4"
+  },
+  {
+    "match": "Alianza Atletico – Melgar",
+    "prediction": "Under 3.5 goals",
+    "odds": 1.44,
+    "status": "Won",
+    "date": "2026-11-18",
+    "hash": "38038aebc4ac7ca3646b617cb0f40e97"
+  },
+  {
+    "match": "Real Madrid W – Inter W",
+    "prediction": "Under 4.5 goals",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-11-18",
+    "hash": "5b5a957b5cadedbbdaf469dcf3614699"
+  },
+  {
+    "match": "Juventus W – Leuven W",
+    "prediction": "Under 4.5 goals @ 1.40",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-11-18",
+    "hash": "4e47d4e20abd8040cc90e8438c7eea7c"
+  },
+  {
+    "match": "Atenas – Centro Atletico Fenix",
+    "prediction": "Under 2.5 goals",
+    "odds": 1.61,
+    "status": "Lost",
+    "date": "2026-11-18",
+    "hash": "58ea637abda9cbc25ca90029cdf09b56"
   }
 ]
