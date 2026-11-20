@@ -7634,7 +7634,7 @@
   {
     "match": "Flamengo – Athletico-PR",
     "prediction": "Under 3.5 goals",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Won",
     "date": "2026-11-18",
     "hash": "c4bd5a57f2e8ecbf8de5926e73bce7a4"
@@ -7642,7 +7642,7 @@
   {
     "match": "Alianza Atletico – Melgar",
     "prediction": "Under 3.5 goals",
-    "odds": 1.44,
+    "odds": "1.44",
     "status": "Won",
     "date": "2026-11-18",
     "hash": "38038aebc4ac7ca3646b617cb0f40e97"
@@ -7650,7 +7650,7 @@
   {
     "match": "Real Madrid W – Inter W",
     "prediction": "Under 4.5 goals",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-11-18",
     "hash": "5b5a957b5cadedbbdaf469dcf3614699"
@@ -7658,7 +7658,7 @@
   {
     "match": "Juventus W – Leuven W",
     "prediction": "Under 4.5 goals @ 1.40",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-11-18",
     "hash": "4e47d4e20abd8040cc90e8438c7eea7c"
@@ -7666,9 +7666,49 @@
   {
     "match": "Atenas – Centro Atletico Fenix",
     "prediction": "Under 2.5 goals",
-    "odds": 1.61,
+    "odds": "1.61",
     "status": "Lost",
     "date": "2026-11-18",
     "hash": "58ea637abda9cbc25ca90029cdf09b56"
+  },
+  {
+    "match": "Seattle – Real Salt Lake",
+    "prediction": "BTTS",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-11-19",
+    "hash": "e664d9d17792cdc57af419ae34f49dff"
+  },
+  {
+    "match": "Orlando – Cincinnati",
+    "prediction": "BTTS",
+    "odds": 1.28,
+    "status": "Won",
+    "date": "2026-11-19",
+    "hash": "25a32158a942de009dcdd38e9e9d2882"
+  },
+  {
+    "match": "Paris W – Koge W",
+    "prediction": "Under 4.5 goals",
+    "odds": 1.25,
+    "status": "Won",
+    "date": "2026-11-19",
+    "hash": "68904120e1a40d97a8fbe7705939ceec"
+  },
+  {
+    "match": "Barcelona W – Servette W",
+    "prediction": "Over 4.5 goals",
+    "odds": 1.22,
+    "status": "Won",
+    "date": "2026-11-19",
+    "hash": "161db0f96f34179e7a9b0d698f1458be"
+  },
+  {
+    "match": "Austria W – Bayern W",
+    "prediction": "2",
+    "odds": 1.08,
+    "status": "Won",
+    "date": "2026-11-19",
+    "hash": "671a02e475c33e384973595577c3125e"
   }
 ]
