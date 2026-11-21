@@ -7674,7 +7674,7 @@
   {
     "match": "Seattle – Real Salt Lake",
     "prediction": "BTTS",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Won",
     "date": "2026-11-19",
     "hash": "e664d9d17792cdc57af419ae34f49dff"
@@ -7682,7 +7682,7 @@
   {
     "match": "Orlando – Cincinnati",
     "prediction": "BTTS",
-    "odds": 1.28,
+    "odds": "1.28",
     "status": "Won",
     "date": "2026-11-19",
     "hash": "25a32158a942de009dcdd38e9e9d2882"
@@ -7690,7 +7690,7 @@
   {
     "match": "Paris W – Koge W",
     "prediction": "Under 4.5 goals",
-    "odds": 1.25,
+    "odds": "1.25",
     "status": "Won",
     "date": "2026-11-19",
     "hash": "68904120e1a40d97a8fbe7705939ceec"
@@ -7698,7 +7698,7 @@
   {
     "match": "Barcelona W – Servette W",
     "prediction": "Over 4.5 goals",
-    "odds": 1.22,
+    "odds": "1.22",
     "status": "Won",
     "date": "2026-11-19",
     "hash": "161db0f96f34179e7a9b0d698f1458be"
@@ -7706,9 +7706,49 @@
   {
     "match": "Austria W – Bayern W",
     "prediction": "2",
-    "odds": 1.08,
+    "odds": "1.08",
     "status": "Won",
     "date": "2026-11-19",
     "hash": "671a02e475c33e384973595577c3125e"
+  },
+  {
+    "match": "Barnsley – Sheff Wed",
+    "prediction": "2",
+    "odds": 2.1,
+    "status": "Won",
+    "date": "2026-11-20",
+    "hash": "4966271e87ac898ea53f8afcc0186c5f"
+  },
+  {
+    "match": "Troyes – Le Havre",
+    "prediction": "1X",
+    "odds": 1.33,
+    "status": "Won",
+    "date": "2026-11-20",
+    "hash": "09edc20c3e9c5ac3d2c23f98c7c1b6de"
+  },
+  {
+    "match": "Al Ittihad – Al Sharjah",
+    "prediction": "BTTS",
+    "odds": 1.66,
+    "status": "Lost",
+    "date": "2026-11-20",
+    "hash": "088e7feeec064cc40263d3b6223e0ae3"
+  },
+  {
+    "match": "Athletic Bilbao – Espanyol",
+    "prediction": "1",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-11-20",
+    "hash": "57b49a10e5e7dbabfb3d45a7522df241"
+  },
+  {
+    "match": "Bayern Munich – FC Köln",
+    "prediction": "1",
+    "odds": 1.07,
+    "status": "Lost",
+    "date": "2026-11-20",
+    "hash": "ac0a86e31ef4f727f57778b51f68f062"
   }
 ]
