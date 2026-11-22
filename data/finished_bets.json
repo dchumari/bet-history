@@ -7714,7 +7714,7 @@
   {
     "match": "Barnsley – Sheff Wed",
     "prediction": "2",
-    "odds": 2.1,
+    "odds": "2.1",
     "status": "Won",
     "date": "2026-11-20",
     "hash": "4966271e87ac898ea53f8afcc0186c5f"
@@ -7722,7 +7722,7 @@
   {
     "match": "Troyes – Le Havre",
     "prediction": "1X",
-    "odds": 1.33,
+    "odds": "1.33",
     "status": "Won",
     "date": "2026-11-20",
     "hash": "09edc20c3e9c5ac3d2c23f98c7c1b6de"
@@ -7730,7 +7730,7 @@
   {
     "match": "Al Ittihad – Al Sharjah",
     "prediction": "BTTS",
-    "odds": 1.66,
+    "odds": "1.66",
     "status": "Lost",
     "date": "2026-11-20",
     "hash": "088e7feeec064cc40263d3b6223e0ae3"
@@ -7738,7 +7738,7 @@
   {
     "match": "Athletic Bilbao – Espanyol",
     "prediction": "1",
-    "odds": 1.5,
+    "odds": "1.5",
     "status": "Lost",
     "date": "2026-11-20",
     "hash": "57b49a10e5e7dbabfb3d45a7522df241"
@@ -7746,9 +7746,49 @@
   {
     "match": "Bayern Munich – FC Köln",
     "prediction": "1",
-    "odds": 1.07,
+    "odds": "1.07",
     "status": "Lost",
     "date": "2026-11-20",
     "hash": "ac0a86e31ef4f727f57778b51f68f062"
+  },
+  {
+    "match": "Lazio – Lecce",
+    "prediction": "1",
+    "odds": 1.4,
+    "status": "Won",
+    "date": "2026-11-21",
+    "hash": "e9f72f77dd8745efd3264833e84afa11"
+  },
+  {
+    "match": "Real Madrid – Celta",
+    "prediction": "1",
+    "odds": 1.16,
+    "status": "Won",
+    "date": "2026-11-21",
+    "hash": "f3989e88323b1c8e0a2b9d524d9e39bd"
+  },
+  {
+    "match": "Chelsea – Leeds",
+    "prediction": "1",
+    "odds": 1.95,
+    "status": "Lost",
+    "date": "2026-11-21",
+    "hash": "4f90708352ccf18207566040795d48c7"
+  },
+  {
+    "match": "Aston Villa – Sunderland",
+    "prediction": "1",
+    "odds": 1.75,
+    "status": "Lost",
+    "date": "2026-11-21",
+    "hash": "69a323fa57980dec5f46036eef95ad91"
+  },
+  {
+    "match": "Man City – Fulham",
+    "prediction": "1",
+    "odds": 1.38,
+    "status": "Lost",
+    "date": "2026-11-21",
+    "hash": "859c8573288f71c49575d0b25fe5cf5f"
   }
 ]
