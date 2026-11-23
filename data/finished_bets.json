@@ -7754,7 +7754,7 @@
   {
     "match": "Lazio – Lecce",
     "prediction": "1",
-    "odds": 1.4,
+    "odds": "1.4",
     "status": "Won",
     "date": "2026-11-21",
     "hash": "e9f72f77dd8745efd3264833e84afa11"
@@ -7762,7 +7762,7 @@
   {
     "match": "Real Madrid – Celta",
     "prediction": "1",
-    "odds": 1.16,
+    "odds": "1.16",
     "status": "Won",
     "date": "2026-11-21",
     "hash": "f3989e88323b1c8e0a2b9d524d9e39bd"
@@ -7770,7 +7770,7 @@
   {
     "match": "Chelsea – Leeds",
     "prediction": "1",
-    "odds": 1.95,
+    "odds": "1.95",
     "status": "Lost",
     "date": "2026-11-21",
     "hash": "4f90708352ccf18207566040795d48c7"
@@ -7778,7 +7778,7 @@
   {
     "match": "Aston Villa – Sunderland",
     "prediction": "1",
-    "odds": 1.75,
+    "odds": "1.75",
     "status": "Lost",
     "date": "2026-11-21",
     "hash": "69a323fa57980dec5f46036eef95ad91"
@@ -7786,9 +7786,49 @@
   {
     "match": "Man City – Fulham",
     "prediction": "1",
-    "odds": 1.38,
+    "odds": "1.38",
     "status": "Lost",
     "date": "2026-11-21",
     "hash": "859c8573288f71c49575d0b25fe5cf5f"
+  },
+  {
+    "match": "Getafe – Atletico Madrid",
+    "prediction": "2",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-11-22",
+    "hash": "92cbf02ebe4d89d5e9b25220fbc6a231"
+  },
+  {
+    "match": "Barcelona – Villarreal",
+    "prediction": "1",
+    "odds": 1.18,
+    "status": "Won",
+    "date": "2026-11-22",
+    "hash": "a37bc2e7b573386376e90d159693b14e"
+  },
+  {
+    "match": "Bologna – Udinese",
+    "prediction": "1",
+    "odds": 1.7,
+    "status": "Lost",
+    "date": "2026-11-22",
+    "hash": "872141fdc755393c80ccbb76c1d00bb9"
+  },
+  {
+    "match": "Liverpool – Man Utd",
+    "prediction": "BTTS",
+    "odds": 1.53,
+    "status": "Lost",
+    "date": "2026-11-22",
+    "hash": "bd941916bad60ae839c670c8ce307525"
+  },
+  {
+    "match": "Hull – Brighton",
+    "prediction": "2",
+    "odds": 1.5,
+    "status": "Lost",
+    "date": "2026-11-22",
+    "hash": "d41f8d9e8894cdf51948ee5656ceaa72"
   }
 ]
