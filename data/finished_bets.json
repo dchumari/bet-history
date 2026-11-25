@@ -7830,5 +7830,45 @@
     "status": "Lost",
     "date": "2026-11-22",
     "hash": "d41f8d9e8894cdf51948ee5656ceaa72"
+  },
+  {
+    "match": "Basaksehir – Corum",
+    "prediction": "1",
+    "odds": 1.8,
+    "status": "Won",
+    "date": "2026-11-24",
+    "hash": "7b85f3634289b8acd89352efbe4f0601"
+  },
+  {
+    "match": "Uni de Vinto – GV San Jose",
+    "prediction": "1",
+    "odds": 1.57,
+    "status": "Won",
+    "date": "2026-11-24",
+    "hash": "3e6908900656fcab68b584a7b6ec4efe"
+  },
+  {
+    "match": "Brentford – Everton",
+    "prediction": "1X",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-11-24",
+    "hash": "9d0938f0a3547036435101a1762ac5bb"
+  },
+  {
+    "match": "Levante – Elche",
+    "prediction": "1X",
+    "odds": 1.36,
+    "status": "Won",
+    "date": "2026-11-24",
+    "hash": "35764b4ca0a008d839cb2ad932f9762f"
+  },
+  {
+    "match": "Monza – Fiorentina",
+    "prediction": "X2",
+    "odds": 1.25,
+    "status": "Lost",
+    "date": "2026-11-24",
+    "hash": "b78e56a5e86c71165684fad9d2b0fb50"
   }
 ]
