@@ -7870,5 +7870,69 @@
     "status": "Lost",
     "date": "2026-11-24",
     "hash": "b78e56a5e86c71165684fad9d2b0fb50"
+  },
+  {
+    "match": "Sparta – AZ Alkmaar",
+    "prediction": "2",
+    "odds": 2.25,
+    "status": "Won",
+    "date": "2026-11-26",
+    "hash": "15f0b773356e0886528c00973957ec26"
+  },
+  {
+    "match": "Celta – Bournemouth",
+    "prediction": "2",
+    "odds": 2.1,
+    "status": "Won",
+    "date": "2026-11-26",
+    "hash": "6d280e4918cee625569b3cd79f94984e"
+  },
+  {
+    "match": "Freiburg – Twente",
+    "prediction": "BTTS",
+    "odds": 1.5,
+    "status": "Won",
+    "date": "2026-11-26",
+    "hash": "550429e2b142567b432473a87c7cab43"
+  },
+  {
+    "match": "Jablonec – Lugano",
+    "prediction": "2",
+    "odds": 2.1,
+    "status": "Lost",
+    "date": "2026-11-26",
+    "hash": "6b1d5fdf39e19b5ab85632d941e45eeb"
+  },
+  {
+    "match": "Iberia – Getafe",
+    "prediction": "2",
+    "odds": 1.44,
+    "status": "Lost",
+    "date": "2026-11-26",
+    "hash": "31ed791ab45c98837f08d55fb2ebc399"
+  },
+  {
+    "match": "Sporting – Man Utd",
+    "prediction": "BTTS",
+    "odds": 1.44,
+    "status": "Won",
+    "date": "2026-11-26",
+    "hash": "777ad6e57743a4ad0b697d23ee7d39e5"
+  },
+  {
+    "match": "Atletico Madrid – Viking",
+    "prediction": "1",
+    "odds": 1.1,
+    "status": "Won",
+    "date": "2026-11-26",
+    "hash": "f0cd21f18a9c82a6ba9c41fbba7f8b43"
+  },
+  {
+    "match": "Sabah – Barcelona",
+    "prediction": "2",
+    "odds": 1.09,
+    "status": "Won",
+    "date": "2026-11-26",
+    "hash": "6fba30e54917182f487700d8bb8e73d0"
   }
 ]
